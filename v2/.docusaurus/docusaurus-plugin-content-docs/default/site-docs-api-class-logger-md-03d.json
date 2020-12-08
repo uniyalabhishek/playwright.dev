@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-logger",
+  "id": "api/class-logger",
+  "isDocsHomePage": false,
+  "title": "class: Logger",
+  "description": "Playwright generates a lot of logs and they are accessible via the pluggable logger sink.",
+  "source": "@site/docs/api/class-logger.md",
+  "slug": "/api/class-logger",
+  "permalink": "/playwright/docs/next/api/class-logger",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/api/class-logger.md",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "class: BrowserType",
+    "permalink": "/playwright/docs/next/api/class-browsertype"
+  },
+  "next": {
+    "title": "class: ChromiumBrowser",
+    "permalink": "/playwright/docs/next/api/class-chromiumbrowser"
+  }
+}

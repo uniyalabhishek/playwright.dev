@@ -1,0 +1,21 @@
+{
+  "unversionedId": "verification",
+  "id": "version-1.6.1/verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Videos",
+  "source": "@site/versioned_docs/version-1.6.1/verification.md",
+  "slug": "/verification",
+  "permalink": "/playwright/docs/1.6.1/verification",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.1/verification.md",
+  "version": "1.6.1",
+  "sidebar": "version-1.6.1/docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/playwright/docs/1.6.1/assertions"
+  },
+  "next": {
+    "title": "Navigations",
+    "permalink": "/playwright/docs/1.6.1/navigations"
+  }
+}

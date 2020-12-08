@@ -1,0 +1,16 @@
+{
+  "permalink": "/playwright/blog/hello-world",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+  "source": "@site/blog/2019-05-29-hello-world.md",
+  "description": "Playwright 1.6 is available today, with improvements to network capabilities: inspect WebSocket connections, export network activity as HAR and access resource timing for network responses. This release also adds a new API for touchscreen taps. Like other input methods, touchscreen taps auto-wait for the underlying element to be ready, to improve the reliability of automation.",
+  "date": "2019-05-29T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "releases",
+      "permalink": "/playwright/blog/tags/releases"
+    }
+  ],
+  "title": "Playwright 1.6",
+  "readingTime": 0.34,
+  "truncated": true
+}

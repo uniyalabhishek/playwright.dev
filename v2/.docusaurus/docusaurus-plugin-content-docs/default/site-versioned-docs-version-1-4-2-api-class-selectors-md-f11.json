@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-selectors",
+  "id": "version-1.4.2/api/class-selectors",
+  "isDocsHomePage": false,
+  "title": "class: Selectors",
+  "description": "Selectors can be used to install custom selector engines. See Working with selectors for more information.",
+  "source": "@site/versioned_docs/version-1.4.2/api/class-selectors.md",
+  "slug": "/api/class-selectors",
+  "permalink": "/playwright/docs/1.4.2/api/class-selectors",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.4.2/api/class-selectors.md",
+  "version": "1.4.2",
+  "sidebar": "version-1.4.2/api",
+  "previous": {
+    "title": "class: Response",
+    "permalink": "/playwright/docs/1.4.2/api/class-response"
+  },
+  "next": {
+    "title": "class: Route",
+    "permalink": "/playwright/docs/1.4.2/api/class-route"
+  }
+}

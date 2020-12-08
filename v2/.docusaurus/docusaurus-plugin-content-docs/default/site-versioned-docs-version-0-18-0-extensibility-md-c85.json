@@ -1,0 +1,21 @@
+{
+  "unversionedId": "extensibility",
+  "id": "version-0.18.0/extensibility",
+  "isDocsHomePage": false,
+  "title": "Extensibility",
+  "description": "Contents",
+  "source": "@site/versioned_docs/version-0.18.0/extensibility.md",
+  "slug": "/extensibility",
+  "permalink": "/playwright/docs/0.18.0/extensibility",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-0.18.0/extensibility.md",
+  "version": "0.18.0",
+  "sidebar": "version-0.18.0/docs",
+  "previous": {
+    "title": "Selector engines",
+    "permalink": "/playwright/docs/0.18.0/selectors"
+  },
+  "next": {
+    "title": "Playwright API <!-- GEN:version -->v0.18.0<!-- GEN:stop–>",
+    "permalink": "/playwright/docs/0.18.0/api"
+  }
+}

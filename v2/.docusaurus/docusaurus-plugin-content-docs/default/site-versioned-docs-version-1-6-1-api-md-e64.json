@@ -1,0 +1,12 @@
+{
+  "unversionedId": "api",
+  "id": "version-1.6.1/api",
+  "isDocsHomePage": false,
+  "title": "Playwright API <!-- GEN:version -->v1.6.1<!-- GEN:stop–>",
+  "description": "Table of Contents",
+  "source": "@site/versioned_docs/version-1.6.1/api.md",
+  "slug": "/api",
+  "permalink": "/playwright/docs/1.6.1/api",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.1/api.md",
+  "version": "1.6.1"
+}

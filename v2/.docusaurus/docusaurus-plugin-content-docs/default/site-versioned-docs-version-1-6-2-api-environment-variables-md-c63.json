@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/environment-variables",
+  "id": "version-1.6.2/api/environment-variables",
+  "isDocsHomePage": false,
+  "title": "Environment Variables",
+  "description": "NOTE playwright-core does not respect environment variables.",
+  "source": "@site/versioned_docs/version-1.6.2/api/environment-variables.md",
+  "slug": "/api/environment-variables",
+  "permalink": "/playwright/docs/api/environment-variables",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.2/api/environment-variables.md",
+  "version": "1.6.2",
+  "sidebar": "version-1.6.2/api",
+  "previous": {
+    "title": "EvaluationArgument",
+    "permalink": "/playwright/docs/api/evaluationargument"
+  },
+  "next": {
+    "title": "Working with selectors",
+    "permalink": "/playwright/docs/api/working-with-selectors"
+  }
+}

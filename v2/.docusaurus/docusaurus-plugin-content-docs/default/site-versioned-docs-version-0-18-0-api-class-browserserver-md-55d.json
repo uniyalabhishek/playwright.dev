@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-browserserver",
+  "id": "version-0.18.0/api/class-browserserver",
+  "isDocsHomePage": false,
+  "title": "class: BrowserServer",
+  "description": "- event: 'close'",
+  "source": "@site/versioned_docs/version-0.18.0/api/class-browserserver.md",
+  "slug": "/api/class-browserserver",
+  "permalink": "/playwright/docs/0.18.0/api/class-browserserver",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-0.18.0/api/class-browserserver.md",
+  "version": "0.18.0",
+  "sidebar": "version-0.18.0/api",
+  "previous": {
+    "title": "class: Worker",
+    "permalink": "/playwright/docs/0.18.0/api/class-worker"
+  },
+  "next": {
+    "title": "class: BrowserType",
+    "permalink": "/playwright/docs/0.18.0/api/class-browsertype"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-page",
+  "id": "version-1.6.1/api/class-page",
+  "isDocsHomePage": false,
+  "title": "class: Page",
+  "description": "* extends: EventEmitter",
+  "source": "@site/versioned_docs/version-1.6.1/api/class-page.md",
+  "slug": "/api/class-page",
+  "permalink": "/playwright/docs/1.6.1/api/class-page",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.1/api/class-page.md",
+  "version": "1.6.1",
+  "sidebar": "version-1.6.1/api",
+  "previous": {
+    "title": "class: BrowserContext",
+    "permalink": "/playwright/docs/1.6.1/api/class-browsercontext"
+  },
+  "next": {
+    "title": "class: Frame",
+    "permalink": "/playwright/docs/1.6.1/api/class-frame"
+  }
+}

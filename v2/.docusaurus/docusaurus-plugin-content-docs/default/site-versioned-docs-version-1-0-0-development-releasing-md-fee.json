@@ -1,0 +1,12 @@
+{
+  "unversionedId": "development/releasing",
+  "id": "version-1.0.0/development/releasing",
+  "isDocsHomePage": false,
+  "title": "1. Create a release branch",
+  "description": "1. Bump a version to the new -post version and land a chore: cut vX.Y.Z-post version commit",
+  "source": "@site/versioned_docs/version-1.0.0/development/releasing.md",
+  "slug": "/development/releasing",
+  "permalink": "/playwright/docs/1.0.0/development/releasing",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.0.0/development/releasing.md",
+  "version": "1.0.0"
+}

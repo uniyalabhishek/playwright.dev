@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-request",
+  "id": "version-1.6.2/api/class-request",
+  "isDocsHomePage": false,
+  "title": "class: Request",
+  "description": "Whenever the page sends a request for a network resource the following sequence of events are emitted by [Page]:",
+  "source": "@site/versioned_docs/version-1.6.2/api/class-request.md",
+  "slug": "/api/class-request",
+  "permalink": "/playwright/docs/api/class-request",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.2/api/class-request.md",
+  "version": "1.6.2",
+  "sidebar": "version-1.6.2/api",
+  "previous": {
+    "title": "class: Touchscreen",
+    "permalink": "/playwright/docs/api/class-touchscreen"
+  },
+  "next": {
+    "title": "class: Response",
+    "permalink": "/playwright/docs/api/class-response"
+  }
+}

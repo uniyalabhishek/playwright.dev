@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-download",
+  "id": "api/class-download",
+  "isDocsHomePage": false,
+  "title": "class: Download",
+  "description": "Download] objects are dispatched by page via the [page.on('download') event.",
+  "source": "@site/docs/api/class-download.md",
+  "slug": "/api/class-download",
+  "permalink": "/playwright/docs/next/api/class-download",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/api/class-download.md",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "class: Dialog",
+    "permalink": "/playwright/docs/next/api/class-dialog"
+  },
+  "next": {
+    "title": "class: Video",
+    "permalink": "/playwright/docs/next/api/class-video"
+  }
+}

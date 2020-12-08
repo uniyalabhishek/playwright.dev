@@ -1,0 +1,21 @@
+{
+  "unversionedId": "auth",
+  "id": "auth",
+  "isDocsHomePage": false,
+  "title": "Authentication",
+  "description": "Playwright can be used to automate scenarios that require authentication.",
+  "source": "@site/docs/auth.md",
+  "slug": "/auth",
+  "permalink": "/playwright/docs/next/auth",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/auth.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Multi-page scenarios",
+    "permalink": "/playwright/docs/next/multi-pages"
+  },
+  "next": {
+    "title": "Page Object Models",
+    "permalink": "/playwright/docs/next/pom"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-touchscreen",
+  "id": "version-1.6.2/api/class-touchscreen",
+  "isDocsHomePage": false,
+  "title": "class: Touchscreen",
+  "description": "The Touchscreen class operates in main-frame CSS pixels relative to the top-left corner of the viewport. Methods on the",
+  "source": "@site/versioned_docs/version-1.6.2/api/class-touchscreen.md",
+  "slug": "/api/class-touchscreen",
+  "permalink": "/playwright/docs/api/class-touchscreen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.2/api/class-touchscreen.md",
+  "version": "1.6.2",
+  "sidebar": "version-1.6.2/api",
+  "previous": {
+    "title": "class: Mouse",
+    "permalink": "/playwright/docs/api/class-mouse"
+  },
+  "next": {
+    "title": "class: Request",
+    "permalink": "/playwright/docs/api/class-request"
+  }
+}

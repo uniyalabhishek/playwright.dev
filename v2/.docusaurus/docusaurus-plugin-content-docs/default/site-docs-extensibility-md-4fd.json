@@ -1,0 +1,17 @@
+{
+  "unversionedId": "extensibility",
+  "id": "extensibility",
+  "isDocsHomePage": false,
+  "title": "Extensibility",
+  "description": "- Custom selector engines",
+  "source": "@site/docs/extensibility.md",
+  "slug": "/extensibility",
+  "permalink": "/playwright/docs/next/extensibility",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/extensibility.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Advanced installation",
+    "permalink": "/playwright/docs/next/installation"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "README",
+  "id": "version-1.2.0/README",
+  "isDocsHomePage": false,
+  "title": "Documentation",
+  "description": "Table of contents",
+  "source": "@site/versioned_docs/version-1.2.0/README.md",
+  "slug": "/README",
+  "permalink": "/playwright/docs/1.2.0/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.2.0/README.md",
+  "version": "1.2.0"
+}

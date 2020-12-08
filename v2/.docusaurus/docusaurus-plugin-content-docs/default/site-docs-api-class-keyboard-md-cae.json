@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-keyboard",
+  "id": "api/class-keyboard",
+  "isDocsHomePage": false,
+  "title": "class: Keyboard",
+  "description": "Keyboard provides an api for managing a virtual keyboard. The high level api is keyboard.type(text[, options]), which takes raw",
+  "source": "@site/docs/api/class-keyboard.md",
+  "slug": "/api/class-keyboard",
+  "permalink": "/playwright/docs/next/api/class-keyboard",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/api/class-keyboard.md",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "class: FileChooser",
+    "permalink": "/playwright/docs/next/api/class-filechooser"
+  },
+  "next": {
+    "title": "class: Mouse",
+    "permalink": "/playwright/docs/next/api/class-mouse"
+  }
+}

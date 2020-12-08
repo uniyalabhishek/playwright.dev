@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-cdpsession",
+  "id": "version-1.2.0/api/class-cdpsession",
+  "isDocsHomePage": false,
+  "title": "class: CDPSession",
+  "description": "* extends: EventEmitter",
+  "source": "@site/versioned_docs/version-1.2.0/api/class-cdpsession.md",
+  "slug": "/api/class-cdpsession",
+  "permalink": "/playwright/docs/1.2.0/api/class-cdpsession",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.2.0/api/class-cdpsession.md",
+  "version": "1.2.0",
+  "sidebar": "version-1.2.0/api",
+  "previous": {
+    "title": "class: ChromiumCoverage",
+    "permalink": "/playwright/docs/1.2.0/api/class-chromiumcoverage"
+  },
+  "next": {
+    "title": "class: FirefoxBrowser",
+    "permalink": "/playwright/docs/1.2.0/api/class-firefoxbrowser"
+  }
+}

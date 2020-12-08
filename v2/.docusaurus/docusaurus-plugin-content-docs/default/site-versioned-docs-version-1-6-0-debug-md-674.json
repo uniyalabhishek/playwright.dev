@@ -1,0 +1,21 @@
+{
+  "unversionedId": "debug",
+  "id": "version-1.6.0/debug",
+  "isDocsHomePage": false,
+  "title": "Debugging tools",
+  "description": "Playwright scripts work with existing debugging tools, like Node.js debuggers",
+  "source": "@site/versioned_docs/version-1.6.0/debug.md",
+  "slug": "/debug",
+  "permalink": "/playwright/docs/1.6.0/debug",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.0/debug.md",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/docs",
+  "previous": {
+    "title": "Core concepts",
+    "permalink": "/playwright/docs/1.6.0/core-concepts"
+  },
+  "next": {
+    "title": "Supported languages",
+    "permalink": "/playwright/docs/1.6.0/languages"
+  }
+}

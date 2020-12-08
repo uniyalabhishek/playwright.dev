@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-jshandle",
+  "id": "version-1.5.0/api/class-jshandle",
+  "isDocsHomePage": false,
+  "title": "class: JSHandle",
+  "description": "JSHandle represents an in-page JavaScript object. JSHandles can be created with the page.evaluateHandle method.",
+  "source": "@site/versioned_docs/version-1.5.0/api/class-jshandle.md",
+  "slug": "/api/class-jshandle",
+  "permalink": "/playwright/docs/1.5.0/api/class-jshandle",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.5.0/api/class-jshandle.md",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/api",
+  "previous": {
+    "title": "class: ElementHandle",
+    "permalink": "/playwright/docs/1.5.0/api/class-elementhandle"
+  },
+  "next": {
+    "title": "class: ConsoleMessage",
+    "permalink": "/playwright/docs/1.5.0/api/class-consolemessage"
+  }
+}

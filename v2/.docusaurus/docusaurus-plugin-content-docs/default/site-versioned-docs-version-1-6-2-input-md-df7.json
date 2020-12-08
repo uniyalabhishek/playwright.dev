@@ -1,0 +1,21 @@
+{
+  "unversionedId": "input",
+  "id": "version-1.6.2/input",
+  "isDocsHomePage": false,
+  "title": "Input",
+  "description": "- Text input",
+  "source": "@site/versioned_docs/version-1.6.2/input.md",
+  "slug": "/input",
+  "permalink": "/playwright/docs/input",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.2/input.md",
+  "version": "1.6.2",
+  "sidebar": "version-1.6.2/docs",
+  "previous": {
+    "title": "Element selectors",
+    "permalink": "/playwright/docs/selectors"
+  },
+  "next": {
+    "title": "Device and environment emulation",
+    "permalink": "/playwright/docs/emulation"
+  }
+}

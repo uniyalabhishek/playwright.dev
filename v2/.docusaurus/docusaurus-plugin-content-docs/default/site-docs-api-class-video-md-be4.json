@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-video",
+  "id": "api/class-video",
+  "isDocsHomePage": false,
+  "title": "class: Video",
+  "description": "When browser context is created with the videosPath option, each page has a video object associated with it.",
+  "source": "@site/docs/api/class-video.md",
+  "slug": "/api/class-video",
+  "permalink": "/playwright/docs/next/api/class-video",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/api/class-video.md",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "class: Download",
+    "permalink": "/playwright/docs/next/api/class-download"
+  },
+  "next": {
+    "title": "class: FileChooser",
+    "permalink": "/playwright/docs/next/api/class-filechooser"
+  }
+}

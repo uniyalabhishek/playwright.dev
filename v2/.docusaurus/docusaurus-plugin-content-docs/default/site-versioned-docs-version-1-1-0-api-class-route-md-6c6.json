@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-route",
+  "id": "version-1.1.0/api/class-route",
+  "isDocsHomePage": false,
+  "title": "class: Route",
+  "description": "Whenever a network route is set up with page.route(url, handler) or browserContext.route(url, handler), the Route object allows to handle the route.",
+  "source": "@site/versioned_docs/version-1.1.0/api/class-route.md",
+  "slug": "/api/class-route",
+  "permalink": "/playwright/docs/1.1.0/api/class-route",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.0/api/class-route.md",
+  "version": "1.1.0",
+  "sidebar": "version-1.1.0/api",
+  "previous": {
+    "title": "class: Selectors",
+    "permalink": "/playwright/docs/1.1.0/api/class-selectors"
+  },
+  "next": {
+    "title": "class: TimeoutError",
+    "permalink": "/playwright/docs/1.1.0/api/class-timeouterror"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-mouse",
+  "id": "version-1.6.0/api/class-mouse",
+  "isDocsHomePage": false,
+  "title": "class: Mouse",
+  "description": "The Mouse class operates in main-frame CSS pixels relative to the top-left corner of the viewport.",
+  "source": "@site/versioned_docs/version-1.6.0/api/class-mouse.md",
+  "slug": "/api/class-mouse",
+  "permalink": "/playwright/docs/1.6.0/api/class-mouse",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.0/api/class-mouse.md",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/api",
+  "previous": {
+    "title": "class: Keyboard",
+    "permalink": "/playwright/docs/1.6.0/api/class-keyboard"
+  },
+  "next": {
+    "title": "class: Touchscreen",
+    "permalink": "/playwright/docs/1.6.0/api/class-touchscreen"
+  }
+}

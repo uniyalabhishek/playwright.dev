@@ -1,0 +1,21 @@
+{
+  "unversionedId": "verification",
+  "id": "version-1.2.0/verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Screenshots",
+  "source": "@site/versioned_docs/version-1.2.0/verification.md",
+  "slug": "/verification",
+  "permalink": "/playwright/docs/1.2.0/verification",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.2.0/verification.md",
+  "version": "1.2.0",
+  "sidebar": "version-1.2.0/docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/playwright/docs/1.2.0/assertions"
+  },
+  "next": {
+    "title": "Navigation and loading",
+    "permalink": "/playwright/docs/1.2.0/loading"
+  }
+}

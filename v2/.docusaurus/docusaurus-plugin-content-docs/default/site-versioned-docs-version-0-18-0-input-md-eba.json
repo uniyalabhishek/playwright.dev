@@ -1,0 +1,21 @@
+{
+  "unversionedId": "input",
+  "id": "version-0.18.0/input",
+  "isDocsHomePage": false,
+  "title": "Input",
+  "description": "Contents",
+  "source": "@site/versioned_docs/version-0.18.0/input.md",
+  "slug": "/input",
+  "permalink": "/playwright/docs/0.18.0/input",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-0.18.0/input.md",
+  "version": "0.18.0",
+  "sidebar": "version-0.18.0/docs",
+  "previous": {
+    "title": "Core concepts",
+    "permalink": "/playwright/docs/0.18.0/core-concepts"
+  },
+  "next": {
+    "title": "Device and environment emulation",
+    "permalink": "/playwright/docs/0.18.0/emulation"
+  }
+}

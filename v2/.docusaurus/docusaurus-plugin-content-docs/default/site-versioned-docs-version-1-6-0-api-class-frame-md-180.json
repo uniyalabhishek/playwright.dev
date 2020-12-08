@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-frame",
+  "id": "version-1.6.0/api/class-frame",
+  "isDocsHomePage": false,
+  "title": "class: Frame",
+  "description": "At every point of time, page exposes its current frame tree via the page.mainFrame() and frame.childFrames() methods.",
+  "source": "@site/versioned_docs/version-1.6.0/api/class-frame.md",
+  "slug": "/api/class-frame",
+  "permalink": "/playwright/docs/1.6.0/api/class-frame",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.0/api/class-frame.md",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/api",
+  "previous": {
+    "title": "class: Page",
+    "permalink": "/playwright/docs/1.6.0/api/class-page"
+  },
+  "next": {
+    "title": "class: ElementHandle",
+    "permalink": "/playwright/docs/1.6.0/api/class-elementhandle"
+  }
+}

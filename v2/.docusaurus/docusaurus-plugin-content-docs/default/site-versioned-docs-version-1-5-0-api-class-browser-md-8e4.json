@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-browser",
+  "id": "version-1.5.0/api/class-browser",
+  "isDocsHomePage": false,
+  "title": "class: Browser",
+  "description": "* extends: EventEmitter",
+  "source": "@site/versioned_docs/version-1.5.0/api/class-browser.md",
+  "slug": "/api/class-browser",
+  "permalink": "/playwright/docs/1.5.0/api/class-browser",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.5.0/api/class-browser.md",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/api",
+  "previous": {
+    "title": "Playwright module",
+    "permalink": "/playwright/docs/1.5.0/api/playwright-module"
+  },
+  "next": {
+    "title": "class: BrowserContext",
+    "permalink": "/playwright/docs/1.5.0/api/class-browsercontext"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-firefoxbrowser",
+  "id": "version-1.5.2/api/class-firefoxbrowser",
+  "isDocsHomePage": false,
+  "title": "class: FirefoxBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/versioned_docs/version-1.5.2/api/class-firefoxbrowser.md",
+  "slug": "/api/class-firefoxbrowser",
+  "permalink": "/playwright/docs/1.5.2/api/class-firefoxbrowser",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.5.2/api/class-firefoxbrowser.md",
+  "version": "1.5.2",
+  "sidebar": "version-1.5.2/api",
+  "previous": {
+    "title": "class: CDPSession",
+    "permalink": "/playwright/docs/1.5.2/api/class-cdpsession"
+  },
+  "next": {
+    "title": "class: WebKitBrowser",
+    "permalink": "/playwright/docs/1.5.2/api/class-webkitbrowser"
+  }
+}

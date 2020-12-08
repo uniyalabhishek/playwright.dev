@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/working-with-selectors",
+  "id": "version-1.5.0/api/working-with-selectors",
+  "isDocsHomePage": false,
+  "title": "Working with selectors",
+  "description": "Selector describes an element in the page. It can be used to obtain ElementHandle (see page.$() for example) or shortcut element operations to avoid intermediate handle (see page.click() for example).",
+  "source": "@site/versioned_docs/version-1.5.0/api/working-with-selectors.md",
+  "slug": "/api/working-with-selectors",
+  "permalink": "/playwright/docs/1.5.0/api/working-with-selectors",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.5.0/api/working-with-selectors.md",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/api",
+  "previous": {
+    "title": "Environment Variables",
+    "permalink": "/playwright/docs/1.5.0/api/environment-variables"
+  },
+  "next": {
+    "title": "Working with Chrome Extensions",
+    "permalink": "/playwright/docs/1.5.0/api/working-with-chrome-extensions"
+  }
+}

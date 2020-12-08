@@ -1,0 +1,17 @@
+{
+  "unversionedId": "api/working-with-chrome-extensions",
+  "id": "version-1.4.2/api/working-with-chrome-extensions",
+  "isDocsHomePage": false,
+  "title": "Working with Chrome Extensions",
+  "description": "Playwright can be used for testing Chrome Extensions.",
+  "source": "@site/versioned_docs/version-1.4.2/api/working-with-chrome-extensions.md",
+  "slug": "/api/working-with-chrome-extensions",
+  "permalink": "/playwright/docs/1.4.2/api/working-with-chrome-extensions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.4.2/api/working-with-chrome-extensions.md",
+  "version": "1.4.2",
+  "sidebar": "version-1.4.2/api",
+  "previous": {
+    "title": "Working with selectors",
+    "permalink": "/playwright/docs/1.4.2/api/working-with-selectors"
+  }
+}

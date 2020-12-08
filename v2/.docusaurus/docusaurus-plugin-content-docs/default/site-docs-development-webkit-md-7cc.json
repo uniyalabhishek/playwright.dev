@@ -1,0 +1,12 @@
+{
+  "unversionedId": "development/webkit",
+  "id": "development/webkit",
+  "isDocsHomePage": false,
+  "title": "WebKit build flags",
+  "description": "- - bundled, but we don't necessarily need it",
+  "source": "@site/docs/development/webkit.md",
+  "slug": "/development/webkit",
+  "permalink": "/playwright/docs/next/development/webkit",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/development/webkit.md",
+  "version": "current"
+}

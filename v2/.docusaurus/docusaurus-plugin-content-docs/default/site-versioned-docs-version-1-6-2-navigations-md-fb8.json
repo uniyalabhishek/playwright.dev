@@ -1,0 +1,21 @@
+{
+  "unversionedId": "navigations",
+  "id": "version-1.6.2/navigations",
+  "isDocsHomePage": false,
+  "title": "Navigations",
+  "description": "Playwright can navigate to URLs and handle navigations caused by page interactions. This guide covers common scenarios to wait for page navigations and loading to complete.",
+  "source": "@site/versioned_docs/version-1.6.2/navigations.md",
+  "slug": "/navigations",
+  "permalink": "/playwright/docs/navigations",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.2/navigations.md",
+  "version": "1.6.2",
+  "sidebar": "version-1.6.2/docs",
+  "previous": {
+    "title": "Verification",
+    "permalink": "/playwright/docs/verification"
+  },
+  "next": {
+    "title": "Multi-page scenarios",
+    "permalink": "/playwright/docs/multi-pages"
+  }
+}

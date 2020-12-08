@@ -1,0 +1,21 @@
+{
+  "unversionedId": "assertions",
+  "id": "assertions",
+  "isDocsHomePage": false,
+  "title": "Assertions",
+  "description": "The Playwright API can be used to read element contents and properties for test assertions. These values are fetched from the browser page and asserted in",
+  "source": "@site/docs/assertions.md",
+  "slug": "/assertions",
+  "permalink": "/playwright/docs/next/assertions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/assertions.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Network",
+    "permalink": "/playwright/docs/next/network"
+  },
+  "next": {
+    "title": "Verification",
+    "permalink": "/playwright/docs/next/verification"
+  }
+}

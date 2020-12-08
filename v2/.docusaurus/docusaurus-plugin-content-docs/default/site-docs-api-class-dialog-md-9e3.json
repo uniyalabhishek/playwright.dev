@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-dialog",
+  "id": "api/class-dialog",
+  "isDocsHomePage": false,
+  "title": "class: Dialog",
+  "description": "Dialog] objects are dispatched by page via the [page.on('dialog') event.",
+  "source": "@site/docs/api/class-dialog.md",
+  "slug": "/api/class-dialog",
+  "permalink": "/playwright/docs/next/api/class-dialog",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/api/class-dialog.md",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "class: ConsoleMessage",
+    "permalink": "/playwright/docs/next/api/class-consolemessage"
+  },
+  "next": {
+    "title": "class: Download",
+    "permalink": "/playwright/docs/next/api/class-download"
+  }
+}

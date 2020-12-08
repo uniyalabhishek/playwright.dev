@@ -1,0 +1,21 @@
+{
+  "unversionedId": "emulation",
+  "id": "emulation",
+  "isDocsHomePage": false,
+  "title": "Device and environment emulation",
+  "description": "Playwright allows overriding various parameters of the device where the browser is running:",
+  "source": "@site/docs/emulation.md",
+  "slug": "/emulation",
+  "permalink": "/playwright/docs/next/emulation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/emulation.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Input",
+    "permalink": "/playwright/docs/next/input"
+  },
+  "next": {
+    "title": "Network",
+    "permalink": "/playwright/docs/next/network"
+  }
+}

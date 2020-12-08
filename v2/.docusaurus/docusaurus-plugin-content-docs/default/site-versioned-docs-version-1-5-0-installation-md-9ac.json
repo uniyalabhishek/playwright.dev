@@ -1,0 +1,21 @@
+{
+  "unversionedId": "installation",
+  "id": "version-1.5.0/installation",
+  "isDocsHomePage": false,
+  "title": "Advanced installation",
+  "description": "- Managing browser binaries",
+  "source": "@site/versioned_docs/version-1.5.0/installation.md",
+  "slug": "/installation",
+  "permalink": "/playwright/docs/1.5.0/installation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.5.0/installation.md",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/docs",
+  "previous": {
+    "title": "Actionability",
+    "permalink": "/playwright/docs/1.5.0/actionability"
+  },
+  "next": {
+    "title": "Extensibility",
+    "permalink": "/playwright/docs/1.5.0/extensibility"
+  }
+}

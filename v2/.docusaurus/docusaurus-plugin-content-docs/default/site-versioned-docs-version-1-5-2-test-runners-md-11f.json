@@ -1,0 +1,21 @@
+{
+  "unversionedId": "test-runners",
+  "id": "version-1.5.2/test-runners",
+  "isDocsHomePage": false,
+  "title": "Test Runners",
+  "description": "With a few lines of code, you can hook up Playwright to your favorite JavaScript test runner.",
+  "source": "@site/versioned_docs/version-1.5.2/test-runners.md",
+  "slug": "/test-runners",
+  "permalink": "/playwright/docs/1.5.2/test-runners",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.5.2/test-runners.md",
+  "version": "1.5.2",
+  "sidebar": "version-1.5.2/docs",
+  "previous": {
+    "title": "Page Object Models",
+    "permalink": "/playwright/docs/1.5.2/pom"
+  },
+  "next": {
+    "title": "Running Playwright in Docker",
+    "permalink": "/playwright/docs/1.5.2/docker/README"
+  }
+}

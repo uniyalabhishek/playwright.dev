@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ci",
+  "id": "version-1.6.2/ci",
+  "isDocsHomePage": false,
+  "title": "Continuous Integration",
+  "description": "Playwright tests can be executed in CI environments. We have created sample",
+  "source": "@site/versioned_docs/version-1.6.2/ci.md",
+  "slug": "/ci",
+  "permalink": "/playwright/docs/ci",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.2/ci.md",
+  "version": "1.6.2",
+  "sidebar": "version-1.6.2/docs",
+  "previous": {
+    "title": "Running Playwright in Docker",
+    "permalink": "/playwright/docs/docker/README"
+  },
+  "next": {
+    "title": "Actionability",
+    "permalink": "/playwright/docs/actionability"
+  }
+}

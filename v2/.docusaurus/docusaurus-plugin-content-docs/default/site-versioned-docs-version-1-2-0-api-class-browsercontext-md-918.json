@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-browsercontext",
+  "id": "version-1.2.0/api/class-browsercontext",
+  "isDocsHomePage": false,
+  "title": "class: BrowserContext",
+  "description": "* extends: EventEmitter",
+  "source": "@site/versioned_docs/version-1.2.0/api/class-browsercontext.md",
+  "slug": "/api/class-browsercontext",
+  "permalink": "/playwright/docs/1.2.0/api/class-browsercontext",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.2.0/api/class-browsercontext.md",
+  "version": "1.2.0",
+  "sidebar": "version-1.2.0/api",
+  "previous": {
+    "title": "class: Browser",
+    "permalink": "/playwright/docs/1.2.0/api/class-browser"
+  },
+  "next": {
+    "title": "class: Page",
+    "permalink": "/playwright/docs/1.2.0/api/class-page"
+  }
+}

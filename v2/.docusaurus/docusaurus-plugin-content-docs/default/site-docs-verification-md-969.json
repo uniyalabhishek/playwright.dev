@@ -1,0 +1,21 @@
+{
+  "unversionedId": "verification",
+  "id": "verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Videos",
+  "source": "@site/docs/verification.md",
+  "slug": "/verification",
+  "permalink": "/playwright/docs/next/verification",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/verification.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/playwright/docs/next/assertions"
+  },
+  "next": {
+    "title": "Navigations",
+    "permalink": "/playwright/docs/next/navigations"
+  }
+}

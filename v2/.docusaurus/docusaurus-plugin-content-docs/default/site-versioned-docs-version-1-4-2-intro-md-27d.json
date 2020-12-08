@@ -1,0 +1,21 @@
+{
+  "unversionedId": "intro",
+  "id": "version-1.4.2/intro",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "- Installation",
+  "source": "@site/versioned_docs/version-1.4.2/intro.md",
+  "slug": "/intro",
+  "permalink": "/playwright/docs/1.4.2/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.4.2/intro.md",
+  "version": "1.4.2",
+  "sidebar": "version-1.4.2/docs",
+  "previous": {
+    "title": "Why Playwright?",
+    "permalink": "/playwright/docs/1.4.2/why-playwright"
+  },
+  "next": {
+    "title": "Core concepts",
+    "permalink": "/playwright/docs/1.4.2/core-concepts"
+  }
+}

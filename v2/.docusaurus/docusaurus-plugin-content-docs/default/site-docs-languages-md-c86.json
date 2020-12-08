@@ -1,0 +1,21 @@
+{
+  "unversionedId": "languages",
+  "id": "languages",
+  "isDocsHomePage": false,
+  "title": "Supported languages",
+  "description": "The Playwright API is available in multiple languages.",
+  "source": "@site/docs/languages.md",
+  "slug": "/languages",
+  "permalink": "/playwright/docs/next/languages",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/languages.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging tools",
+    "permalink": "/playwright/docs/next/debug"
+  },
+  "next": {
+    "title": "Element selectors",
+    "permalink": "/playwright/docs/next/selectors"
+  }
+}

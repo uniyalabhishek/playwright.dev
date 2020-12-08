@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-chromiumbrowser",
+  "id": "api/class-chromiumbrowser",
+  "isDocsHomePage": false,
+  "title": "class: ChromiumBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/docs/api/class-chromiumbrowser.md",
+  "slug": "/api/class-chromiumbrowser",
+  "permalink": "/playwright/docs/next/api/class-chromiumbrowser",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/api/class-chromiumbrowser.md",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "class: Logger",
+    "permalink": "/playwright/docs/next/api/class-logger"
+  },
+  "next": {
+    "title": "class: ChromiumBrowserContext",
+    "permalink": "/playwright/docs/next/api/class-chromiumbrowsercontext"
+  }
+}

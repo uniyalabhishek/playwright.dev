@@ -1,0 +1,12 @@
+{
+  "unversionedId": "showcase",
+  "id": "version-0.18.0/showcase",
+  "isDocsHomePage": false,
+  "title": "Community Showcase",
+  "description": "Users",
+  "source": "@site/versioned_docs/version-0.18.0/showcase.md",
+  "slug": "/showcase",
+  "permalink": "/playwright/docs/0.18.0/showcase",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-0.18.0/showcase.md",
+  "version": "0.18.0"
+}

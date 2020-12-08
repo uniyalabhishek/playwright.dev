@@ -1,0 +1,12 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "- Chromium",
+  "source": "@site/docs/troubleshooting.md",
+  "slug": "/troubleshooting",
+  "permalink": "/playwright/docs/next/troubleshooting",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/troubleshooting.md",
+  "version": "current"
+}

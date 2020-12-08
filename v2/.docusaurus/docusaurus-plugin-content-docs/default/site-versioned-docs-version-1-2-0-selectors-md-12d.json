@@ -1,0 +1,21 @@
+{
+  "unversionedId": "selectors",
+  "id": "version-1.2.0/selectors",
+  "isDocsHomePage": false,
+  "title": "Selector engines",
+  "description": "Playwright supports multiple selector engines used to query elements in the web page.",
+  "source": "@site/versioned_docs/version-1.2.0/selectors.md",
+  "slug": "/selectors",
+  "permalink": "/playwright/docs/1.2.0/selectors",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.2.0/selectors.md",
+  "version": "1.2.0",
+  "sidebar": "version-1.2.0/docs",
+  "previous": {
+    "title": "Continuous Integration",
+    "permalink": "/playwright/docs/1.2.0/ci"
+  },
+  "next": {
+    "title": "Actionability",
+    "permalink": "/playwright/docs/1.2.0/actionability"
+  }
+}

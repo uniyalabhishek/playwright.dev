@@ -1,0 +1,21 @@
+{
+  "unversionedId": "pom",
+  "id": "pom",
+  "isDocsHomePage": false,
+  "title": "Page Object Models",
+  "description": "Large test suites can be structured to optimize ease of authoring and maintenance.",
+  "source": "@site/docs/pom.md",
+  "slug": "/pom",
+  "permalink": "/playwright/docs/next/pom",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/pom.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/playwright/docs/next/auth"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/playwright/docs/next/test-runners"
+  }
+}

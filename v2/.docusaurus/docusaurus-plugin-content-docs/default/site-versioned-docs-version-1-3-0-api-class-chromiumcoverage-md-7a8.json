@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-chromiumcoverage",
+  "id": "version-1.3.0/api/class-chromiumcoverage",
+  "isDocsHomePage": false,
+  "title": "class: ChromiumCoverage",
+  "description": "Coverage gathers information about parts of JavaScript and CSS that were used by the page.",
+  "source": "@site/versioned_docs/version-1.3.0/api/class-chromiumcoverage.md",
+  "slug": "/api/class-chromiumcoverage",
+  "permalink": "/playwright/docs/1.3.0/api/class-chromiumcoverage",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.3.0/api/class-chromiumcoverage.md",
+  "version": "1.3.0",
+  "sidebar": "version-1.3.0/api",
+  "previous": {
+    "title": "class: ChromiumBrowserContext",
+    "permalink": "/playwright/docs/1.3.0/api/class-chromiumbrowsercontext"
+  },
+  "next": {
+    "title": "class: CDPSession",
+    "permalink": "/playwright/docs/1.3.0/api/class-cdpsession"
+  }
+}

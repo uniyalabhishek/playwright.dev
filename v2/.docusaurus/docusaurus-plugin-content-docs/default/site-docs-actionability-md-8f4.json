@@ -1,0 +1,21 @@
+{
+  "unversionedId": "actionability",
+  "id": "actionability",
+  "isDocsHomePage": false,
+  "title": "Actionability",
+  "description": "Playwright does a range of actionability checks on the elements before performing certain actions. These checks ensure that action behaves as expected, for example Playwright does not click on a disabled button.",
+  "source": "@site/docs/actionability.md",
+  "slug": "/actionability",
+  "permalink": "/playwright/docs/next/actionability",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/actionability.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Continuous Integration",
+    "permalink": "/playwright/docs/next/ci"
+  },
+  "next": {
+    "title": "Advanced installation",
+    "permalink": "/playwright/docs/next/installation"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-websocket",
+  "id": "version-1.6.0/api/class-websocket",
+  "isDocsHomePage": false,
+  "title": "class: WebSocket",
+  "description": "The [WebSocket] class represents websocket connections in the page.",
+  "source": "@site/versioned_docs/version-1.6.0/api/class-websocket.md",
+  "slug": "/api/class-websocket",
+  "permalink": "/playwright/docs/1.6.0/api/class-websocket",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.6.0/api/class-websocket.md",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/api",
+  "previous": {
+    "title": "class: Route",
+    "permalink": "/playwright/docs/1.6.0/api/class-route"
+  },
+  "next": {
+    "title": "class: TimeoutError",
+    "permalink": "/playwright/docs/1.6.0/api/class-timeouterror"
+  }
+}

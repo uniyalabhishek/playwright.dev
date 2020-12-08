@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-consolemessage",
+  "id": "version-1.4.2/api/class-consolemessage",
+  "isDocsHomePage": false,
+  "title": "class: ConsoleMessage",
+  "description": "ConsoleMessage] objects are dispatched by page via the ['console' event.",
+  "source": "@site/versioned_docs/version-1.4.2/api/class-consolemessage.md",
+  "slug": "/api/class-consolemessage",
+  "permalink": "/playwright/docs/1.4.2/api/class-consolemessage",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.4.2/api/class-consolemessage.md",
+  "version": "1.4.2",
+  "sidebar": "version-1.4.2/api",
+  "previous": {
+    "title": "class: JSHandle",
+    "permalink": "/playwright/docs/1.4.2/api/class-jshandle"
+  },
+  "next": {
+    "title": "class: Dialog",
+    "permalink": "/playwright/docs/1.4.2/api/class-dialog"
+  }
+}
