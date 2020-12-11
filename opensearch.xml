@@ -4,8 +4,8 @@
   <ShortName>Playwright</ShortName>
   <Description>Search Playwright</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://microsoft.github.io/img/playwright-logo.svg</Image>
-  <Url type="text/html" method="get" template="https://microsoft.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://microsoft.github.io/opensearch.xml" />
-  <moz:SearchForm>https://microsoft.github.io</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://playwright.dev/img/playwright-logo.svg</Image>
+  <Url type="text/html" method="get" template="https://playwright.dev/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://playwright.dev/opensearch.xml" />
+  <moz:SearchForm>https://playwright.dev</moz:SearchForm>
 </OpenSearchDescription>
