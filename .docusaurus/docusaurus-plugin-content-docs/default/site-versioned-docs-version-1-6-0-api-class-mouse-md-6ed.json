@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-mouse",
+  "id": "version-1.6.0/api/class-mouse",
+  "isDocsHomePage": false,
+  "title": "Mouse",
+  "description": "The Mouse class operates in main-frame CSS pixels relative to the top-left corner of the viewport.",
+  "source": "@site/versioned_docs/version-1.6.0/api/class-mouse.md",
+  "slug": "/api/class-mouse",
+  "permalink": "/docs/1.6.0/api/class-mouse",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/api",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/docs/1.6.0/api/class-keyboard"
+  },
+  "next": {
+    "title": "Touchscreen",
+    "permalink": "/docs/1.6.0/api/class-touchscreen"
+  }
+}

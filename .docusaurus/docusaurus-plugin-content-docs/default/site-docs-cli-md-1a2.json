@@ -1,0 +1,20 @@
+{
+  "unversionedId": "cli",
+  "id": "cli",
+  "isDocsHomePage": false,
+  "title": "Command Line Interface",
+  "description": "Playwright comes with the command line tools that run via npx or as a part of the npm scripts.",
+  "source": "@site/docs/cli.md",
+  "slug": "/cli",
+  "permalink": "/docs/next/cli",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Supported languages",
+    "permalink": "/docs/next/languages"
+  },
+  "next": {
+    "title": "Element selectors",
+    "permalink": "/docs/next/selectors"
+  }
+}

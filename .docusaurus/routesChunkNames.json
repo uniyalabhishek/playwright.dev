@@ -1,0 +1,2063 @@
+{
+  "/-deb": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  },
+  "/blog-12e": {
+    "component": "a6aa9e1f",
+    "sidebar": "02c34a55",
+    "items": [
+      {
+        "content": "3570154c"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/hello-world-e3d": {
+    "component": "ccc49370",
+    "sidebar": "02c34a55",
+    "content": "d610846f"
+  },
+  "/blog/tags-e8f": {
+    "component": "01a85c17",
+    "sidebar": "02c34a55",
+    "tags": "a7023ddc"
+  },
+  "/blog/tags/releases-f6a": {
+    "component": "6875c492",
+    "sidebar": "02c34a55",
+    "items": [
+      {
+        "content": "3570154c"
+      }
+    ],
+    "metadata": "c2f34044"
+  },
+  "/search-79a": {
+    "component": "1a4e3797"
+  },
+  "/versions-b27": {
+    "component": "18b93cb3",
+    "config": "5e9f5e1a"
+  },
+  "/docs/1.0.0-aff": {
+    "component": "1be78505",
+    "versionMetadata": "62e81aa6"
+  },
+  "/docs/1.0.0/api/class-accessibility-509": {
+    "component": "17896441",
+    "content": "e4bf6e75"
+  },
+  "/docs/1.0.0/api/class-browser-e2a": {
+    "component": "17896441",
+    "content": "bf4ddff5"
+  },
+  "/docs/1.0.0/api/class-browsercontext-7d5": {
+    "component": "17896441",
+    "content": "349b813d"
+  },
+  "/docs/1.0.0/api/class-browserserver-769": {
+    "component": "17896441",
+    "content": "e789eb7d"
+  },
+  "/docs/1.0.0/api/class-browsertype-c36": {
+    "component": "17896441",
+    "content": "cd09fa2d"
+  },
+  "/docs/1.0.0/api/class-cdpsession-415": {
+    "component": "17896441",
+    "content": "f397d1c2"
+  },
+  "/docs/1.0.0/api/class-chromiumbrowser-889": {
+    "component": "17896441",
+    "content": "b02e29e1"
+  },
+  "/docs/1.0.0/api/class-chromiumbrowsercontext-f3d": {
+    "component": "17896441",
+    "content": "bf002ac3"
+  },
+  "/docs/1.0.0/api/class-chromiumcoverage-640": {
+    "component": "17896441",
+    "content": "127fc4c2"
+  },
+  "/docs/1.0.0/api/class-consolemessage-107": {
+    "component": "17896441",
+    "content": "433221f7"
+  },
+  "/docs/1.0.0/api/class-dialog-dee": {
+    "component": "17896441",
+    "content": "595827eb"
+  },
+  "/docs/1.0.0/api/class-download-f7a": {
+    "component": "17896441",
+    "content": "e0edff1f"
+  },
+  "/docs/1.0.0/api/class-elementhandle-5e1": {
+    "component": "17896441",
+    "content": "aef1e511"
+  },
+  "/docs/1.0.0/api/class-filechooser-19f": {
+    "component": "17896441",
+    "content": "ade65ccf"
+  },
+  "/docs/1.0.0/api/class-firefoxbrowser-243": {
+    "component": "17896441",
+    "content": "6ec6620e"
+  },
+  "/docs/1.0.0/api/class-frame-498": {
+    "component": "17896441",
+    "content": "050b7782"
+  },
+  "/docs/1.0.0/api/class-jshandle-c38": {
+    "component": "17896441",
+    "content": "eb1c01a1"
+  },
+  "/docs/1.0.0/api/class-keyboard-bee": {
+    "component": "17896441",
+    "content": "5fabc165"
+  },
+  "/docs/1.0.0/api/class-logger-b87": {
+    "component": "17896441",
+    "content": "02ed8f1d"
+  },
+  "/docs/1.0.0/api/class-mouse-c48": {
+    "component": "17896441",
+    "content": "f55928ca"
+  },
+  "/docs/1.0.0/api/class-page-0ad": {
+    "component": "17896441",
+    "content": "da0e2e7f"
+  },
+  "/docs/1.0.0/api/class-playwright-104": {
+    "component": "17896441",
+    "content": "4732a685"
+  },
+  "/docs/1.0.0/api/class-request-3cc": {
+    "component": "17896441",
+    "content": "37a7a54c"
+  },
+  "/docs/1.0.0/api/class-response-d91": {
+    "component": "17896441",
+    "content": "252b4f51"
+  },
+  "/docs/1.0.0/api/class-route-227": {
+    "component": "17896441",
+    "content": "52c7cc17"
+  },
+  "/docs/1.0.0/api/class-selectors-582": {
+    "component": "17896441",
+    "content": "05a0449d"
+  },
+  "/docs/1.0.0/api/class-timeouterror-4ea": {
+    "component": "17896441",
+    "content": "849ea576"
+  },
+  "/docs/1.0.0/api/class-webkitbrowser-945": {
+    "component": "17896441",
+    "content": "39c15cfc"
+  },
+  "/docs/1.0.0/api/class-worker-78e": {
+    "component": "17896441",
+    "content": "c9598241"
+  },
+  "/docs/1.0.0/api/environment-variables-1bc": {
+    "component": "17896441",
+    "content": "f957bf5b"
+  },
+  "/docs/1.0.0/api/working-with-chrome-extensions-7c7": {
+    "component": "17896441",
+    "content": "1a588ec6"
+  },
+  "/docs/1.0.0/api/working-with-selectors-a11": {
+    "component": "17896441",
+    "content": "9aa01a43"
+  },
+  "/docs/1.0.0/ci-99f": {
+    "component": "17896441",
+    "content": "c34d5faf"
+  },
+  "/docs/1.0.0/core-concepts-d04": {
+    "component": "17896441",
+    "content": "1671c90a"
+  },
+  "/docs/1.0.0/docker/README-4b2": {
+    "component": "17896441",
+    "content": "de121470"
+  },
+  "/docs/1.0.0/emulation-c43": {
+    "component": "17896441",
+    "content": "da0e182d"
+  },
+  "/docs/1.0.0/examples/README-3d0": {
+    "component": "17896441",
+    "content": "be3d85c4"
+  },
+  "/docs/1.0.0/extensibility-9b7": {
+    "component": "17896441",
+    "content": "49c38df0"
+  },
+  "/docs/1.0.0/input-031": {
+    "component": "17896441",
+    "content": "5375f70e"
+  },
+  "/docs/1.0.0/installation-3a8": {
+    "component": "17896441",
+    "content": "1ed7d149"
+  },
+  "/docs/1.0.0/intro-4b1": {
+    "component": "17896441",
+    "content": "5d94dea0"
+  },
+  "/docs/1.0.0/loading-834": {
+    "component": "17896441",
+    "content": "ef51d3bf"
+  },
+  "/docs/1.0.0/network-7db": {
+    "component": "17896441",
+    "content": "2ba24bcf"
+  },
+  "/docs/1.0.0/README-1a9": {
+    "component": "17896441",
+    "content": "c82ab5fb"
+  },
+  "/docs/1.0.0/selectors-04d": {
+    "component": "17896441",
+    "content": "4faaad24"
+  },
+  "/docs/1.0.0/showcase-119": {
+    "component": "17896441",
+    "content": "ed16213a"
+  },
+  "/docs/1.0.0/test-runners-574": {
+    "component": "17896441",
+    "content": "39ad701c"
+  },
+  "/docs/1.0.0/troubleshooting-12a": {
+    "component": "17896441",
+    "content": "c7f860be"
+  },
+  "/docs/1.0.0/verification-e59": {
+    "component": "17896441",
+    "content": "0d554e86"
+  },
+  "/docs/1.1.0-def": {
+    "component": "1be78505",
+    "versionMetadata": "e15bcb33"
+  },
+  "/docs/1.1.0/api/class-accessibility-50c": {
+    "component": "17896441",
+    "content": "1fe69e96"
+  },
+  "/docs/1.1.0/api/class-browser-29f": {
+    "component": "17896441",
+    "content": "da1dad42"
+  },
+  "/docs/1.1.0/api/class-browsercontext-0ae": {
+    "component": "17896441",
+    "content": "fa7cace5"
+  },
+  "/docs/1.1.0/api/class-browserserver-831": {
+    "component": "17896441",
+    "content": "d7b01c78"
+  },
+  "/docs/1.1.0/api/class-browsertype-0cb": {
+    "component": "17896441",
+    "content": "b7a0e253"
+  },
+  "/docs/1.1.0/api/class-cdpsession-ee6": {
+    "component": "17896441",
+    "content": "05e4721d"
+  },
+  "/docs/1.1.0/api/class-chromiumbrowser-303": {
+    "component": "17896441",
+    "content": "13d35405"
+  },
+  "/docs/1.1.0/api/class-chromiumbrowsercontext-e05": {
+    "component": "17896441",
+    "content": "ad5591aa"
+  },
+  "/docs/1.1.0/api/class-chromiumcoverage-cd4": {
+    "component": "17896441",
+    "content": "74a811bf"
+  },
+  "/docs/1.1.0/api/class-consolemessage-6d9": {
+    "component": "17896441",
+    "content": "05f3be17"
+  },
+  "/docs/1.1.0/api/class-dialog-b93": {
+    "component": "17896441",
+    "content": "22ea9670"
+  },
+  "/docs/1.1.0/api/class-download-6b0": {
+    "component": "17896441",
+    "content": "56715709"
+  },
+  "/docs/1.1.0/api/class-elementhandle-4ab": {
+    "component": "17896441",
+    "content": "5610ef0c"
+  },
+  "/docs/1.1.0/api/class-filechooser-180": {
+    "component": "17896441",
+    "content": "758737f6"
+  },
+  "/docs/1.1.0/api/class-firefoxbrowser-5c4": {
+    "component": "17896441",
+    "content": "80c36887"
+  },
+  "/docs/1.1.0/api/class-frame-cee": {
+    "component": "17896441",
+    "content": "95e6da98"
+  },
+  "/docs/1.1.0/api/class-jshandle-3e0": {
+    "component": "17896441",
+    "content": "24d397bd"
+  },
+  "/docs/1.1.0/api/class-keyboard-dbe": {
+    "component": "17896441",
+    "content": "f570aba4"
+  },
+  "/docs/1.1.0/api/class-logger-5d9": {
+    "component": "17896441",
+    "content": "4d31caab"
+  },
+  "/docs/1.1.0/api/class-mouse-d68": {
+    "component": "17896441",
+    "content": "f231a818"
+  },
+  "/docs/1.1.0/api/class-page-f72": {
+    "component": "17896441",
+    "content": "70d57ac9"
+  },
+  "/docs/1.1.0/api/class-playwright-dcf": {
+    "component": "17896441",
+    "content": "22c49a07"
+  },
+  "/docs/1.1.0/api/class-request-6fb": {
+    "component": "17896441",
+    "content": "66594fd2"
+  },
+  "/docs/1.1.0/api/class-response-409": {
+    "component": "17896441",
+    "content": "09f4162a"
+  },
+  "/docs/1.1.0/api/class-route-3b4": {
+    "component": "17896441",
+    "content": "6c675edd"
+  },
+  "/docs/1.1.0/api/class-selectors-981": {
+    "component": "17896441",
+    "content": "0efd736d"
+  },
+  "/docs/1.1.0/api/class-timeouterror-1fb": {
+    "component": "17896441",
+    "content": "6e4f8afd"
+  },
+  "/docs/1.1.0/api/class-webkitbrowser-c1e": {
+    "component": "17896441",
+    "content": "c3b380f9"
+  },
+  "/docs/1.1.0/api/class-worker-c34": {
+    "component": "17896441",
+    "content": "0b299301"
+  },
+  "/docs/1.1.0/api/environment-variables-1ad": {
+    "component": "17896441",
+    "content": "19311025"
+  },
+  "/docs/1.1.0/api/working-with-chrome-extensions-3e7": {
+    "component": "17896441",
+    "content": "955fe6c2"
+  },
+  "/docs/1.1.0/api/working-with-selectors-0ca": {
+    "component": "17896441",
+    "content": "9d782e82"
+  },
+  "/docs/1.1.0/ci-002": {
+    "component": "17896441",
+    "content": "9de83d2d"
+  },
+  "/docs/1.1.0/core-concepts-fdb": {
+    "component": "17896441",
+    "content": "1e1d58ae"
+  },
+  "/docs/1.1.0/docker/README-be6": {
+    "component": "17896441",
+    "content": "553ea49f"
+  },
+  "/docs/1.1.0/emulation-1c8": {
+    "component": "17896441",
+    "content": "f5a604b6"
+  },
+  "/docs/1.1.0/examples/README-51a": {
+    "component": "17896441",
+    "content": "27d6517a"
+  },
+  "/docs/1.1.0/extensibility-12e": {
+    "component": "17896441",
+    "content": "1fdc8e08"
+  },
+  "/docs/1.1.0/input-8ae": {
+    "component": "17896441",
+    "content": "9c2bd7f1"
+  },
+  "/docs/1.1.0/installation-b73": {
+    "component": "17896441",
+    "content": "258d8500"
+  },
+  "/docs/1.1.0/intro-84a": {
+    "component": "17896441",
+    "content": "50a1c39b"
+  },
+  "/docs/1.1.0/loading-257": {
+    "component": "17896441",
+    "content": "8c656570"
+  },
+  "/docs/1.1.0/network-93e": {
+    "component": "17896441",
+    "content": "523ada55"
+  },
+  "/docs/1.1.0/README-25f": {
+    "component": "17896441",
+    "content": "5f6e690c"
+  },
+  "/docs/1.1.0/selectors-e4e": {
+    "component": "17896441",
+    "content": "4ab3c3ea"
+  },
+  "/docs/1.1.0/showcase-e5e": {
+    "component": "17896441",
+    "content": "43a40378"
+  },
+  "/docs/1.1.0/test-runners-61e": {
+    "component": "17896441",
+    "content": "edea3328"
+  },
+  "/docs/1.1.0/troubleshooting-15e": {
+    "component": "17896441",
+    "content": "e1651c90"
+  },
+  "/docs/1.1.0/verification-c50": {
+    "component": "17896441",
+    "content": "1aa7c349"
+  },
+  "/docs/1.2.0-711": {
+    "component": "1be78505",
+    "versionMetadata": "055b225f"
+  },
+  "/docs/1.2.0/actionability-c18": {
+    "component": "17896441",
+    "content": "32b9f869"
+  },
+  "/docs/1.2.0/api/class-accessibility-249": {
+    "component": "17896441",
+    "content": "e1eee3d6"
+  },
+  "/docs/1.2.0/api/class-browser-ed2": {
+    "component": "17896441",
+    "content": "e44b7b0c"
+  },
+  "/docs/1.2.0/api/class-browsercontext-443": {
+    "component": "17896441",
+    "content": "91817882"
+  },
+  "/docs/1.2.0/api/class-browserserver-262": {
+    "component": "17896441",
+    "content": "089d0229"
+  },
+  "/docs/1.2.0/api/class-browsertype-548": {
+    "component": "17896441",
+    "content": "4f609813"
+  },
+  "/docs/1.2.0/api/class-cdpsession-1ff": {
+    "component": "17896441",
+    "content": "904c4508"
+  },
+  "/docs/1.2.0/api/class-chromiumbrowser-bef": {
+    "component": "17896441",
+    "content": "6e37b23b"
+  },
+  "/docs/1.2.0/api/class-chromiumbrowsercontext-687": {
+    "component": "17896441",
+    "content": "2075915f"
+  },
+  "/docs/1.2.0/api/class-chromiumcoverage-dfa": {
+    "component": "17896441",
+    "content": "58ac85fb"
+  },
+  "/docs/1.2.0/api/class-consolemessage-0ef": {
+    "component": "17896441",
+    "content": "0bedb782"
+  },
+  "/docs/1.2.0/api/class-dialog-34c": {
+    "component": "17896441",
+    "content": "5496b70d"
+  },
+  "/docs/1.2.0/api/class-download-e36": {
+    "component": "17896441",
+    "content": "889aca19"
+  },
+  "/docs/1.2.0/api/class-elementhandle-6d3": {
+    "component": "17896441",
+    "content": "dc15c914"
+  },
+  "/docs/1.2.0/api/class-filechooser-6dc": {
+    "component": "17896441",
+    "content": "d6edf898"
+  },
+  "/docs/1.2.0/api/class-firefoxbrowser-032": {
+    "component": "17896441",
+    "content": "08cc0fef"
+  },
+  "/docs/1.2.0/api/class-frame-edc": {
+    "component": "17896441",
+    "content": "f174f5c7"
+  },
+  "/docs/1.2.0/api/class-jshandle-c16": {
+    "component": "17896441",
+    "content": "88d6b02b"
+  },
+  "/docs/1.2.0/api/class-keyboard-953": {
+    "component": "17896441",
+    "content": "4faebf21"
+  },
+  "/docs/1.2.0/api/class-logger-adb": {
+    "component": "17896441",
+    "content": "f3f1e59d"
+  },
+  "/docs/1.2.0/api/class-mouse-52c": {
+    "component": "17896441",
+    "content": "e677b05a"
+  },
+  "/docs/1.2.0/api/class-page-9e2": {
+    "component": "17896441",
+    "content": "34c92a15"
+  },
+  "/docs/1.2.0/api/class-playwright-472": {
+    "component": "17896441",
+    "content": "be1ae9cb"
+  },
+  "/docs/1.2.0/api/class-request-05c": {
+    "component": "17896441",
+    "content": "81b442c9"
+  },
+  "/docs/1.2.0/api/class-response-d8b": {
+    "component": "17896441",
+    "content": "0ab14d42"
+  },
+  "/docs/1.2.0/api/class-route-f8e": {
+    "component": "17896441",
+    "content": "1fddec23"
+  },
+  "/docs/1.2.0/api/class-selectors-dee": {
+    "component": "17896441",
+    "content": "9617580f"
+  },
+  "/docs/1.2.0/api/class-timeouterror-ea8": {
+    "component": "17896441",
+    "content": "72574374"
+  },
+  "/docs/1.2.0/api/class-webkitbrowser-6fc": {
+    "component": "17896441",
+    "content": "400e7d7b"
+  },
+  "/docs/1.2.0/api/class-worker-0c4": {
+    "component": "17896441",
+    "content": "6ca3312f"
+  },
+  "/docs/1.2.0/api/environment-variables-1f4": {
+    "component": "17896441",
+    "content": "29230459"
+  },
+  "/docs/1.2.0/api/working-with-chrome-extensions-681": {
+    "component": "17896441",
+    "content": "370f5113"
+  },
+  "/docs/1.2.0/api/working-with-selectors-1b6": {
+    "component": "17896441",
+    "content": "4c16791c"
+  },
+  "/docs/1.2.0/assertions-275": {
+    "component": "17896441",
+    "content": "e0560bed"
+  },
+  "/docs/1.2.0/ci-b7a": {
+    "component": "17896441",
+    "content": "cd2018ac"
+  },
+  "/docs/1.2.0/core-concepts-b79": {
+    "component": "17896441",
+    "content": "e634a712"
+  },
+  "/docs/1.2.0/docker/README-5f7": {
+    "component": "17896441",
+    "content": "43f6baec"
+  },
+  "/docs/1.2.0/emulation-e14": {
+    "component": "17896441",
+    "content": "d63545dd"
+  },
+  "/docs/1.2.0/examples/README-20f": {
+    "component": "17896441",
+    "content": "6ca52713"
+  },
+  "/docs/1.2.0/extensibility-3aa": {
+    "component": "17896441",
+    "content": "d9f2b2e4"
+  },
+  "/docs/1.2.0/input-626": {
+    "component": "17896441",
+    "content": "d6a1ad08"
+  },
+  "/docs/1.2.0/installation-4cf": {
+    "component": "17896441",
+    "content": "ff845fd1"
+  },
+  "/docs/1.2.0/intro-8a4": {
+    "component": "17896441",
+    "content": "55d83d6b"
+  },
+  "/docs/1.2.0/loading-eeb": {
+    "component": "17896441",
+    "content": "552ec565"
+  },
+  "/docs/1.2.0/multi-pages-454": {
+    "component": "17896441",
+    "content": "d48936bc"
+  },
+  "/docs/1.2.0/network-f64": {
+    "component": "17896441",
+    "content": "f37385cb"
+  },
+  "/docs/1.2.0/README-7af": {
+    "component": "17896441",
+    "content": "13fd90a5"
+  },
+  "/docs/1.2.0/selectors-390": {
+    "component": "17896441",
+    "content": "12dbbefd"
+  },
+  "/docs/1.2.0/showcase-1a5": {
+    "component": "17896441",
+    "content": "d87779ce"
+  },
+  "/docs/1.2.0/test-runners-e7e": {
+    "component": "17896441",
+    "content": "12bd028e"
+  },
+  "/docs/1.2.0/troubleshooting-43d": {
+    "component": "17896441",
+    "content": "24dafe82"
+  },
+  "/docs/1.2.0/verification-089": {
+    "component": "17896441",
+    "content": "675c4872"
+  },
+  "/docs/1.3.0-f7d": {
+    "component": "1be78505",
+    "versionMetadata": "5188416b"
+  },
+  "/docs/1.3.0/actionability-896": {
+    "component": "17896441",
+    "content": "f60e3392"
+  },
+  "/docs/1.3.0/api/class-accessibility-a65": {
+    "component": "17896441",
+    "content": "5283228d"
+  },
+  "/docs/1.3.0/api/class-browser-e35": {
+    "component": "17896441",
+    "content": "92be2451"
+  },
+  "/docs/1.3.0/api/class-browsercontext-6ac": {
+    "component": "17896441",
+    "content": "dbd36778"
+  },
+  "/docs/1.3.0/api/class-browserserver-473": {
+    "component": "17896441",
+    "content": "d6134061"
+  },
+  "/docs/1.3.0/api/class-browsertype-e7b": {
+    "component": "17896441",
+    "content": "04d99eeb"
+  },
+  "/docs/1.3.0/api/class-cdpsession-7ec": {
+    "component": "17896441",
+    "content": "b7563992"
+  },
+  "/docs/1.3.0/api/class-chromiumbrowser-797": {
+    "component": "17896441",
+    "content": "4c282b95"
+  },
+  "/docs/1.3.0/api/class-chromiumbrowsercontext-1d1": {
+    "component": "17896441",
+    "content": "b1605019"
+  },
+  "/docs/1.3.0/api/class-chromiumcoverage-4ee": {
+    "component": "17896441",
+    "content": "7a829da5"
+  },
+  "/docs/1.3.0/api/class-consolemessage-c60": {
+    "component": "17896441",
+    "content": "8b06a964"
+  },
+  "/docs/1.3.0/api/class-dialog-ceb": {
+    "component": "17896441",
+    "content": "fe0f78e7"
+  },
+  "/docs/1.3.0/api/class-download-285": {
+    "component": "17896441",
+    "content": "009cb20f"
+  },
+  "/docs/1.3.0/api/class-elementhandle-a23": {
+    "component": "17896441",
+    "content": "7926f6e1"
+  },
+  "/docs/1.3.0/api/class-filechooser-ece": {
+    "component": "17896441",
+    "content": "417993a5"
+  },
+  "/docs/1.3.0/api/class-firefoxbrowser-b63": {
+    "component": "17896441",
+    "content": "7c46a1a2"
+  },
+  "/docs/1.3.0/api/class-frame-e0f": {
+    "component": "17896441",
+    "content": "d6992d85"
+  },
+  "/docs/1.3.0/api/class-jshandle-ff9": {
+    "component": "17896441",
+    "content": "b7b9b0f3"
+  },
+  "/docs/1.3.0/api/class-keyboard-ed9": {
+    "component": "17896441",
+    "content": "df9bf4c9"
+  },
+  "/docs/1.3.0/api/class-logger-dbb": {
+    "component": "17896441",
+    "content": "db06038a"
+  },
+  "/docs/1.3.0/api/class-mouse-e6a": {
+    "component": "17896441",
+    "content": "9d41464f"
+  },
+  "/docs/1.3.0/api/class-page-d7a": {
+    "component": "17896441",
+    "content": "1d76bad4"
+  },
+  "/docs/1.3.0/api/class-playwright-551": {
+    "component": "17896441",
+    "content": "c2daef31"
+  },
+  "/docs/1.3.0/api/class-request-4c6": {
+    "component": "17896441",
+    "content": "1dbead96"
+  },
+  "/docs/1.3.0/api/class-response-d52": {
+    "component": "17896441",
+    "content": "f34b2bc1"
+  },
+  "/docs/1.3.0/api/class-route-2a3": {
+    "component": "17896441",
+    "content": "38d17d2b"
+  },
+  "/docs/1.3.0/api/class-selectors-86d": {
+    "component": "17896441",
+    "content": "8e5c2064"
+  },
+  "/docs/1.3.0/api/class-timeouterror-b96": {
+    "component": "17896441",
+    "content": "1863db88"
+  },
+  "/docs/1.3.0/api/class-webkitbrowser-80c": {
+    "component": "17896441",
+    "content": "2eb550c7"
+  },
+  "/docs/1.3.0/api/class-worker-742": {
+    "component": "17896441",
+    "content": "bbc582df"
+  },
+  "/docs/1.3.0/api/environment-variables-a46": {
+    "component": "17896441",
+    "content": "33cf379d"
+  },
+  "/docs/1.3.0/api/evaluationargument-196": {
+    "component": "17896441",
+    "content": "147f5836"
+  },
+  "/docs/1.3.0/api/working-with-chrome-extensions-59d": {
+    "component": "17896441",
+    "content": "24a35dbf"
+  },
+  "/docs/1.3.0/api/working-with-selectors-f7f": {
+    "component": "17896441",
+    "content": "4e835493"
+  },
+  "/docs/1.3.0/assertions-30f": {
+    "component": "17896441",
+    "content": "35e348b5"
+  },
+  "/docs/1.3.0/ci-7d4": {
+    "component": "17896441",
+    "content": "bc276927"
+  },
+  "/docs/1.3.0/core-concepts-3ef": {
+    "component": "17896441",
+    "content": "47dc59b6"
+  },
+  "/docs/1.3.0/debug-4d5": {
+    "component": "17896441",
+    "content": "36192d70"
+  },
+  "/docs/1.3.0/docker/README-682": {
+    "component": "17896441",
+    "content": "89f34013"
+  },
+  "/docs/1.3.0/emulation-fd6": {
+    "component": "17896441",
+    "content": "6f92c3fc"
+  },
+  "/docs/1.3.0/extensibility-680": {
+    "component": "17896441",
+    "content": "c22d5cf8"
+  },
+  "/docs/1.3.0/input-8ae": {
+    "component": "17896441",
+    "content": "fdde0a77"
+  },
+  "/docs/1.3.0/installation-0f6": {
+    "component": "17896441",
+    "content": "35b043b2"
+  },
+  "/docs/1.3.0/intro-4f3": {
+    "component": "17896441",
+    "content": "38dbfa90"
+  },
+  "/docs/1.3.0/loading-766": {
+    "component": "17896441",
+    "content": "a99702be"
+  },
+  "/docs/1.3.0/multi-pages-a09": {
+    "component": "17896441",
+    "content": "18aa693c"
+  },
+  "/docs/1.3.0/network-3ee": {
+    "component": "17896441",
+    "content": "ebe0d7f1"
+  },
+  "/docs/1.3.0/README-001": {
+    "component": "17896441",
+    "content": "4ebfd6f5"
+  },
+  "/docs/1.3.0/selectors-6d8": {
+    "component": "17896441",
+    "content": "979d966c"
+  },
+  "/docs/1.3.0/showcase-e5a": {
+    "component": "17896441",
+    "content": "7a2cacc4"
+  },
+  "/docs/1.3.0/test-runners-846": {
+    "component": "17896441",
+    "content": "2cbbf2a2"
+  },
+  "/docs/1.3.0/troubleshooting-5d8": {
+    "component": "17896441",
+    "content": "0f3407a4"
+  },
+  "/docs/1.3.0/verification-010": {
+    "component": "17896441",
+    "content": "ff874a0c"
+  },
+  "/docs/1.4.0-2ad": {
+    "component": "1be78505",
+    "versionMetadata": "fa9bdbac"
+  },
+  "/docs/1.4.0/actionability-f21": {
+    "component": "17896441",
+    "content": "a441441c"
+  },
+  "/docs/1.4.0/api/class-accessibility-279": {
+    "component": "17896441",
+    "content": "51caa2eb"
+  },
+  "/docs/1.4.0/api/class-browser-875": {
+    "component": "17896441",
+    "content": "3e492bb7"
+  },
+  "/docs/1.4.0/api/class-browsercontext-8d9": {
+    "component": "17896441",
+    "content": "3791d09a"
+  },
+  "/docs/1.4.0/api/class-browserserver-631": {
+    "component": "17896441",
+    "content": "0d2fca87"
+  },
+  "/docs/1.4.0/api/class-browsertype-42c": {
+    "component": "17896441",
+    "content": "dd90c37c"
+  },
+  "/docs/1.4.0/api/class-cdpsession-441": {
+    "component": "17896441",
+    "content": "57339fad"
+  },
+  "/docs/1.4.0/api/class-chromiumbrowser-cf4": {
+    "component": "17896441",
+    "content": "631ca6d7"
+  },
+  "/docs/1.4.0/api/class-chromiumbrowsercontext-82d": {
+    "component": "17896441",
+    "content": "ca1fce08"
+  },
+  "/docs/1.4.0/api/class-chromiumcoverage-4a6": {
+    "component": "17896441",
+    "content": "b76a6219"
+  },
+  "/docs/1.4.0/api/class-consolemessage-b7d": {
+    "component": "17896441",
+    "content": "761bfa14"
+  },
+  "/docs/1.4.0/api/class-dialog-7fe": {
+    "component": "17896441",
+    "content": "8ba7618b"
+  },
+  "/docs/1.4.0/api/class-download-52b": {
+    "component": "17896441",
+    "content": "568c5926"
+  },
+  "/docs/1.4.0/api/class-elementhandle-571": {
+    "component": "17896441",
+    "content": "761307e5"
+  },
+  "/docs/1.4.0/api/class-filechooser-bc3": {
+    "component": "17896441",
+    "content": "5febd376"
+  },
+  "/docs/1.4.0/api/class-firefoxbrowser-1c2": {
+    "component": "17896441",
+    "content": "d2f51451"
+  },
+  "/docs/1.4.0/api/class-frame-5fb": {
+    "component": "17896441",
+    "content": "9a350709"
+  },
+  "/docs/1.4.0/api/class-jshandle-71b": {
+    "component": "17896441",
+    "content": "b4c70482"
+  },
+  "/docs/1.4.0/api/class-keyboard-7ae": {
+    "component": "17896441",
+    "content": "b55edb8a"
+  },
+  "/docs/1.4.0/api/class-logger-558": {
+    "component": "17896441",
+    "content": "d45925d9"
+  },
+  "/docs/1.4.0/api/class-mouse-515": {
+    "component": "17896441",
+    "content": "e954ffb6"
+  },
+  "/docs/1.4.0/api/class-page-92a": {
+    "component": "17896441",
+    "content": "ea7e2952"
+  },
+  "/docs/1.4.0/api/class-playwright-bb3": {
+    "component": "17896441",
+    "content": "b15597e2"
+  },
+  "/docs/1.4.0/api/class-request-9d3": {
+    "component": "17896441",
+    "content": "a44db9e7"
+  },
+  "/docs/1.4.0/api/class-response-97f": {
+    "component": "17896441",
+    "content": "b9719613"
+  },
+  "/docs/1.4.0/api/class-route-621": {
+    "component": "17896441",
+    "content": "a6142e9a"
+  },
+  "/docs/1.4.0/api/class-selectors-94e": {
+    "component": "17896441",
+    "content": "3dbc92f9"
+  },
+  "/docs/1.4.0/api/class-timeouterror-cc8": {
+    "component": "17896441",
+    "content": "0faa786e"
+  },
+  "/docs/1.4.0/api/class-webkitbrowser-83e": {
+    "component": "17896441",
+    "content": "053f363b"
+  },
+  "/docs/1.4.0/api/class-worker-699": {
+    "component": "17896441",
+    "content": "7edae742"
+  },
+  "/docs/1.4.0/api/environment-variables-899": {
+    "component": "17896441",
+    "content": "890c061a"
+  },
+  "/docs/1.4.0/api/evaluationargument-1e3": {
+    "component": "17896441",
+    "content": "b4c1c860"
+  },
+  "/docs/1.4.0/api/working-with-chrome-extensions-ce2": {
+    "component": "17896441",
+    "content": "c290d44d"
+  },
+  "/docs/1.4.0/api/working-with-selectors-391": {
+    "component": "17896441",
+    "content": "fd69c217"
+  },
+  "/docs/1.4.0/assertions-93b": {
+    "component": "17896441",
+    "content": "0feaf037"
+  },
+  "/docs/1.4.0/auth-b85": {
+    "component": "17896441",
+    "content": "04363c56"
+  },
+  "/docs/1.4.0/ci-094": {
+    "component": "17896441",
+    "content": "253618f6"
+  },
+  "/docs/1.4.0/core-concepts-873": {
+    "component": "17896441",
+    "content": "9ea2dac8"
+  },
+  "/docs/1.4.0/debug-b4e": {
+    "component": "17896441",
+    "content": "d13341d6"
+  },
+  "/docs/1.4.0/docker/README-f14": {
+    "component": "17896441",
+    "content": "9bf5b139"
+  },
+  "/docs/1.4.0/emulation-a65": {
+    "component": "17896441",
+    "content": "f710617c"
+  },
+  "/docs/1.4.0/extensibility-f40": {
+    "component": "17896441",
+    "content": "36b9b5e6"
+  },
+  "/docs/1.4.0/input-fc3": {
+    "component": "17896441",
+    "content": "518ffdf8"
+  },
+  "/docs/1.4.0/installation-987": {
+    "component": "17896441",
+    "content": "66d84e64"
+  },
+  "/docs/1.4.0/intro-c7c": {
+    "component": "17896441",
+    "content": "93c04d4d"
+  },
+  "/docs/1.4.0/languages-fc6": {
+    "component": "17896441",
+    "content": "2e327f47"
+  },
+  "/docs/1.4.0/multi-pages-133": {
+    "component": "17896441",
+    "content": "0893e7b7"
+  },
+  "/docs/1.4.0/navigations-354": {
+    "component": "17896441",
+    "content": "f28348db"
+  },
+  "/docs/1.4.0/network-d6d": {
+    "component": "17896441",
+    "content": "eae310cf"
+  },
+  "/docs/1.4.0/pom-f6a": {
+    "component": "17896441",
+    "content": "a59ec362"
+  },
+  "/docs/1.4.0/README-522": {
+    "component": "17896441",
+    "content": "7afc3e86"
+  },
+  "/docs/1.4.0/selectors-13b": {
+    "component": "17896441",
+    "content": "3f2fe4b6"
+  },
+  "/docs/1.4.0/showcase-583": {
+    "component": "17896441",
+    "content": "3640210f"
+  },
+  "/docs/1.4.0/test-runners-b7b": {
+    "component": "17896441",
+    "content": "fbbbab97"
+  },
+  "/docs/1.4.0/troubleshooting-ddb": {
+    "component": "17896441",
+    "content": "8831db52"
+  },
+  "/docs/1.4.0/verification-6e5": {
+    "component": "17896441",
+    "content": "197290de"
+  },
+  "/docs/1.4.0/why-playwright-fe0": {
+    "component": "17896441",
+    "content": "b6e7794b"
+  },
+  "/docs/1.5.0-3a8": {
+    "component": "1be78505",
+    "versionMetadata": "93e59a16"
+  },
+  "/docs/1.5.0/actionability-769": {
+    "component": "17896441",
+    "content": "cd66c213"
+  },
+  "/docs/1.5.0/api/class-accessibility-430": {
+    "component": "17896441",
+    "content": "96716c9f"
+  },
+  "/docs/1.5.0/api/class-browser-555": {
+    "component": "17896441",
+    "content": "8e4e5826"
+  },
+  "/docs/1.5.0/api/class-browsercontext-616": {
+    "component": "17896441",
+    "content": "c616a63b"
+  },
+  "/docs/1.5.0/api/class-browserserver-7bb": {
+    "component": "17896441",
+    "content": "fcbbd08a"
+  },
+  "/docs/1.5.0/api/class-browsertype-7a4": {
+    "component": "17896441",
+    "content": "00af5c89"
+  },
+  "/docs/1.5.0/api/class-cdpsession-6c3": {
+    "component": "17896441",
+    "content": "7410cc69"
+  },
+  "/docs/1.5.0/api/class-chromiumbrowser-578": {
+    "component": "17896441",
+    "content": "722ee8b3"
+  },
+  "/docs/1.5.0/api/class-chromiumbrowsercontext-7c8": {
+    "component": "17896441",
+    "content": "f11b10e5"
+  },
+  "/docs/1.5.0/api/class-chromiumcoverage-212": {
+    "component": "17896441",
+    "content": "78f53d51"
+  },
+  "/docs/1.5.0/api/class-consolemessage-3fb": {
+    "component": "17896441",
+    "content": "922eac55"
+  },
+  "/docs/1.5.0/api/class-dialog-f07": {
+    "component": "17896441",
+    "content": "861fda10"
+  },
+  "/docs/1.5.0/api/class-download-aeb": {
+    "component": "17896441",
+    "content": "fb3e62c8"
+  },
+  "/docs/1.5.0/api/class-elementhandle-b9c": {
+    "component": "17896441",
+    "content": "5d191948"
+  },
+  "/docs/1.5.0/api/class-filechooser-306": {
+    "component": "17896441",
+    "content": "78b82a5a"
+  },
+  "/docs/1.5.0/api/class-firefoxbrowser-149": {
+    "component": "17896441",
+    "content": "8813dab2"
+  },
+  "/docs/1.5.0/api/class-frame-2f9": {
+    "component": "17896441",
+    "content": "7a138521"
+  },
+  "/docs/1.5.0/api/class-jshandle-fae": {
+    "component": "17896441",
+    "content": "a790b799"
+  },
+  "/docs/1.5.0/api/class-keyboard-06b": {
+    "component": "17896441",
+    "content": "86eaee66"
+  },
+  "/docs/1.5.0/api/class-logger-6a5": {
+    "component": "17896441",
+    "content": "0cf7a97a"
+  },
+  "/docs/1.5.0/api/class-mouse-391": {
+    "component": "17896441",
+    "content": "e1ba93d0"
+  },
+  "/docs/1.5.0/api/class-page-421": {
+    "component": "17896441",
+    "content": "425e56e9"
+  },
+  "/docs/1.5.0/api/class-playwright-e06": {
+    "component": "17896441",
+    "content": "c4498f3f"
+  },
+  "/docs/1.5.0/api/class-request-fb2": {
+    "component": "17896441",
+    "content": "af35aa99"
+  },
+  "/docs/1.5.0/api/class-response-5b4": {
+    "component": "17896441",
+    "content": "463be62b"
+  },
+  "/docs/1.5.0/api/class-route-ffa": {
+    "component": "17896441",
+    "content": "eea36cc5"
+  },
+  "/docs/1.5.0/api/class-selectors-c30": {
+    "component": "17896441",
+    "content": "db0a11bc"
+  },
+  "/docs/1.5.0/api/class-timeouterror-722": {
+    "component": "17896441",
+    "content": "a1877cb9"
+  },
+  "/docs/1.5.0/api/class-webkitbrowser-652": {
+    "component": "17896441",
+    "content": "bb48a44e"
+  },
+  "/docs/1.5.0/api/class-worker-c34": {
+    "component": "17896441",
+    "content": "653c6ff1"
+  },
+  "/docs/1.5.0/api/environment-variables-8a6": {
+    "component": "17896441",
+    "content": "4857ba40"
+  },
+  "/docs/1.5.0/api/evaluationargument-4c3": {
+    "component": "17896441",
+    "content": "a24decf5"
+  },
+  "/docs/1.5.0/api/working-with-chrome-extensions-b0e": {
+    "component": "17896441",
+    "content": "23b667f5"
+  },
+  "/docs/1.5.0/api/working-with-selectors-57f": {
+    "component": "17896441",
+    "content": "7ba7a949"
+  },
+  "/docs/1.5.0/assertions-d08": {
+    "component": "17896441",
+    "content": "10f5b93f"
+  },
+  "/docs/1.5.0/auth-5df": {
+    "component": "17896441",
+    "content": "5a7df429"
+  },
+  "/docs/1.5.0/ci-904": {
+    "component": "17896441",
+    "content": "36452bd7"
+  },
+  "/docs/1.5.0/core-concepts-75e": {
+    "component": "17896441",
+    "content": "cb514b29"
+  },
+  "/docs/1.5.0/debug-8d4": {
+    "component": "17896441",
+    "content": "897d42c0"
+  },
+  "/docs/1.5.0/docker/README-eb0": {
+    "component": "17896441",
+    "content": "f53de3b6"
+  },
+  "/docs/1.5.0/emulation-fdc": {
+    "component": "17896441",
+    "content": "2d752e8c"
+  },
+  "/docs/1.5.0/extensibility-3bb": {
+    "component": "17896441",
+    "content": "9c50d728"
+  },
+  "/docs/1.5.0/input-718": {
+    "component": "17896441",
+    "content": "556842c5"
+  },
+  "/docs/1.5.0/installation-e19": {
+    "component": "17896441",
+    "content": "9acdfc6a"
+  },
+  "/docs/1.5.0/intro-7a0": {
+    "component": "17896441",
+    "content": "2d438bdf"
+  },
+  "/docs/1.5.0/languages-cf4": {
+    "component": "17896441",
+    "content": "f03a228c"
+  },
+  "/docs/1.5.0/multi-pages-5d3": {
+    "component": "17896441",
+    "content": "664b3fa5"
+  },
+  "/docs/1.5.0/navigations-30f": {
+    "component": "17896441",
+    "content": "7f414f17"
+  },
+  "/docs/1.5.0/network-7e6": {
+    "component": "17896441",
+    "content": "1bbecc1d"
+  },
+  "/docs/1.5.0/pom-e2e": {
+    "component": "17896441",
+    "content": "3321c1b1"
+  },
+  "/docs/1.5.0/README-471": {
+    "component": "17896441",
+    "content": "3b86277a"
+  },
+  "/docs/1.5.0/selectors-78e": {
+    "component": "17896441",
+    "content": "32f49d34"
+  },
+  "/docs/1.5.0/showcase-4eb": {
+    "component": "17896441",
+    "content": "45ac737e"
+  },
+  "/docs/1.5.0/test-runners-67a": {
+    "component": "17896441",
+    "content": "61d818d9"
+  },
+  "/docs/1.5.0/troubleshooting-3d3": {
+    "component": "17896441",
+    "content": "b5d69de1"
+  },
+  "/docs/1.5.0/verification-8bc": {
+    "component": "17896441",
+    "content": "882b7247"
+  },
+  "/docs/1.5.0/why-playwright-b50": {
+    "component": "17896441",
+    "content": "167459f4"
+  },
+  "/docs/1.6.0-ebc": {
+    "component": "1be78505",
+    "versionMetadata": "1bac6c43"
+  },
+  "/docs/1.6.0/actionability-54f": {
+    "component": "17896441",
+    "content": "c166f5e2"
+  },
+  "/docs/1.6.0/api/class-accessibility-461": {
+    "component": "17896441",
+    "content": "5a0d6a87"
+  },
+  "/docs/1.6.0/api/class-browser-acc": {
+    "component": "17896441",
+    "content": "47ec5ca1"
+  },
+  "/docs/1.6.0/api/class-browsercontext-a4f": {
+    "component": "17896441",
+    "content": "325adc7f"
+  },
+  "/docs/1.6.0/api/class-browserserver-783": {
+    "component": "17896441",
+    "content": "24038db3"
+  },
+  "/docs/1.6.0/api/class-browsertype-bd1": {
+    "component": "17896441",
+    "content": "f9b5b0af"
+  },
+  "/docs/1.6.0/api/class-cdpsession-a95": {
+    "component": "17896441",
+    "content": "2cf958b9"
+  },
+  "/docs/1.6.0/api/class-chromiumbrowser-1ce": {
+    "component": "17896441",
+    "content": "e8e1a42d"
+  },
+  "/docs/1.6.0/api/class-chromiumbrowsercontext-81d": {
+    "component": "17896441",
+    "content": "72cc4d4d"
+  },
+  "/docs/1.6.0/api/class-chromiumcoverage-531": {
+    "component": "17896441",
+    "content": "e0512527"
+  },
+  "/docs/1.6.0/api/class-consolemessage-5fd": {
+    "component": "17896441",
+    "content": "338110ba"
+  },
+  "/docs/1.6.0/api/class-dialog-8a4": {
+    "component": "17896441",
+    "content": "313d0086"
+  },
+  "/docs/1.6.0/api/class-download-fd5": {
+    "component": "17896441",
+    "content": "43ae3269"
+  },
+  "/docs/1.6.0/api/class-elementhandle-fac": {
+    "component": "17896441",
+    "content": "09b5cc87"
+  },
+  "/docs/1.6.0/api/class-filechooser-b5a": {
+    "component": "17896441",
+    "content": "320b9c32"
+  },
+  "/docs/1.6.0/api/class-firefoxbrowser-95e": {
+    "component": "17896441",
+    "content": "967f484e"
+  },
+  "/docs/1.6.0/api/class-frame-40c": {
+    "component": "17896441",
+    "content": "18032168"
+  },
+  "/docs/1.6.0/api/class-jshandle-700": {
+    "component": "17896441",
+    "content": "63f2f3fb"
+  },
+  "/docs/1.6.0/api/class-keyboard-a18": {
+    "component": "17896441",
+    "content": "f18fa6d1"
+  },
+  "/docs/1.6.0/api/class-logger-bb4": {
+    "component": "17896441",
+    "content": "2b9d2646"
+  },
+  "/docs/1.6.0/api/class-mouse-424": {
+    "component": "17896441",
+    "content": "6edbef03"
+  },
+  "/docs/1.6.0/api/class-page-79f": {
+    "component": "17896441",
+    "content": "dd99ee0b"
+  },
+  "/docs/1.6.0/api/class-playwright-bb3": {
+    "component": "17896441",
+    "content": "eebd8529"
+  },
+  "/docs/1.6.0/api/class-request-b9c": {
+    "component": "17896441",
+    "content": "ad6d7ccd"
+  },
+  "/docs/1.6.0/api/class-response-070": {
+    "component": "17896441",
+    "content": "2b20a50e"
+  },
+  "/docs/1.6.0/api/class-route-d65": {
+    "component": "17896441",
+    "content": "1a75085a"
+  },
+  "/docs/1.6.0/api/class-selectors-21c": {
+    "component": "17896441",
+    "content": "ac9656bd"
+  },
+  "/docs/1.6.0/api/class-timeouterror-67f": {
+    "component": "17896441",
+    "content": "a3c1d102"
+  },
+  "/docs/1.6.0/api/class-touchscreen-db7": {
+    "component": "17896441",
+    "content": "908af070"
+  },
+  "/docs/1.6.0/api/class-video-44f": {
+    "component": "17896441",
+    "content": "891803af"
+  },
+  "/docs/1.6.0/api/class-webkitbrowser-958": {
+    "component": "17896441",
+    "content": "e8904c72"
+  },
+  "/docs/1.6.0/api/class-websocket-d60": {
+    "component": "17896441",
+    "content": "dd899fe3"
+  },
+  "/docs/1.6.0/api/class-worker-5ca": {
+    "component": "17896441",
+    "content": "683bfe19"
+  },
+  "/docs/1.6.0/api/environment-variables-d6a": {
+    "component": "17896441",
+    "content": "76252ab2"
+  },
+  "/docs/1.6.0/api/evaluationargument-846": {
+    "component": "17896441",
+    "content": "29a0c2f1"
+  },
+  "/docs/1.6.0/api/working-with-chrome-extensions-f47": {
+    "component": "17896441",
+    "content": "6d9c941d"
+  },
+  "/docs/1.6.0/api/working-with-selectors-775": {
+    "component": "17896441",
+    "content": "c582ab48"
+  },
+  "/docs/1.6.0/assertions-082": {
+    "component": "17896441",
+    "content": "8350b28e"
+  },
+  "/docs/1.6.0/auth-c17": {
+    "component": "17896441",
+    "content": "ccf3e498"
+  },
+  "/docs/1.6.0/ci-ad1": {
+    "component": "17896441",
+    "content": "8114b245"
+  },
+  "/docs/1.6.0/core-concepts-7d4": {
+    "component": "17896441",
+    "content": "0f0c0985"
+  },
+  "/docs/1.6.0/debug-8b3": {
+    "component": "17896441",
+    "content": "674cb4f1"
+  },
+  "/docs/1.6.0/docker/README-b8c": {
+    "component": "17896441",
+    "content": "54037cd2"
+  },
+  "/docs/1.6.0/emulation-f6b": {
+    "component": "17896441",
+    "content": "86eb19aa"
+  },
+  "/docs/1.6.0/extensibility-47d": {
+    "component": "17896441",
+    "content": "84962ab2"
+  },
+  "/docs/1.6.0/input-ef9": {
+    "component": "17896441",
+    "content": "1747b3bc"
+  },
+  "/docs/1.6.0/installation-279": {
+    "component": "17896441",
+    "content": "e037c1f6"
+  },
+  "/docs/1.6.0/intro-98a": {
+    "component": "17896441",
+    "content": "0a43f7d9"
+  },
+  "/docs/1.6.0/languages-bbc": {
+    "component": "17896441",
+    "content": "8c429762"
+  },
+  "/docs/1.6.0/multi-pages-df1": {
+    "component": "17896441",
+    "content": "475af61d"
+  },
+  "/docs/1.6.0/navigations-a87": {
+    "component": "17896441",
+    "content": "e0b7139f"
+  },
+  "/docs/1.6.0/network-288": {
+    "component": "17896441",
+    "content": "f13e934f"
+  },
+  "/docs/1.6.0/pom-15b": {
+    "component": "17896441",
+    "content": "4fe26708"
+  },
+  "/docs/1.6.0/README-165": {
+    "component": "17896441",
+    "content": "2cdea0fb"
+  },
+  "/docs/1.6.0/selectors-956": {
+    "component": "17896441",
+    "content": "7b844a2e"
+  },
+  "/docs/1.6.0/showcase-aca": {
+    "component": "17896441",
+    "content": "e3948ee8"
+  },
+  "/docs/1.6.0/test-runners-05c": {
+    "component": "17896441",
+    "content": "8f08c951"
+  },
+  "/docs/1.6.0/troubleshooting-c56": {
+    "component": "17896441",
+    "content": "0d473c28"
+  },
+  "/docs/1.6.0/verification-dfa": {
+    "component": "17896441",
+    "content": "4973c5bf"
+  },
+  "/docs/1.6.0/why-playwright-bba": {
+    "component": "17896441",
+    "content": "577b0458"
+  },
+  "/docs/next-7fa": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/next/actionability-092": {
+    "component": "17896441",
+    "content": "8f4b1bd8"
+  },
+  "/docs/next/api/class-accessibility-944": {
+    "component": "17896441",
+    "content": "e3b4eca1"
+  },
+  "/docs/next/api/class-browser-789": {
+    "component": "17896441",
+    "content": "5e7b8cc7"
+  },
+  "/docs/next/api/class-browsercontext-70f": {
+    "component": "17896441",
+    "content": "efa29c67"
+  },
+  "/docs/next/api/class-browserserver-8d1": {
+    "component": "17896441",
+    "content": "4337f850"
+  },
+  "/docs/next/api/class-browsertype-e83": {
+    "component": "17896441",
+    "content": "f58c6f33"
+  },
+  "/docs/next/api/class-cdpsession-da1": {
+    "component": "17896441",
+    "content": "42456c48"
+  },
+  "/docs/next/api/class-chromiumbrowser-344": {
+    "component": "17896441",
+    "content": "c8d05227"
+  },
+  "/docs/next/api/class-chromiumbrowsercontext-1aa": {
+    "component": "17896441",
+    "content": "7f96b9c1"
+  },
+  "/docs/next/api/class-chromiumcoverage-65f": {
+    "component": "17896441",
+    "content": "20467664"
+  },
+  "/docs/next/api/class-consolemessage-622": {
+    "component": "17896441",
+    "content": "98f0005c"
+  },
+  "/docs/next/api/class-dialog-46b": {
+    "component": "17896441",
+    "content": "9e3c08bb"
+  },
+  "/docs/next/api/class-download-296": {
+    "component": "17896441",
+    "content": "4a4dcb43"
+  },
+  "/docs/next/api/class-elementhandle-6e2": {
+    "component": "17896441",
+    "content": "c865f929"
+  },
+  "/docs/next/api/class-filechooser-229": {
+    "component": "17896441",
+    "content": "f7000417"
+  },
+  "/docs/next/api/class-firefoxbrowser-6f2": {
+    "component": "17896441",
+    "content": "e12d4bc6"
+  },
+  "/docs/next/api/class-frame-596": {
+    "component": "17896441",
+    "content": "06bb62bd"
+  },
+  "/docs/next/api/class-jshandle-a85": {
+    "component": "17896441",
+    "content": "683e181f"
+  },
+  "/docs/next/api/class-keyboard-3a7": {
+    "component": "17896441",
+    "content": "cae2d35d"
+  },
+  "/docs/next/api/class-logger-6a4": {
+    "component": "17896441",
+    "content": "03d613c8"
+  },
+  "/docs/next/api/class-mouse-33c": {
+    "component": "17896441",
+    "content": "92a70d32"
+  },
+  "/docs/next/api/class-page-54c": {
+    "component": "17896441",
+    "content": "1451e29b"
+  },
+  "/docs/next/api/class-playwright-173": {
+    "component": "17896441",
+    "content": "bb321208"
+  },
+  "/docs/next/api/class-request-29a": {
+    "component": "17896441",
+    "content": "025c7057"
+  },
+  "/docs/next/api/class-response-cff": {
+    "component": "17896441",
+    "content": "16236b35"
+  },
+  "/docs/next/api/class-route-d6f": {
+    "component": "17896441",
+    "content": "630d0b88"
+  },
+  "/docs/next/api/class-selectors-aae": {
+    "component": "17896441",
+    "content": "f76c85a3"
+  },
+  "/docs/next/api/class-timeouterror-168": {
+    "component": "17896441",
+    "content": "b04d8537"
+  },
+  "/docs/next/api/class-touchscreen-881": {
+    "component": "17896441",
+    "content": "19c1193b"
+  },
+  "/docs/next/api/class-video-190": {
+    "component": "17896441",
+    "content": "be4c3fa2"
+  },
+  "/docs/next/api/class-webkitbrowser-dd5": {
+    "component": "17896441",
+    "content": "2100f0d7"
+  },
+  "/docs/next/api/class-websocket-aa5": {
+    "component": "17896441",
+    "content": "74d41ce0"
+  },
+  "/docs/next/api/class-worker-dc9": {
+    "component": "17896441",
+    "content": "a5c73961"
+  },
+  "/docs/next/assertions-46b": {
+    "component": "17896441",
+    "content": "ff0cfdc0"
+  },
+  "/docs/next/auth-d71": {
+    "component": "17896441",
+    "content": "cb769c5c"
+  },
+  "/docs/next/ci-a8e": {
+    "component": "17896441",
+    "content": "3f0c9c29"
+  },
+  "/docs/next/cli-4b9": {
+    "component": "17896441",
+    "content": "1a20bc57"
+  },
+  "/docs/next/core-concepts-37f": {
+    "component": "17896441",
+    "content": "43cd4838"
+  },
+  "/docs/next/debug-d27": {
+    "component": "17896441",
+    "content": "58ac8ce4"
+  },
+  "/docs/next/docker-b04": {
+    "component": "17896441",
+    "content": "93234bd6"
+  },
+  "/docs/next/emulation-d9d": {
+    "component": "17896441",
+    "content": "3ce13428"
+  },
+  "/docs/next/extensibility-097": {
+    "component": "17896441",
+    "content": "4fd65fec"
+  },
+  "/docs/next/input-263": {
+    "component": "17896441",
+    "content": "a50a10fc"
+  },
+  "/docs/next/installation-b68": {
+    "component": "17896441",
+    "content": "3b8c55ea"
+  },
+  "/docs/next/intro-e88": {
+    "component": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/next/languages-517": {
+    "component": "17896441",
+    "content": "c86a35ae"
+  },
+  "/docs/next/mobile-0da": {
+    "component": "17896441",
+    "content": "1ccd84ef"
+  },
+  "/docs/next/multi-pages-c1d": {
+    "component": "17896441",
+    "content": "a5db589f"
+  },
+  "/docs/next/navigations-dfa": {
+    "component": "17896441",
+    "content": "ea6272d1"
+  },
+  "/docs/next/network-528": {
+    "component": "17896441",
+    "content": "4a00c823"
+  },
+  "/docs/next/pom-90f": {
+    "component": "17896441",
+    "content": "88c5a44a"
+  },
+  "/docs/next/README-e1e": {
+    "component": "17896441",
+    "content": "23374ca6"
+  },
+  "/docs/next/selectors-5b3": {
+    "component": "17896441",
+    "content": "d8019d0b"
+  },
+  "/docs/next/showcase-87d": {
+    "component": "17896441",
+    "content": "27d9d47d"
+  },
+  "/docs/next/test-runners-f2e": {
+    "component": "17896441",
+    "content": "38ddbcaa"
+  },
+  "/docs/next/troubleshooting-7c0": {
+    "component": "17896441",
+    "content": "9d9f8394"
+  },
+  "/docs/next/verification-bb2": {
+    "component": "17896441",
+    "content": "9694789c"
+  },
+  "/docs/next/why-playwright-965": {
+    "component": "17896441",
+    "content": "b2322449"
+  },
+  "/docs-296": {
+    "component": "1be78505",
+    "versionMetadata": "c29a6ee1"
+  },
+  "/docs/actionability-1b0": {
+    "component": "17896441",
+    "content": "dfaf4cb2"
+  },
+  "/docs/api/class-accessibility-38e": {
+    "component": "17896441",
+    "content": "e624168b"
+  },
+  "/docs/api/class-browser-c92": {
+    "component": "17896441",
+    "content": "c7ec3a7f"
+  },
+  "/docs/api/class-browsercontext-5a6": {
+    "component": "17896441",
+    "content": "8487f83b"
+  },
+  "/docs/api/class-browserserver-4e5": {
+    "component": "17896441",
+    "content": "1e7227b0"
+  },
+  "/docs/api/class-browsertype-b7c": {
+    "component": "17896441",
+    "content": "41f8e9dc"
+  },
+  "/docs/api/class-cdpsession-833": {
+    "component": "17896441",
+    "content": "640a129f"
+  },
+  "/docs/api/class-chromiumbrowser-558": {
+    "component": "17896441",
+    "content": "3d6878cd"
+  },
+  "/docs/api/class-chromiumbrowsercontext-45e": {
+    "component": "17896441",
+    "content": "9ddfdd4f"
+  },
+  "/docs/api/class-chromiumcoverage-455": {
+    "component": "17896441",
+    "content": "9b250b0e"
+  },
+  "/docs/api/class-consolemessage-f9e": {
+    "component": "17896441",
+    "content": "271c9d7c"
+  },
+  "/docs/api/class-dialog-cdf": {
+    "component": "17896441",
+    "content": "a65dedf5"
+  },
+  "/docs/api/class-download-a9f": {
+    "component": "17896441",
+    "content": "608ff4be"
+  },
+  "/docs/api/class-elementhandle-a2b": {
+    "component": "17896441",
+    "content": "24ca6520"
+  },
+  "/docs/api/class-filechooser-ff7": {
+    "component": "17896441",
+    "content": "ac34743c"
+  },
+  "/docs/api/class-firefoxbrowser-d33": {
+    "component": "17896441",
+    "content": "88ccc50b"
+  },
+  "/docs/api/class-frame-797": {
+    "component": "17896441",
+    "content": "3da56cab"
+  },
+  "/docs/api/class-jshandle-ba8": {
+    "component": "17896441",
+    "content": "17241e08"
+  },
+  "/docs/api/class-keyboard-081": {
+    "component": "17896441",
+    "content": "a25ca74b"
+  },
+  "/docs/api/class-logger-988": {
+    "component": "17896441",
+    "content": "250ddaa7"
+  },
+  "/docs/api/class-mouse-0f9": {
+    "component": "17896441",
+    "content": "970a410e"
+  },
+  "/docs/api/class-page-864": {
+    "component": "17896441",
+    "content": "f797299a"
+  },
+  "/docs/api/class-playwright-8ef": {
+    "component": "17896441",
+    "content": "239d88a2"
+  },
+  "/docs/api/class-request-0b8": {
+    "component": "17896441",
+    "content": "72b47905"
+  },
+  "/docs/api/class-response-dfc": {
+    "component": "17896441",
+    "content": "b1f4945a"
+  },
+  "/docs/api/class-route-739": {
+    "component": "17896441",
+    "content": "bc7892fd"
+  },
+  "/docs/api/class-selectors-29b": {
+    "component": "17896441",
+    "content": "05b1234f"
+  },
+  "/docs/api/class-timeouterror-531": {
+    "component": "17896441",
+    "content": "73ad6bee"
+  },
+  "/docs/api/class-touchscreen-5f8": {
+    "component": "17896441",
+    "content": "c8bc7afb"
+  },
+  "/docs/api/class-video-070": {
+    "component": "17896441",
+    "content": "1f55ce18"
+  },
+  "/docs/api/class-webkitbrowser-ebe": {
+    "component": "17896441",
+    "content": "07a2beec"
+  },
+  "/docs/api/class-websocket-fdc": {
+    "component": "17896441",
+    "content": "4e0543b1"
+  },
+  "/docs/api/class-worker-4e9": {
+    "component": "17896441",
+    "content": "507db55d"
+  },
+  "/docs/api/environment-variables-1e6": {
+    "component": "17896441",
+    "content": "ad534615"
+  },
+  "/docs/api/evaluationargument-d2c": {
+    "component": "17896441",
+    "content": "0aa8bf10"
+  },
+  "/docs/api/working-with-chrome-extensions-629": {
+    "component": "17896441",
+    "content": "77d15fa1"
+  },
+  "/docs/api/working-with-selectors-15f": {
+    "component": "17896441",
+    "content": "998cf67a"
+  },
+  "/docs/assertions-c69": {
+    "component": "17896441",
+    "content": "9cbe0170"
+  },
+  "/docs/auth-db9": {
+    "component": "17896441",
+    "content": "20593034"
+  },
+  "/docs/ci-999": {
+    "component": "17896441",
+    "content": "a38cd9d4"
+  },
+  "/docs/core-concepts-16f": {
+    "component": "17896441",
+    "content": "fc057cb4"
+  },
+  "/docs/debug-f92": {
+    "component": "17896441",
+    "content": "3fc14856"
+  },
+  "/docs/docker/README-f4e": {
+    "component": "17896441",
+    "content": "b7c4667c"
+  },
+  "/docs/emulation-6f2": {
+    "component": "17896441",
+    "content": "9f1addb4"
+  },
+  "/docs/extensibility-67d": {
+    "component": "17896441",
+    "content": "1fcaa91a"
+  },
+  "/docs/input-813": {
+    "component": "17896441",
+    "content": "4bca1344"
+  },
+  "/docs/installation-68c": {
+    "component": "17896441",
+    "content": "98e3399e"
+  },
+  "/docs/intro-fdd": {
+    "component": "17896441",
+    "content": "b640703c"
+  },
+  "/docs/languages-af5": {
+    "component": "17896441",
+    "content": "2cb86da9"
+  },
+  "/docs/mobile-b86": {
+    "component": "17896441",
+    "content": "f8387ecc"
+  },
+  "/docs/multi-pages-8c2": {
+    "component": "17896441",
+    "content": "d1713a74"
+  },
+  "/docs/navigations-950": {
+    "component": "17896441",
+    "content": "f4007b2b"
+  },
+  "/docs/network-840": {
+    "component": "17896441",
+    "content": "564cc69a"
+  },
+  "/docs/pom-015": {
+    "component": "17896441",
+    "content": "6cbf02e8"
+  },
+  "/docs/README-4f5": {
+    "component": "17896441",
+    "content": "84c0ff6b"
+  },
+  "/docs/selectors-9c8": {
+    "component": "17896441",
+    "content": "97a442f2"
+  },
+  "/docs/showcase-fe0": {
+    "component": "17896441",
+    "content": "7a9268be"
+  },
+  "/docs/test-runners-bef": {
+    "component": "17896441",
+    "content": "fe2d067e"
+  },
+  "/docs/troubleshooting-02d": {
+    "component": "17896441",
+    "content": "cac2542e"
+  },
+  "/docs/verification-1f1": {
+    "component": "17896441",
+    "content": "83d6fafe"
+  },
+  "/docs/why-playwright-218": {
+    "component": "17896441",
+    "content": "27b4d441"
+  }
+}

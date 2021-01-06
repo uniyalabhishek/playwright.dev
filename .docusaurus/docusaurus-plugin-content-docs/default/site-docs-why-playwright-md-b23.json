@@ -1,0 +1,16 @@
+{
+  "unversionedId": "why-playwright",
+  "id": "why-playwright",
+  "isDocsHomePage": false,
+  "title": "Why Playwright?",
+  "description": "Playwright enables fast, reliable and capable automation across all modern browsers. This guide covers those key differentiators to help you decide on the right tool for your automated tests.",
+  "source": "@site/docs/why-playwright.md",
+  "slug": "/why-playwright",
+  "permalink": "/docs/next/why-playwright",
+  "version": "current",
+  "sidebar": "docs",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/next/intro"
+  }
+}

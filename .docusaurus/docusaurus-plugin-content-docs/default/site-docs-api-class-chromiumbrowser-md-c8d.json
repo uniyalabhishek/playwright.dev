@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-chromiumbrowser",
+  "id": "api/class-chromiumbrowser",
+  "isDocsHomePage": false,
+  "title": "ChromiumBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/docs/api/class-chromiumbrowser.md",
+  "slug": "/api/class-chromiumbrowser",
+  "permalink": "/docs/next/api/class-chromiumbrowser",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "CDPSession",
+    "permalink": "/docs/next/api/class-cdpsession"
+  },
+  "next": {
+    "title": "ChromiumBrowserContext",
+    "permalink": "/docs/next/api/class-chromiumbrowsercontext"
+  }
+}

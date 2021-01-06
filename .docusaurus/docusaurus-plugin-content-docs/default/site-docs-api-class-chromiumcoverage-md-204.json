@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-chromiumcoverage",
+  "id": "api/class-chromiumcoverage",
+  "isDocsHomePage": false,
+  "title": "ChromiumCoverage",
+  "description": "Coverage gathers information about parts of JavaScript and CSS that were used by the page.",
+  "source": "@site/docs/api/class-chromiumcoverage.md",
+  "slug": "/api/class-chromiumcoverage",
+  "permalink": "/docs/next/api/class-chromiumcoverage",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "ChromiumBrowserContext",
+    "permalink": "/docs/next/api/class-chromiumbrowsercontext"
+  },
+  "next": {
+    "title": "ConsoleMessage",
+    "permalink": "/docs/next/api/class-consolemessage"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-dialog",
+  "id": "api/class-dialog",
+  "isDocsHomePage": false,
+  "title": "Dialog",
+  "description": "Dialog] objects are dispatched by page via the [page.on('dialog') event.",
+  "source": "@site/docs/api/class-dialog.md",
+  "slug": "/api/class-dialog",
+  "permalink": "/docs/next/api/class-dialog",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "ConsoleMessage",
+    "permalink": "/docs/next/api/class-consolemessage"
+  },
+  "next": {
+    "title": "Download",
+    "permalink": "/docs/next/api/class-download"
+  }
+}

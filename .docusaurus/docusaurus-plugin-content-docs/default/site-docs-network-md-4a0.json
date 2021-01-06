@@ -1,0 +1,20 @@
+{
+  "unversionedId": "network",
+  "id": "network",
+  "isDocsHomePage": false,
+  "title": "Network",
+  "description": "Playwright provides APIs to monitor and modify network traffic, both HTTP and HTTPS. Any requests that page does, including XHRs and fetch requests, can be tracked, modified and handled.",
+  "source": "@site/docs/network.md",
+  "slug": "/network",
+  "permalink": "/docs/next/network",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Device and environment emulation",
+    "permalink": "/docs/next/emulation"
+  },
+  "next": {
+    "title": "Assertions",
+    "permalink": "/docs/next/assertions"
+  }
+}

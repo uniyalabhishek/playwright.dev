@@ -1,0 +1,11 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "- Browser dependencies",
+  "source": "@site/docs/troubleshooting.md",
+  "slug": "/troubleshooting",
+  "permalink": "/docs/next/troubleshooting",
+  "version": "current"
+}

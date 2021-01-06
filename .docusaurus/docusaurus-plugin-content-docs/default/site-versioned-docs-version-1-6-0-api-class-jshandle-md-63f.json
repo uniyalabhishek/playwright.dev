@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-jshandle",
+  "id": "version-1.6.0/api/class-jshandle",
+  "isDocsHomePage": false,
+  "title": "JSHandle",
+  "description": "JSHandle represents an in-page JavaScript object. JSHandles can be created with the page.evaluateHandle method.",
+  "source": "@site/versioned_docs/version-1.6.0/api/class-jshandle.md",
+  "slug": "/api/class-jshandle",
+  "permalink": "/docs/1.6.0/api/class-jshandle",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/api",
+  "previous": {
+    "title": "ElementHandle",
+    "permalink": "/docs/1.6.0/api/class-elementhandle"
+  },
+  "next": {
+    "title": "ConsoleMessage",
+    "permalink": "/docs/1.6.0/api/class-consolemessage"
+  }
+}

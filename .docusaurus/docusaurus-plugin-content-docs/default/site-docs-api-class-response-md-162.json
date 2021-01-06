@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-response",
+  "id": "api/class-response",
+  "isDocsHomePage": false,
+  "title": "Response",
+  "description": "[Response] class represents responses which are received by page.",
+  "source": "@site/docs/api/class-response.md",
+  "slug": "/api/class-response",
+  "permalink": "/docs/next/api/class-response",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Request",
+    "permalink": "/docs/next/api/class-request"
+  },
+  "next": {
+    "title": "Route",
+    "permalink": "/docs/next/api/class-route"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "ci",
+  "id": "version-1.1.0/ci",
+  "isDocsHomePage": false,
+  "title": "Continuous Integration",
+  "description": "Playwright tests can be executed to run on your CI environments. To simplify this, we have created sample configurations for common CI providers that can be used to bootstrap your setup.",
+  "source": "@site/versioned_docs/version-1.1.0/ci.md",
+  "slug": "/ci",
+  "permalink": "/docs/1.1.0/ci",
+  "version": "1.1.0",
+  "sidebar": "version-1.1.0/docs",
+  "previous": {
+    "title": "Navigation and loading",
+    "permalink": "/docs/1.1.0/loading"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/docs/1.1.0/test-runners"
+  }
+}

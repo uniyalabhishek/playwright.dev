@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-chromiumbrowsercontext",
+  "id": "api/class-chromiumbrowsercontext",
+  "isDocsHomePage": false,
+  "title": "ChromiumBrowserContext",
+  "description": "* extends: [BrowserContext]",
+  "source": "@site/docs/api/class-chromiumbrowsercontext.md",
+  "slug": "/api/class-chromiumbrowsercontext",
+  "permalink": "/docs/next/api/class-chromiumbrowsercontext",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "ChromiumBrowser",
+    "permalink": "/docs/next/api/class-chromiumbrowser"
+  },
+  "next": {
+    "title": "ChromiumCoverage",
+    "permalink": "/docs/next/api/class-chromiumcoverage"
+  }
+}

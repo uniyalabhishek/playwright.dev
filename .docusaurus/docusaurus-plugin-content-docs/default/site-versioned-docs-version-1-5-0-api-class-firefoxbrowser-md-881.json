@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-firefoxbrowser",
+  "id": "version-1.5.0/api/class-firefoxbrowser",
+  "isDocsHomePage": false,
+  "title": "FirefoxBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/versioned_docs/version-1.5.0/api/class-firefoxbrowser.md",
+  "slug": "/api/class-firefoxbrowser",
+  "permalink": "/docs/1.5.0/api/class-firefoxbrowser",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/api",
+  "previous": {
+    "title": "CDPSession",
+    "permalink": "/docs/1.5.0/api/class-cdpsession"
+  },
+  "next": {
+    "title": "WebKitBrowser",
+    "permalink": "/docs/1.5.0/api/class-webkitbrowser"
+  }
+}

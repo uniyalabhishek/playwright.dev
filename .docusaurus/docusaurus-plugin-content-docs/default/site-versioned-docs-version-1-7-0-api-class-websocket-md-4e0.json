@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-websocket",
+  "id": "version-1.7.0/api/class-websocket",
+  "isDocsHomePage": false,
+  "title": "WebSocket",
+  "description": "The [WebSocket] class represents websocket connections in the page.",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-websocket.md",
+  "slug": "/api/class-websocket",
+  "permalink": "/docs/api/class-websocket",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "WebKitBrowser",
+    "permalink": "/docs/api/class-webkitbrowser"
+  },
+  "next": {
+    "title": "Worker",
+    "permalink": "/docs/api/class-worker"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "core-concepts",
+  "id": "version-1.7.0/core-concepts",
+  "isDocsHomePage": false,
+  "title": "Core concepts",
+  "description": "Playwright provides a set of APIs to automate Chromium, Firefox and WebKit",
+  "source": "@site/versioned_docs/version-1.7.0/core-concepts.md",
+  "slug": "/core-concepts",
+  "permalink": "/docs/core-concepts",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Debugging tools",
+    "permalink": "/docs/debug"
+  }
+}

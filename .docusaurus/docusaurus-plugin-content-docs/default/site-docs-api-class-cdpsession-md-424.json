@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-cdpsession",
+  "id": "api/class-cdpsession",
+  "isDocsHomePage": false,
+  "title": "CDPSession",
+  "description": "* extends: EventEmitter",
+  "source": "@site/docs/api/class-cdpsession.md",
+  "slug": "/api/class-cdpsession",
+  "permalink": "/docs/next/api/class-cdpsession",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "BrowserType",
+    "permalink": "/docs/next/api/class-browsertype"
+  },
+  "next": {
+    "title": "ChromiumBrowser",
+    "permalink": "/docs/next/api/class-chromiumbrowser"
+  }
+}

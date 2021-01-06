@@ -1,0 +1,20 @@
+{
+  "unversionedId": "test-runners",
+  "id": "version-1.3.0/test-runners",
+  "isDocsHomePage": false,
+  "title": "Test Runners",
+  "description": "With a few lines of code, you can hook up Playwright to your favorite JavaScript test runner.",
+  "source": "@site/versioned_docs/version-1.3.0/test-runners.md",
+  "slug": "/test-runners",
+  "permalink": "/docs/1.3.0/test-runners",
+  "version": "1.3.0",
+  "sidebar": "version-1.3.0/docs",
+  "previous": {
+    "title": "Multi-page scenarios",
+    "permalink": "/docs/1.3.0/multi-pages"
+  },
+  "next": {
+    "title": "Running Playwright in Docker",
+    "permalink": "/docs/1.3.0/docker/README"
+  }
+}

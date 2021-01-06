@@ -1,0 +1,20 @@
+{
+  "unversionedId": "languages",
+  "id": "languages",
+  "isDocsHomePage": false,
+  "title": "Supported languages",
+  "description": "The Playwright API is available in multiple languages.",
+  "source": "@site/docs/languages.md",
+  "slug": "/languages",
+  "permalink": "/docs/next/languages",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging tools",
+    "permalink": "/docs/next/debug"
+  },
+  "next": {
+    "title": "Command Line Interface",
+    "permalink": "/docs/next/cli"
+  }
+}

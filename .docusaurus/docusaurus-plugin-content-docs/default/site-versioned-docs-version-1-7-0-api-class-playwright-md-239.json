@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-playwright",
+  "id": "version-1.7.0/api/class-playwright",
+  "isDocsHomePage": false,
+  "title": "Playwright",
+  "description": "Playwright module provides a method to launch a browser instance.",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-playwright.md",
+  "slug": "/api/class-playwright",
+  "permalink": "/docs/api/class-playwright",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/docs/api/class-accessibility"
+  }
+}

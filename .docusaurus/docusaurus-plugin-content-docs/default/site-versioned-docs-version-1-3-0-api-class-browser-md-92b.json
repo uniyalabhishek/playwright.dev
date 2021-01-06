@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browser",
+  "id": "version-1.3.0/api/class-browser",
+  "isDocsHomePage": false,
+  "title": "Browser",
+  "description": "* extends: EventEmitter",
+  "source": "@site/versioned_docs/version-1.3.0/api/class-browser.md",
+  "slug": "/api/class-browser",
+  "permalink": "/docs/1.3.0/api/class-browser",
+  "version": "1.3.0",
+  "sidebar": "version-1.3.0/api",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/docs/1.3.0/api/class-playwright"
+  },
+  "next": {
+    "title": "BrowserContext",
+    "permalink": "/docs/1.3.0/api/class-browsercontext"
+  }
+}

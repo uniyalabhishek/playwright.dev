@@ -1,0 +1,20 @@
+{
+  "unversionedId": "loading",
+  "id": "version-1.3.0/loading",
+  "isDocsHomePage": false,
+  "title": "Navigation and loading",
+  "description": "Playwright logically splits the process of showing a new document in the page into navigation and loading.",
+  "source": "@site/versioned_docs/version-1.3.0/loading.md",
+  "slug": "/loading",
+  "permalink": "/docs/1.3.0/loading",
+  "version": "1.3.0",
+  "sidebar": "version-1.3.0/docs",
+  "previous": {
+    "title": "Verification",
+    "permalink": "/docs/1.3.0/verification"
+  },
+  "next": {
+    "title": "Multi-page scenarios",
+    "permalink": "/docs/1.3.0/multi-pages"
+  }
+}

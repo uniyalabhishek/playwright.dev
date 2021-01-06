@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-request",
+  "id": "api/class-request",
+  "isDocsHomePage": false,
+  "title": "Request",
+  "description": "Whenever the page sends a request for a network resource the following sequence of events are emitted by [Page]:",
+  "source": "@site/docs/api/class-request.md",
+  "slug": "/api/class-request",
+  "permalink": "/docs/next/api/class-request",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Page",
+    "permalink": "/docs/next/api/class-page"
+  },
+  "next": {
+    "title": "Response",
+    "permalink": "/docs/next/api/class-response"
+  }
+}

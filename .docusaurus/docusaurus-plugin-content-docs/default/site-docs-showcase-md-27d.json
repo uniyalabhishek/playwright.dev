@@ -1,0 +1,11 @@
+{
+  "unversionedId": "showcase",
+  "id": "showcase",
+  "isDocsHomePage": false,
+  "title": "Community Showcase",
+  "description": "Users",
+  "source": "@site/docs/showcase.md",
+  "slug": "/showcase",
+  "permalink": "/docs/next/showcase",
+  "version": "current"
+}

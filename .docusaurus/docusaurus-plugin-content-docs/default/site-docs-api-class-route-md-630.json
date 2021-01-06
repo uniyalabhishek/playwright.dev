@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-route",
+  "id": "api/class-route",
+  "isDocsHomePage": false,
+  "title": "Route",
+  "description": "Whenever a network route is set up with page.route(url, handler) or browserContext.route(url, handler), the Route object allows to handle the route.",
+  "source": "@site/docs/api/class-route.md",
+  "slug": "/api/class-route",
+  "permalink": "/docs/next/api/class-route",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Response",
+    "permalink": "/docs/next/api/class-response"
+  },
+  "next": {
+    "title": "Selectors",
+    "permalink": "/docs/next/api/class-selectors"
+  }
+}

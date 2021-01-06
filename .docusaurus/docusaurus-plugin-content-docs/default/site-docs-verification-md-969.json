@@ -1,0 +1,20 @@
+{
+  "unversionedId": "verification",
+  "id": "verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Videos",
+  "source": "@site/docs/verification.md",
+  "slug": "/verification",
+  "permalink": "/docs/next/verification",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/docs/next/assertions"
+  },
+  "next": {
+    "title": "Navigations",
+    "permalink": "/docs/next/navigations"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-download",
+  "id": "api/class-download",
+  "isDocsHomePage": false,
+  "title": "Download",
+  "description": "Download] objects are dispatched by page via the [page.on('download') event.",
+  "source": "@site/docs/api/class-download.md",
+  "slug": "/api/class-download",
+  "permalink": "/docs/next/api/class-download",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Dialog",
+    "permalink": "/docs/next/api/class-dialog"
+  },
+  "next": {
+    "title": "ElementHandle",
+    "permalink": "/docs/next/api/class-elementhandle"
+  }
+}

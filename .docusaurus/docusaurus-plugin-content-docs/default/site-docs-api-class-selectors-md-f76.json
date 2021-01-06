@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-selectors",
+  "id": "api/class-selectors",
+  "isDocsHomePage": false,
+  "title": "Selectors",
+  "description": "Selectors can be used to install custom selector engines. See Working with selectors for more information.",
+  "source": "@site/docs/api/class-selectors.md",
+  "slug": "/api/class-selectors",
+  "permalink": "/docs/next/api/class-selectors",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Route",
+    "permalink": "/docs/next/api/class-route"
+  },
+  "next": {
+    "title": "TimeoutError",
+    "permalink": "/docs/next/api/class-timeouterror"
+  }
+}

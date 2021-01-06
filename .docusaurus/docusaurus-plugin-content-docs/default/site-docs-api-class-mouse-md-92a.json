@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-mouse",
+  "id": "api/class-mouse",
+  "isDocsHomePage": false,
+  "title": "Mouse",
+  "description": "The Mouse class operates in main-frame CSS pixels relative to the top-left corner of the viewport.",
+  "source": "@site/docs/api/class-mouse.md",
+  "slug": "/api/class-mouse",
+  "permalink": "/docs/next/api/class-mouse",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Logger",
+    "permalink": "/docs/next/api/class-logger"
+  },
+  "next": {
+    "title": "Page",
+    "permalink": "/docs/next/api/class-page"
+  }
+}

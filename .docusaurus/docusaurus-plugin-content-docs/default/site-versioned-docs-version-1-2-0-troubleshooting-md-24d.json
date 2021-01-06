@@ -1,0 +1,11 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "version-1.2.0/troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "- Chromium",
+  "source": "@site/versioned_docs/version-1.2.0/troubleshooting.md",
+  "slug": "/troubleshooting",
+  "permalink": "/docs/1.2.0/troubleshooting",
+  "version": "1.2.0"
+}

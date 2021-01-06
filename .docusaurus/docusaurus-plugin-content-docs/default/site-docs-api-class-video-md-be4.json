@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-video",
+  "id": "api/class-video",
+  "isDocsHomePage": false,
+  "title": "Video",
+  "description": "When browser context is created with the videosPath option, each page has a video object associated with it.",
+  "source": "@site/docs/api/class-video.md",
+  "slug": "/api/class-video",
+  "permalink": "/docs/next/api/class-video",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Touchscreen",
+    "permalink": "/docs/next/api/class-touchscreen"
+  },
+  "next": {
+    "title": "WebKitBrowser",
+    "permalink": "/docs/next/api/class-webkitbrowser"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "extensibility",
+  "id": "extensibility",
+  "isDocsHomePage": false,
+  "title": "Extensibility",
+  "description": "- Custom selector engines",
+  "source": "@site/docs/extensibility.md",
+  "slug": "/extensibility",
+  "permalink": "/docs/next/extensibility",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Advanced installation",
+    "permalink": "/docs/next/installation"
+  }
+}

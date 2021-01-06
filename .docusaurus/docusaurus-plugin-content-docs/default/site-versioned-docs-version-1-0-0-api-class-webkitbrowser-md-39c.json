@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-webkitbrowser",
+  "id": "version-1.0.0/api/class-webkitbrowser",
+  "isDocsHomePage": false,
+  "title": "WebKitBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/versioned_docs/version-1.0.0/api/class-webkitbrowser.md",
+  "slug": "/api/class-webkitbrowser",
+  "permalink": "/docs/1.0.0/api/class-webkitbrowser",
+  "version": "1.0.0",
+  "sidebar": "version-1.0.0/api",
+  "previous": {
+    "title": "FirefoxBrowser",
+    "permalink": "/docs/1.0.0/api/class-firefoxbrowser"
+  },
+  "next": {
+    "title": "Environment Variables",
+    "permalink": "/docs/1.0.0/api/environment-variables"
+  }
+}

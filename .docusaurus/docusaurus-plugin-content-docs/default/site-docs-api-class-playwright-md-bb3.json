@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-playwright",
+  "id": "api/class-playwright",
+  "isDocsHomePage": false,
+  "title": "Playwright",
+  "description": "Playwright module provides a method to launch a browser instance. The following is a typical example of using Playwright to drive automation:",
+  "source": "@site/docs/api/class-playwright.md",
+  "slug": "/api/class-playwright",
+  "permalink": "/docs/next/api/class-playwright",
+  "version": "current",
+  "sidebar": "api",
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/docs/next/api/class-accessibility"
+  }
+}

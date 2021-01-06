@@ -1,0 +1,20 @@
+{
+  "unversionedId": "input",
+  "id": "input",
+  "isDocsHomePage": false,
+  "title": "Input",
+  "description": "- Text input",
+  "source": "@site/docs/input.md",
+  "slug": "/input",
+  "permalink": "/docs/next/input",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Element selectors",
+    "permalink": "/docs/next/selectors"
+  },
+  "next": {
+    "title": "Device and environment emulation",
+    "permalink": "/docs/next/emulation"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "multi-pages",
+  "id": "version-1.7.0/multi-pages",
+  "isDocsHomePage": false,
+  "title": "Multi-page scenarios",
+  "description": "Playwright can automate scenarios that span multiple browser contexts or multiple",
+  "source": "@site/versioned_docs/version-1.7.0/multi-pages.md",
+  "slug": "/multi-pages",
+  "permalink": "/docs/multi-pages",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/docs",
+  "previous": {
+    "title": "Navigations",
+    "permalink": "/docs/navigations"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/auth"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-accessibility",
+  "id": "version-1.7.0/api/class-accessibility",
+  "isDocsHomePage": false,
+  "title": "Accessibility",
+  "description": "The Accessibility class provides methods for inspecting Chromium's accessibility tree. The accessibility tree is used by",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-accessibility.md",
+  "slug": "/api/class-accessibility",
+  "permalink": "/docs/api/class-accessibility",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/docs/api/class-playwright"
+  },
+  "next": {
+    "title": "Browser",
+    "permalink": "/docs/api/class-browser"
+  }
+}

@@ -1,0 +1,2532 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/docs/next",
+          "mainDocId": "why-playwright",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/next/actionability",
+              "sidebar": "docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/next/api/class-accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/next/api/class-browser",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/next/api/class-browsercontext",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/next/api/class-browserserver",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/next/api/class-browsertype",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/next/api/class-cdpsession",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/next/api/class-chromiumbrowser",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/next/api/class-chromiumbrowsercontext",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/next/api/class-chromiumcoverage",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/next/api/class-consolemessage",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/next/api/class-dialog",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/next/api/class-download",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/next/api/class-elementhandle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/next/api/class-filechooser",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/next/api/class-firefoxbrowser",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/next/api/class-frame",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/next/api/class-jshandle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/next/api/class-keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/next/api/class-logger",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/next/api/class-mouse",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/next/api/class-page",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/next/api/class-playwright",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/next/api/class-request",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/next/api/class-response",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/next/api/class-route",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/next/api/class-selectors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/next/api/class-timeouterror",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-touchscreen",
+              "path": "/docs/next/api/class-touchscreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-video",
+              "path": "/docs/next/api/class-video",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/next/api/class-webkitbrowser",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-websocket",
+              "path": "/docs/next/api/class-websocket",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/next/api/class-worker",
+              "sidebar": "api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/next/assertions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "auth",
+              "path": "/docs/next/auth",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/next/ci",
+              "sidebar": "docs"
+            },
+            {
+              "id": "cli",
+              "path": "/docs/next/cli",
+              "sidebar": "docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/next/core-concepts",
+              "sidebar": "docs"
+            },
+            {
+              "id": "debug",
+              "path": "/docs/next/debug",
+              "sidebar": "docs"
+            },
+            {
+              "id": "docker",
+              "path": "/docs/next/docker",
+              "sidebar": "docs"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/next/emulation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/next/extensibility",
+              "sidebar": "docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/next/input",
+              "sidebar": "docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/next/installation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/next/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "languages",
+              "path": "/docs/next/languages",
+              "sidebar": "docs"
+            },
+            {
+              "id": "mobile",
+              "path": "/docs/next/mobile"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/next/multi-pages",
+              "sidebar": "docs"
+            },
+            {
+              "id": "navigations",
+              "path": "/docs/next/navigations",
+              "sidebar": "docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/next/network",
+              "sidebar": "docs"
+            },
+            {
+              "id": "pom",
+              "path": "/docs/next/pom",
+              "sidebar": "docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/next/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/next/selectors",
+              "sidebar": "docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/next/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/next/test-runners",
+              "sidebar": "docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/next/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/next/verification",
+              "sidebar": "docs"
+            },
+            {
+              "id": "why-playwright",
+              "path": "/docs/next/why-playwright",
+              "sidebar": "docs"
+            }
+          ]
+        },
+        {
+          "name": "1.7.0",
+          "label": "1.7.0",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "why-playwright",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/actionability",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/api/class-accessibility",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/api/class-browser",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/api/class-browsercontext",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/api/class-browserserver",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/api/class-browsertype",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/api/class-cdpsession",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/api/class-chromiumbrowser",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/api/class-chromiumcoverage",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/api/class-consolemessage",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/api/class-dialog",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/api/class-download",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/api/class-elementhandle",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/api/class-filechooser",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/api/class-firefoxbrowser",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/api/class-frame",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/api/class-jshandle",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/api/class-keyboard",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/api/class-logger",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/api/class-mouse",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/api/class-page",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/api/class-playwright",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/api/class-request",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/api/class-response",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/api/class-route",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/api/class-selectors",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/api/class-timeouterror",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-touchscreen",
+              "path": "/docs/api/class-touchscreen",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-video",
+              "path": "/docs/api/class-video",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/api/class-webkitbrowser",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-websocket",
+              "path": "/docs/api/class-websocket",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/api/class-worker",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/api/environment-variables",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/evaluationargument",
+              "path": "/docs/api/evaluationargument",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/api/working-with-chrome-extensions",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/api/working-with-selectors",
+              "sidebar": "version-1.7.0/api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/assertions",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "auth",
+              "path": "/docs/auth",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/ci",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/core-concepts",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "debug",
+              "path": "/docs/debug",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/docker/README",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/emulation",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/extensibility",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/input",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/installation",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "languages",
+              "path": "/docs/languages",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "mobile",
+              "path": "/docs/mobile"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/multi-pages",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "navigations",
+              "path": "/docs/navigations",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/network",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "pom",
+              "path": "/docs/pom",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/selectors",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/test-runners",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/verification",
+              "sidebar": "version-1.7.0/docs"
+            },
+            {
+              "id": "why-playwright",
+              "path": "/docs/why-playwright",
+              "sidebar": "version-1.7.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.6.0",
+          "label": "1.6.0",
+          "isLast": false,
+          "path": "/docs/1.6.0",
+          "mainDocId": "why-playwright",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/1.6.0/actionability",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.6.0/api/class-accessibility",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.6.0/api/class-browser",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.6.0/api/class-browsercontext",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.6.0/api/class-browserserver",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.6.0/api/class-browsertype",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.6.0/api/class-cdpsession",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.6.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.6.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.6.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.6.0/api/class-consolemessage",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.6.0/api/class-dialog",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.6.0/api/class-download",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.6.0/api/class-elementhandle",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.6.0/api/class-filechooser",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.6.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.6.0/api/class-frame",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.6.0/api/class-jshandle",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.6.0/api/class-keyboard",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.6.0/api/class-logger",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.6.0/api/class-mouse",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.6.0/api/class-page",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.6.0/api/class-playwright",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.6.0/api/class-request",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.6.0/api/class-response",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.6.0/api/class-route",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.6.0/api/class-selectors",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.6.0/api/class-timeouterror",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-touchscreen",
+              "path": "/docs/1.6.0/api/class-touchscreen",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-video",
+              "path": "/docs/1.6.0/api/class-video",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.6.0/api/class-webkitbrowser",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-websocket",
+              "path": "/docs/1.6.0/api/class-websocket",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.6.0/api/class-worker",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.6.0/api/environment-variables",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/evaluationargument",
+              "path": "/docs/1.6.0/api/evaluationargument",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.6.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.6.0/api/working-with-selectors",
+              "sidebar": "version-1.6.0/api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/1.6.0/assertions",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "auth",
+              "path": "/docs/1.6.0/auth",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.6.0/ci",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.6.0/core-concepts",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "debug",
+              "path": "/docs/1.6.0/debug",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.6.0/docker/README",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.6.0/emulation",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.6.0/extensibility",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.6.0/input",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.6.0/installation",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.6.0/intro",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "languages",
+              "path": "/docs/1.6.0/languages",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/1.6.0/multi-pages",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "navigations",
+              "path": "/docs/1.6.0/navigations",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.6.0/network",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "pom",
+              "path": "/docs/1.6.0/pom",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.6.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.6.0/selectors",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.6.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.6.0/test-runners",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.6.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.6.0/verification",
+              "sidebar": "version-1.6.0/docs"
+            },
+            {
+              "id": "why-playwright",
+              "path": "/docs/1.6.0/why-playwright",
+              "sidebar": "version-1.6.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.5.0",
+          "label": "1.5.0",
+          "isLast": false,
+          "path": "/docs/1.5.0",
+          "mainDocId": "why-playwright",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/1.5.0/actionability",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.5.0/api/class-accessibility",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.5.0/api/class-browser",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.5.0/api/class-browsercontext",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.5.0/api/class-browserserver",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.5.0/api/class-browsertype",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.5.0/api/class-cdpsession",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.5.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.5.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.5.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.5.0/api/class-consolemessage",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.5.0/api/class-dialog",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.5.0/api/class-download",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.5.0/api/class-elementhandle",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.5.0/api/class-filechooser",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.5.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.5.0/api/class-frame",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.5.0/api/class-jshandle",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.5.0/api/class-keyboard",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.5.0/api/class-logger",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.5.0/api/class-mouse",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.5.0/api/class-page",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.5.0/api/class-playwright",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.5.0/api/class-request",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.5.0/api/class-response",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.5.0/api/class-route",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.5.0/api/class-selectors",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.5.0/api/class-timeouterror",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.5.0/api/class-webkitbrowser",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.5.0/api/class-worker",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.5.0/api/environment-variables",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/evaluationargument",
+              "path": "/docs/1.5.0/api/evaluationargument",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.5.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.5.0/api/working-with-selectors",
+              "sidebar": "version-1.5.0/api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/1.5.0/assertions",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "auth",
+              "path": "/docs/1.5.0/auth",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.5.0/ci",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.5.0/core-concepts",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "debug",
+              "path": "/docs/1.5.0/debug",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.5.0/docker/README",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.5.0/emulation",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.5.0/extensibility",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.5.0/input",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.5.0/installation",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.5.0/intro",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "languages",
+              "path": "/docs/1.5.0/languages",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/1.5.0/multi-pages",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "navigations",
+              "path": "/docs/1.5.0/navigations",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.5.0/network",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "pom",
+              "path": "/docs/1.5.0/pom",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.5.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.5.0/selectors",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.5.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.5.0/test-runners",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.5.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.5.0/verification",
+              "sidebar": "version-1.5.0/docs"
+            },
+            {
+              "id": "why-playwright",
+              "path": "/docs/1.5.0/why-playwright",
+              "sidebar": "version-1.5.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.4.0",
+          "label": "1.4.0",
+          "isLast": false,
+          "path": "/docs/1.4.0",
+          "mainDocId": "why-playwright",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/1.4.0/actionability",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.4.0/api/class-accessibility",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.4.0/api/class-browser",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.4.0/api/class-browsercontext",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.4.0/api/class-browserserver",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.4.0/api/class-browsertype",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.4.0/api/class-cdpsession",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.4.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.4.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.4.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.4.0/api/class-consolemessage",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.4.0/api/class-dialog",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.4.0/api/class-download",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.4.0/api/class-elementhandle",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.4.0/api/class-filechooser",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.4.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.4.0/api/class-frame",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.4.0/api/class-jshandle",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.4.0/api/class-keyboard",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.4.0/api/class-logger",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.4.0/api/class-mouse",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.4.0/api/class-page",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.4.0/api/class-playwright",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.4.0/api/class-request",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.4.0/api/class-response",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.4.0/api/class-route",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.4.0/api/class-selectors",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.4.0/api/class-timeouterror",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.4.0/api/class-webkitbrowser",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.4.0/api/class-worker",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.4.0/api/environment-variables",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/evaluationargument",
+              "path": "/docs/1.4.0/api/evaluationargument",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.4.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.4.0/api/working-with-selectors",
+              "sidebar": "version-1.4.0/api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/1.4.0/assertions",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "auth",
+              "path": "/docs/1.4.0/auth",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.4.0/ci",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.4.0/core-concepts",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "debug",
+              "path": "/docs/1.4.0/debug",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.4.0/docker/README",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.4.0/emulation",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.4.0/extensibility",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.4.0/input",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.4.0/installation",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.4.0/intro",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "languages",
+              "path": "/docs/1.4.0/languages",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/1.4.0/multi-pages",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "navigations",
+              "path": "/docs/1.4.0/navigations",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.4.0/network",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "pom",
+              "path": "/docs/1.4.0/pom",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.4.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.4.0/selectors",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.4.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.4.0/test-runners",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.4.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.4.0/verification",
+              "sidebar": "version-1.4.0/docs"
+            },
+            {
+              "id": "why-playwright",
+              "path": "/docs/1.4.0/why-playwright",
+              "sidebar": "version-1.4.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.3.0",
+          "label": "1.3.0",
+          "isLast": false,
+          "path": "/docs/1.3.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/1.3.0/actionability",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.3.0/api/class-accessibility",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.3.0/api/class-browser",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.3.0/api/class-browsercontext",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.3.0/api/class-browserserver",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.3.0/api/class-browsertype",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.3.0/api/class-cdpsession",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.3.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.3.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.3.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.3.0/api/class-consolemessage",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.3.0/api/class-dialog",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.3.0/api/class-download",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.3.0/api/class-elementhandle",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.3.0/api/class-filechooser",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.3.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.3.0/api/class-frame",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.3.0/api/class-jshandle",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.3.0/api/class-keyboard",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.3.0/api/class-logger",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.3.0/api/class-mouse",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.3.0/api/class-page",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.3.0/api/class-playwright",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.3.0/api/class-request",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.3.0/api/class-response",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.3.0/api/class-route",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.3.0/api/class-selectors",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.3.0/api/class-timeouterror",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.3.0/api/class-webkitbrowser",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.3.0/api/class-worker",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.3.0/api/environment-variables",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/evaluationargument",
+              "path": "/docs/1.3.0/api/evaluationargument",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.3.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.3.0/api/working-with-selectors",
+              "sidebar": "version-1.3.0/api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/1.3.0/assertions",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.3.0/ci",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.3.0/core-concepts",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "debug",
+              "path": "/docs/1.3.0/debug",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.3.0/docker/README",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.3.0/emulation",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.3.0/extensibility",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.3.0/input",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.3.0/installation",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.3.0/intro",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "loading",
+              "path": "/docs/1.3.0/loading",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/1.3.0/multi-pages",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.3.0/network",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.3.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.3.0/selectors",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.3.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.3.0/test-runners",
+              "sidebar": "version-1.3.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.3.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.3.0/verification",
+              "sidebar": "version-1.3.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.2.0",
+          "label": "1.2.0",
+          "isLast": false,
+          "path": "/docs/1.2.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "actionability",
+              "path": "/docs/1.2.0/actionability",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.2.0/api/class-accessibility",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.2.0/api/class-browser",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.2.0/api/class-browsercontext",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.2.0/api/class-browserserver",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.2.0/api/class-browsertype",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.2.0/api/class-cdpsession",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.2.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.2.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.2.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.2.0/api/class-consolemessage",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.2.0/api/class-dialog",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.2.0/api/class-download",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.2.0/api/class-elementhandle",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.2.0/api/class-filechooser",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.2.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.2.0/api/class-frame",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.2.0/api/class-jshandle",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.2.0/api/class-keyboard",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.2.0/api/class-logger",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.2.0/api/class-mouse",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.2.0/api/class-page",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.2.0/api/class-playwright",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.2.0/api/class-request",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.2.0/api/class-response",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.2.0/api/class-route",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.2.0/api/class-selectors",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.2.0/api/class-timeouterror",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.2.0/api/class-webkitbrowser",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.2.0/api/class-worker",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.2.0/api/environment-variables",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.2.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.2.0/api/working-with-selectors",
+              "sidebar": "version-1.2.0/api"
+            },
+            {
+              "id": "assertions",
+              "path": "/docs/1.2.0/assertions",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.2.0/ci",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.2.0/core-concepts",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.2.0/docker/README"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.2.0/emulation",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "examples/README",
+              "path": "/docs/1.2.0/examples/README"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.2.0/extensibility",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.2.0/input",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.2.0/installation"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.2.0/intro",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "loading",
+              "path": "/docs/1.2.0/loading",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "multi-pages",
+              "path": "/docs/1.2.0/multi-pages",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.2.0/network",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.2.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.2.0/selectors",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.2.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.2.0/test-runners",
+              "sidebar": "version-1.2.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.2.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.2.0/verification",
+              "sidebar": "version-1.2.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.1.0",
+          "label": "1.1.0",
+          "isLast": false,
+          "path": "/docs/1.1.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.1.0/api/class-accessibility",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.1.0/api/class-browser",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.1.0/api/class-browsercontext",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.1.0/api/class-browserserver",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.1.0/api/class-browsertype",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.1.0/api/class-cdpsession",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.1.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.1.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.1.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.1.0/api/class-consolemessage",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.1.0/api/class-dialog",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.1.0/api/class-download",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.1.0/api/class-elementhandle",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.1.0/api/class-filechooser",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.1.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.1.0/api/class-frame",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.1.0/api/class-jshandle",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.1.0/api/class-keyboard",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.1.0/api/class-logger",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.1.0/api/class-mouse",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.1.0/api/class-page",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.1.0/api/class-playwright",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.1.0/api/class-request",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.1.0/api/class-response",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.1.0/api/class-route",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.1.0/api/class-selectors",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.1.0/api/class-timeouterror",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.1.0/api/class-webkitbrowser",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.1.0/api/class-worker",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.1.0/api/environment-variables",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.1.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.1.0/api/working-with-selectors",
+              "sidebar": "version-1.1.0/api"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.1.0/ci",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.1.0/core-concepts",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.1.0/docker/README"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.1.0/emulation",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "examples/README",
+              "path": "/docs/1.1.0/examples/README"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.1.0/extensibility",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.1.0/input",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.1.0/installation"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.1.0/intro",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "loading",
+              "path": "/docs/1.1.0/loading",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.1.0/network",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.1.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.1.0/selectors",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.1.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.1.0/test-runners",
+              "sidebar": "version-1.1.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.1.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.1.0/verification",
+              "sidebar": "version-1.1.0/docs"
+            }
+          ]
+        },
+        {
+          "name": "1.0.0",
+          "label": "1.0.0",
+          "isLast": false,
+          "path": "/docs/1.0.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/class-accessibility",
+              "path": "/docs/1.0.0/api/class-accessibility",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-browser",
+              "path": "/docs/1.0.0/api/class-browser",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-browsercontext",
+              "path": "/docs/1.0.0/api/class-browsercontext",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-browserserver",
+              "path": "/docs/1.0.0/api/class-browserserver",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-browsertype",
+              "path": "/docs/1.0.0/api/class-browsertype",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-cdpsession",
+              "path": "/docs/1.0.0/api/class-cdpsession",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowser",
+              "path": "/docs/1.0.0/api/class-chromiumbrowser",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-chromiumbrowsercontext",
+              "path": "/docs/1.0.0/api/class-chromiumbrowsercontext",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-chromiumcoverage",
+              "path": "/docs/1.0.0/api/class-chromiumcoverage",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-consolemessage",
+              "path": "/docs/1.0.0/api/class-consolemessage",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-dialog",
+              "path": "/docs/1.0.0/api/class-dialog",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-download",
+              "path": "/docs/1.0.0/api/class-download",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-elementhandle",
+              "path": "/docs/1.0.0/api/class-elementhandle",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-filechooser",
+              "path": "/docs/1.0.0/api/class-filechooser",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-firefoxbrowser",
+              "path": "/docs/1.0.0/api/class-firefoxbrowser",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-frame",
+              "path": "/docs/1.0.0/api/class-frame",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-jshandle",
+              "path": "/docs/1.0.0/api/class-jshandle",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-keyboard",
+              "path": "/docs/1.0.0/api/class-keyboard",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-logger",
+              "path": "/docs/1.0.0/api/class-logger",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-mouse",
+              "path": "/docs/1.0.0/api/class-mouse",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-page",
+              "path": "/docs/1.0.0/api/class-page",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-playwright",
+              "path": "/docs/1.0.0/api/class-playwright",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-request",
+              "path": "/docs/1.0.0/api/class-request",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-response",
+              "path": "/docs/1.0.0/api/class-response",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-route",
+              "path": "/docs/1.0.0/api/class-route",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-selectors",
+              "path": "/docs/1.0.0/api/class-selectors",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-timeouterror",
+              "path": "/docs/1.0.0/api/class-timeouterror",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-webkitbrowser",
+              "path": "/docs/1.0.0/api/class-webkitbrowser",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/class-worker",
+              "path": "/docs/1.0.0/api/class-worker",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/environment-variables",
+              "path": "/docs/1.0.0/api/environment-variables",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/working-with-chrome-extensions",
+              "path": "/docs/1.0.0/api/working-with-chrome-extensions",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "api/working-with-selectors",
+              "path": "/docs/1.0.0/api/working-with-selectors",
+              "sidebar": "version-1.0.0/api"
+            },
+            {
+              "id": "ci",
+              "path": "/docs/1.0.0/ci",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "core-concepts",
+              "path": "/docs/1.0.0/core-concepts",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "docker/README",
+              "path": "/docs/1.0.0/docker/README"
+            },
+            {
+              "id": "emulation",
+              "path": "/docs/1.0.0/emulation",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "examples/README",
+              "path": "/docs/1.0.0/examples/README"
+            },
+            {
+              "id": "extensibility",
+              "path": "/docs/1.0.0/extensibility",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "input",
+              "path": "/docs/1.0.0/input",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "installation",
+              "path": "/docs/1.0.0/installation"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/1.0.0/intro",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "loading",
+              "path": "/docs/1.0.0/loading",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/1.0.0/network",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "README",
+              "path": "/docs/1.0.0/README"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/1.0.0/selectors",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "showcase",
+              "path": "/docs/1.0.0/showcase"
+            },
+            {
+              "id": "test-runners",
+              "path": "/docs/1.0.0/test-runners",
+              "sidebar": "version-1.0.0/docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/1.0.0/troubleshooting"
+            },
+            {
+              "id": "verification",
+              "path": "/docs/1.0.0/verification",
+              "sidebar": "version-1.0.0/docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

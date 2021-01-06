@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browsercontext",
+  "id": "api/class-browsercontext",
+  "isDocsHomePage": false,
+  "title": "BrowserContext",
+  "description": "* extends: EventEmitter",
+  "source": "@site/docs/api/class-browsercontext.md",
+  "slug": "/api/class-browsercontext",
+  "permalink": "/docs/next/api/class-browsercontext",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Browser",
+    "permalink": "/docs/next/api/class-browser"
+  },
+  "next": {
+    "title": "BrowserServer",
+    "permalink": "/docs/next/api/class-browserserver"
+  }
+}

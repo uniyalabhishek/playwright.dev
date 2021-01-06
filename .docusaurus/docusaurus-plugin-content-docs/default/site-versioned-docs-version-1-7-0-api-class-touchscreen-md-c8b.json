@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-touchscreen",
+  "id": "version-1.7.0/api/class-touchscreen",
+  "isDocsHomePage": false,
+  "title": "Touchscreen",
+  "description": "The Touchscreen class operates in main-frame CSS pixels relative to the top-left corner of the viewport. Methods on the",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-touchscreen.md",
+  "slug": "/api/class-touchscreen",
+  "permalink": "/docs/api/class-touchscreen",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "TimeoutError",
+    "permalink": "/docs/api/class-timeouterror"
+  },
+  "next": {
+    "title": "Video",
+    "permalink": "/docs/api/class-video"
+  }
+}

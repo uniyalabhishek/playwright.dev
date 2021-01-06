@@ -1,0 +1,11 @@
+{
+  "unversionedId": "examples/README",
+  "id": "version-1.2.0/examples/README",
+  "isDocsHomePage": false,
+  "title": "Example recipes",
+  "description": "Authentication",
+  "source": "@site/versioned_docs/version-1.2.0/examples/README.md",
+  "slug": "/examples/README",
+  "permalink": "/docs/1.2.0/examples/README",
+  "version": "1.2.0"
+}

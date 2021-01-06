@@ -1,0 +1,20 @@
+{
+  "unversionedId": "pom",
+  "id": "version-1.7.0/pom",
+  "isDocsHomePage": false,
+  "title": "Page Object Models",
+  "description": "Large test suites can be structured to optimize ease of authoring and maintenance.",
+  "source": "@site/versioned_docs/version-1.7.0/pom.md",
+  "slug": "/pom",
+  "permalink": "/docs/pom",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/docs",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/auth"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/docs/test-runners"
+  }
+}

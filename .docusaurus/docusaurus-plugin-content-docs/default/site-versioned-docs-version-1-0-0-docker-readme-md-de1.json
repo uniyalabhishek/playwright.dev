@@ -1,0 +1,11 @@
+{
+  "unversionedId": "docker/README",
+  "id": "version-1.0.0/docker/README",
+  "isDocsHomePage": false,
+  "title": "Running Playwright in Docker",
+  "description": "Dockerfile.bionic is a playwright-ready image of playwright.",
+  "source": "@site/versioned_docs/version-1.0.0/docker/README.md",
+  "slug": "/docker/README",
+  "permalink": "/docs/1.0.0/docker/README",
+  "version": "1.0.0"
+}

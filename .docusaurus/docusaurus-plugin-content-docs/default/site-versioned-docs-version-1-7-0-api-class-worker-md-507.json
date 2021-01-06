@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-worker",
+  "id": "version-1.7.0/api/class-worker",
+  "isDocsHomePage": false,
+  "title": "Worker",
+  "description": "The Worker class represents a WebWorker. worker",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-worker.md",
+  "slug": "/api/class-worker",
+  "permalink": "/docs/api/class-worker",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "WebSocket",
+    "permalink": "/docs/api/class-websocket"
+  },
+  "next": {
+    "title": "Environment Variables",
+    "permalink": "/docs/api/environment-variables"
+  }
+}

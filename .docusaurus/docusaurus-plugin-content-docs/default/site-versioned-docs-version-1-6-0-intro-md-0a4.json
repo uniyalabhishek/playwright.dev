@@ -1,0 +1,20 @@
+{
+  "unversionedId": "intro",
+  "id": "version-1.6.0/intro",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "- Installation",
+  "source": "@site/versioned_docs/version-1.6.0/intro.md",
+  "slug": "/intro",
+  "permalink": "/docs/1.6.0/intro",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/docs",
+  "previous": {
+    "title": "Why Playwright?",
+    "permalink": "/docs/1.6.0/why-playwright"
+  },
+  "next": {
+    "title": "Core concepts",
+    "permalink": "/docs/1.6.0/core-concepts"
+  }
+}
