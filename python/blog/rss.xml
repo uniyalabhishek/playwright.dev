@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Playwright Blog</title>
+        <link>https://playwright.dev/blog</link>
+        <description>Playwright Blog</description>
+        <lastBuildDate>Wed, 29 May 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Playwright 1.6]]></title>
+            <link>https://playwright.dev/python/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Playwright 1.6 is available today, with improvements to network capabilities: inspect WebSocket connections, export network activity as HAR and access resource timing for network responses. This release also adds a new API for touchscreen taps. Like other input methods, touchscreen taps auto-wait for the underlying element to be ready, to improve the reliability of automation.]]></description>
+        </item>
+    </channel>
+</rss>
