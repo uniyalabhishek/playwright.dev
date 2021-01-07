@@ -8,18 +8,18 @@
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Playwright Blog Atom Feed">
 <script src="js/redirection.js"></script><title data-react-helmet="true">Core concepts | Playwright</title><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_version" content="current"><meta data-react-helmet="true" name="docusaurus_tag" content="docs-default-current"><meta data-react-helmet="true" property="og:title" content="Core concepts | Playwright"><meta data-react-helmet="true" name="description" content="Playwright provides a set of APIs to automate Chromium, Firefox and WebKit browsers. By using the Playwright API, you can write JavaScript code to create new browser pages, navigate to URLs and then interact with elements on a page."><meta data-react-helmet="true" property="og:description" content="Playwright provides a set of APIs to automate Chromium, Firefox and WebKit browsers. By using the Playwright API, you can write JavaScript code to create new browser pages, navigate to URLs and then interact with elements on a page."><meta data-react-helmet="true" property="og:url" content="https://playwright.dev/docs/next/core-concepts"><link data-react-helmet="true" rel="shortcut icon" href="/img/playwright-logo.svg"><link data-react-helmet="true" rel="canonical" href="https://playwright.dev/docs/next/core-concepts"><link rel="stylesheet" href="/styles.3034b18b.css">
 <link rel="preload" href="/styles.d4b74f43.js" as="script">
-<link rel="preload" href="/runtime~main.f3ac1ae0.js" as="script">
+<link rel="preload" href="/runtime~main.f74e9769.js" as="script">
 <link rel="preload" href="/main.6817af03.js" as="script">
 <link rel="preload" href="/1.e85ddd0f.js" as="script">
 <link rel="preload" href="/2.33734efe.js" as="script">
-<link rel="preload" href="/01a85c17.ecb51a4b.js" as="script">
-<link rel="preload" href="/18b93cb3.e3503681.js" as="script">
-<link rel="preload" href="/1a4e3797.f2f077b6.js" as="script">
-<link rel="preload" href="/1be78505.0db0cfa5.js" as="script">
-<link rel="preload" href="/6875c492.4fdf7bf4.js" as="script">
-<link rel="preload" href="/a6aa9e1f.81c584c6.js" as="script">
-<link rel="preload" href="/c4f5d8e4.82e68592.js" as="script">
-<link rel="preload" href="/ccc49370.b66b0428.js" as="script">
+<link rel="preload" href="/01a85c17.b9f973db.js" as="script">
+<link rel="preload" href="/18b93cb3.22bd00a7.js" as="script">
+<link rel="preload" href="/1a4e3797.ea2c49d4.js" as="script">
+<link rel="preload" href="/1be78505.161025ab.js" as="script">
+<link rel="preload" href="/6875c492.098094e6.js" as="script">
+<link rel="preload" href="/a6aa9e1f.3a1d657d.js" as="script">
+<link rel="preload" href="/c4f5d8e4.2f15d1f5.js" as="script">
+<link rel="preload" href="/ccc49370.f5621228.js" as="script">
 <link rel="preload" href="/527.0f874fb4.js" as="script">
 <link rel="preload" href="/935f2afb.d33cb23a.js" as="script">
 <link rel="preload" href="/17896441.5488091b.js" as="script">
@@ -49,18 +49,18 @@
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"></span><span class="token comment" style="color:rgb(105, 112, 152);font-style:italic">// Get current length of the array using window.myArray reference.</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"></span><span class="token keyword" style="font-style:italic">const</span><span class="token plain"> newLength </span><span class="token operator" style="color:rgb(137, 221, 255)">=</span><span class="token plain"> </span><span class="token keyword" style="font-style:italic">await</span><span class="token plain"> page</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">evaluate</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(137, 221, 255)">=&gt;</span><span class="token plain"> </span><span class="token dom variable" style="color:rgb(191, 199, 213)">window</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token property-access">myArray</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token property-access">length</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"></span><span class="token comment" style="color:rgb(105, 112, 152);font-style:italic">// Release the object when it&#x27;s no longer needed.</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"></span><span class="token keyword" style="font-style:italic">await</span><span class="token plain"> myArrayHandle</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">dispose</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div><h4><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_prK2" id="api-reference-5"></a>API reference<a class="hash-link" href="#api-reference-5" title="Direct link to heading">#</a></h4><ul><li><a title="JSHandle" href="/docs/next/api/class-jshandle">JSHandle</a></li><li><a title="ElementHandle" href="/docs/next/api/class-elementhandle">ElementHandle</a></li><li><a href="/docs/next/api/class-page#pageevaluatehandlepagefunction-arg">page.evaluateHandle(pageFunction[, arg])</a></li><li><a href="/docs/next/api/class-page#pageselector">page.$(selector)</a></li><li><a href="/docs/next/api/class-page#pageselector-1">page.$$(selector)</a></li><li><a href="/docs/next/api/class-jshandle#jshandleevaluatepagefunction-arg">jsHandle.evaluate(pageFunction[, arg])</a></li></ul></div></article><div class="margin-vert--lg"><nav class="pagination-nav" aria-label="Blog list page navigation"><div class="pagination-nav__item"><a class="pagination-nav__link" href="/docs/next/intro"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">« Getting Started</div></a></div><div class="pagination-nav__item pagination-nav__item--next"><a class="pagination-nav__link" href="/docs/next/debug"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Debugging tools »</div></a></div></nav></div></div></div><div class="col col--3"><div class="tableOfContents_2xL- thin-scrollbar"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#browser" class="table-of-contents__link">Browser</a></li><li><a href="#browser-contexts" class="table-of-contents__link">Browser contexts</a></li><li><a href="#pages-and-frames" class="table-of-contents__link">Pages and frames</a></li><li><a href="#selectors" class="table-of-contents__link">Selectors</a></li><li><a href="#auto-waiting" class="table-of-contents__link">Auto-waiting</a></li><li><a href="#execution-contexts-nodejs-and-browser" class="table-of-contents__link">Execution contexts: Node.js and Browser</a></li><li><a href="#evaluation-argument" class="table-of-contents__link">Evaluation Argument</a></li><li><a href="#object--element-handles" class="table-of-contents__link">Object &amp; Element handles</a><ul><li><a href="#handles-lifecycle" class="table-of-contents__link">Handles Lifecycle</a></li><li><a href="#example-elementhandle" class="table-of-contents__link">Example: ElementHandle</a></li><li><a href="#example-jshandle" class="table-of-contents__link">Example: JSHandle</a></li></ul></li></ul></div></div></div></div></main></div></div><footer class="footer footer--dark"><div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">Docs</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/docs/intro">Getting started</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/api/class-playwright">API reference</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">Community</h4><ul class="footer__items"><li class="footer__item"><a href="https://stackoverflow.com/questions/tagged/playwright" target="_blank" rel="noopener noreferrer" class="footer__link-item">Stack Overflow</a></li><li class="footer__item"><a href="https://aka.ms/playwright-slack" target="_blank" rel="noopener noreferrer" class="footer__link-item">Slack</a></li><li class="footer__item"><a href="https://twitter.com/playwrightweb" target="_blank" rel="noopener noreferrer" class="footer__link-item">Twitter</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">More</h4><ul class="footer__items"><li class="footer__item"><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2021 Microsoft</div></div></div></footer></div>
 <script src="/styles.d4b74f43.js"></script>
-<script src="/runtime~main.f3ac1ae0.js"></script>
+<script src="/runtime~main.f74e9769.js"></script>
 <script src="/main.6817af03.js"></script>
 <script src="/1.e85ddd0f.js"></script>
 <script src="/2.33734efe.js"></script>
-<script src="/01a85c17.ecb51a4b.js"></script>
-<script src="/18b93cb3.e3503681.js"></script>
-<script src="/1a4e3797.f2f077b6.js"></script>
-<script src="/1be78505.0db0cfa5.js"></script>
-<script src="/6875c492.4fdf7bf4.js"></script>
-<script src="/a6aa9e1f.81c584c6.js"></script>
-<script src="/c4f5d8e4.82e68592.js"></script>
-<script src="/ccc49370.b66b0428.js"></script>
+<script src="/01a85c17.b9f973db.js"></script>
+<script src="/18b93cb3.22bd00a7.js"></script>
+<script src="/1a4e3797.ea2c49d4.js"></script>
+<script src="/1be78505.161025ab.js"></script>
+<script src="/6875c492.098094e6.js"></script>
+<script src="/a6aa9e1f.3a1d657d.js"></script>
+<script src="/c4f5d8e4.2f15d1f5.js"></script>
+<script src="/ccc49370.f5621228.js"></script>
 <script src="/527.0f874fb4.js"></script>
 <script src="/935f2afb.d33cb23a.js"></script>
 <script src="/17896441.5488091b.js"></script>
