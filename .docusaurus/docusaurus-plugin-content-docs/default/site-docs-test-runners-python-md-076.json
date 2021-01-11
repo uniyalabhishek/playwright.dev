@@ -1,0 +1,20 @@
+{
+  "unversionedId": "test-runners-python",
+  "id": "test-runners-python",
+  "isDocsHomePage": false,
+  "title": "Test Runners",
+  "description": "You can use our Pytest integration to write end-to-end tests in Python.",
+  "source": "@site/docs/test-runners-python.md",
+  "slug": "/test-runners-python",
+  "permalink": "/python/docs/test-runners-python",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Verification",
+    "permalink": "/python/docs/verification"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/python/docs/docker"
+  }
+}
