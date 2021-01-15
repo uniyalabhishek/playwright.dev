@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{76:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Playwright 1.6","permalink":"/python/blog/hello-world"}]}')}}]);
