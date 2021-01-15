@@ -1,0 +1,20 @@
+{
+  "unversionedId": "debug",
+  "id": "debug",
+  "isDocsHomePage": false,
+  "title": "Debugging tools",
+  "description": "Playwright scripts work with existing debugging tools, like Node.js debuggers and browser developer tools. Playwright also introduces new debugging features for browser automation.",
+  "source": "@site/docs/debug.mdx",
+  "slug": "/debug",
+  "permalink": "/python/docs/debug",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Core concepts",
+    "permalink": "/python/docs/core-concepts"
+  },
+  "next": {
+    "title": "Supported languages",
+    "permalink": "/python/docs/languages"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-frame",
+  "id": "version-1.6.0/api/class-frame",
+  "isDocsHomePage": false,
+  "title": "Frame",
+  "description": "At every point of time, page exposes its current frame tree via the page.mainFrame() and frame.childFrames() methods.",
+  "source": "@site/versioned_docs/version-1.6.0/api/class-frame.mdx",
+  "slug": "/api/class-frame",
+  "permalink": "/docs/1.6.0/api/class-frame",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/api",
+  "previous": {
+    "title": "Page",
+    "permalink": "/docs/1.6.0/api/class-page"
+  },
+  "next": {
+    "title": "ElementHandle",
+    "permalink": "/docs/1.6.0/api/class-elementhandle"
+  }
+}

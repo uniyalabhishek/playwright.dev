@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-keyboard",
+  "id": "api/class-keyboard",
+  "isDocsHomePage": false,
+  "title": "Keyboard",
+  "description": "Keyboard provides an api for managing a virtual keyboard. The high level api is keyboard.type(text, **options), which takes raw characters and generates proper keydown, keypress/input, and keyup events on your page.",
+  "source": "@site/docs/api/class-keyboard.mdx",
+  "slug": "/api/class-keyboard",
+  "permalink": "/python/docs/api/class-keyboard",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "JSHandle",
+    "permalink": "/python/docs/api/class-jshandle"
+  },
+  "next": {
+    "title": "Mouse",
+    "permalink": "/python/docs/api/class-mouse"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "network",
+  "id": "version-1.5.0/network",
+  "isDocsHomePage": false,
+  "title": "Network",
+  "description": "Playwright provides APIs to monitor and modify network traffic, both HTTP and HTTPS.",
+  "source": "@site/versioned_docs/version-1.5.0/network.mdx",
+  "slug": "/network",
+  "permalink": "/docs/1.5.0/network",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/docs",
+  "previous": {
+    "title": "Device and environment emulation",
+    "permalink": "/docs/1.5.0/emulation"
+  },
+  "next": {
+    "title": "Assertions",
+    "permalink": "/docs/1.5.0/assertions"
+  }
+}

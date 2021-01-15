@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-filechooser",
+  "id": "api/class-filechooser",
+  "isDocsHomePage": false,
+  "title": "FileChooser",
+  "description": "FileChooser] objects are dispatched by the page in the [page.on(\"filechooser\") event.",
+  "source": "@site/docs/api/class-filechooser.mdx",
+  "slug": "/api/class-filechooser",
+  "permalink": "/python/docs/api/class-filechooser",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "ElementHandle",
+    "permalink": "/python/docs/api/class-elementhandle"
+  },
+  "next": {
+    "title": "Frame",
+    "permalink": "/python/docs/api/class-frame"
+  }
+}

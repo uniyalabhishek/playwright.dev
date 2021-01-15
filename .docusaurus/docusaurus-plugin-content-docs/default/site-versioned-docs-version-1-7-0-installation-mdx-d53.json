@@ -1,0 +1,20 @@
+{
+  "unversionedId": "installation",
+  "id": "version-1.7.0/installation",
+  "isDocsHomePage": false,
+  "title": "Advanced installation",
+  "description": "- Managing browser binaries",
+  "source": "@site/versioned_docs/version-1.7.0/installation.mdx",
+  "slug": "/installation",
+  "permalink": "/docs/installation",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/docs",
+  "previous": {
+    "title": "Actionability",
+    "permalink": "/docs/actionability"
+  },
+  "next": {
+    "title": "Extensibility",
+    "permalink": "/docs/extensibility"
+  }
+}

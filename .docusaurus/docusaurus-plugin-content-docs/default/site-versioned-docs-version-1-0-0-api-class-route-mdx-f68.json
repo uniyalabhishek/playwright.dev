@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-route",
+  "id": "version-1.0.0/api/class-route",
+  "isDocsHomePage": false,
+  "title": "Route",
+  "description": "Whenever a network route is set up with page.route(url, handler) or browserContext.route(url, handler), the Route object allows to handle the route.",
+  "source": "@site/versioned_docs/version-1.0.0/api/class-route.mdx",
+  "slug": "/api/class-route",
+  "permalink": "/docs/1.0.0/api/class-route",
+  "version": "1.0.0",
+  "sidebar": "version-1.0.0/api",
+  "previous": {
+    "title": "Selectors",
+    "permalink": "/docs/1.0.0/api/class-selectors"
+  },
+  "next": {
+    "title": "TimeoutError",
+    "permalink": "/docs/1.0.0/api/class-timeouterror"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "docker/README",
+  "id": "version-1.4.0/docker/README",
+  "isDocsHomePage": false,
+  "title": "Running Playwright in Docker",
+  "description": "Dockerfile.bionic can be used to run Playwright scripts in Docker environments. This image includes all the dependencies needed to run browsers in a Docker container, including browsers.",
+  "source": "@site/versioned_docs/version-1.4.0/docker/README.mdx",
+  "slug": "/docker/README",
+  "permalink": "/docs/1.4.0/docker/README",
+  "version": "1.4.0",
+  "sidebar": "version-1.4.0/docs",
+  "previous": {
+    "title": "Test Runners",
+    "permalink": "/docs/1.4.0/test-runners"
+  },
+  "next": {
+    "title": "Continuous Integration",
+    "permalink": "/docs/1.4.0/ci"
+  }
+}

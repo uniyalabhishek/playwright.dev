@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-page",
+  "id": "api/class-page",
+  "isDocsHomePage": false,
+  "title": "Page",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/docs/api/class-page.mdx",
+  "slug": "/api/class-page",
+  "permalink": "/python/docs/api/class-page",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Mouse",
+    "permalink": "/python/docs/api/class-mouse"
+  },
+  "next": {
+    "title": "Request",
+    "permalink": "/python/docs/api/class-request"
+  }
+}

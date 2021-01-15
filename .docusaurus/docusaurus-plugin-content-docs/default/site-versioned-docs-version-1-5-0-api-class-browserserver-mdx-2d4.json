@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browserserver",
+  "id": "version-1.5.0/api/class-browserserver",
+  "isDocsHomePage": false,
+  "title": "BrowserServer",
+  "description": "- event: 'close'",
+  "source": "@site/versioned_docs/version-1.5.0/api/class-browserserver.mdx",
+  "slug": "/api/class-browserserver",
+  "permalink": "/docs/1.5.0/api/class-browserserver",
+  "version": "1.5.0",
+  "sidebar": "version-1.5.0/api",
+  "previous": {
+    "title": "Worker",
+    "permalink": "/docs/1.5.0/api/class-worker"
+  },
+  "next": {
+    "title": "BrowserType",
+    "permalink": "/docs/1.5.0/api/class-browsertype"
+  }
+}

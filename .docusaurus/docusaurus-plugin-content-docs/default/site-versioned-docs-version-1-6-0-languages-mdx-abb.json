@@ -1,0 +1,20 @@
+{
+  "unversionedId": "languages",
+  "id": "version-1.6.0/languages",
+  "isDocsHomePage": false,
+  "title": "Supported languages",
+  "description": "The Playwright API is available in multiple languages.",
+  "source": "@site/versioned_docs/version-1.6.0/languages.mdx",
+  "slug": "/languages",
+  "permalink": "/docs/1.6.0/languages",
+  "version": "1.6.0",
+  "sidebar": "version-1.6.0/docs",
+  "previous": {
+    "title": "Debugging tools",
+    "permalink": "/docs/1.6.0/debug"
+  },
+  "next": {
+    "title": "Element selectors",
+    "permalink": "/docs/1.6.0/selectors"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "cli",
+  "id": "cli",
+  "isDocsHomePage": false,
+  "title": "Command Line Interface",
+  "description": "Playwright comes with the command line tools that run via npx or as a part of the npm scripts.",
+  "source": "@site/docs/cli.mdx",
+  "slug": "/cli",
+  "permalink": "/python/docs/cli",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Continuous Integration",
+    "permalink": "/python/docs/ci"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-jshandle",
+  "id": "api/class-jshandle",
+  "isDocsHomePage": false,
+  "title": "JSHandle",
+  "description": "JSHandle represents an in-page JavaScript object. JSHandles can be created with the page.evaluatehandle(expression, **options) method.",
+  "source": "@site/docs/api/class-jshandle.mdx",
+  "slug": "/api/class-jshandle",
+  "permalink": "/python/docs/api/class-jshandle",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Frame",
+    "permalink": "/python/docs/api/class-frame"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/python/docs/api/class-keyboard"
+  }
+}

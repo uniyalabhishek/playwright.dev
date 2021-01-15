@@ -1,0 +1,11 @@
+{
+  "unversionedId": "mobile",
+  "id": "mobile",
+  "isDocsHomePage": false,
+  "title": "Experimental support for Chrome for Android",
+  "description": "- Requirements",
+  "source": "@site/docs/mobile.mdx",
+  "slug": "/mobile",
+  "permalink": "/python/docs/mobile",
+  "version": "current"
+}

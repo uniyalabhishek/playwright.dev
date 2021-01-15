@@ -1,0 +1,20 @@
+{
+  "unversionedId": "verification",
+  "id": "verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Videos",
+  "source": "@site/docs/verification.mdx",
+  "slug": "/verification",
+  "permalink": "/python/docs/verification",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Page Object Models",
+    "permalink": "/python/docs/pom"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/python/docs/test-runners-python"
+  }
+}

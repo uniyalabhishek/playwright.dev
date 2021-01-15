@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-chromiumbrowser",
+  "id": "version-1.4.0/api/class-chromiumbrowser",
+  "isDocsHomePage": false,
+  "title": "ChromiumBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/versioned_docs/version-1.4.0/api/class-chromiumbrowser.mdx",
+  "slug": "/api/class-chromiumbrowser",
+  "permalink": "/docs/1.4.0/api/class-chromiumbrowser",
+  "version": "1.4.0",
+  "sidebar": "version-1.4.0/api",
+  "previous": {
+    "title": "Logger",
+    "permalink": "/docs/1.4.0/api/class-logger"
+  },
+  "next": {
+    "title": "ChromiumBrowserContext",
+    "permalink": "/docs/1.4.0/api/class-chromiumbrowsercontext"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-consolemessage",
+  "id": "version-1.7.0/api/class-consolemessage",
+  "isDocsHomePage": false,
+  "title": "ConsoleMessage",
+  "description": "ConsoleMessage] objects are dispatched by page via the [page.on('console') event.",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-consolemessage.mdx",
+  "slug": "/api/class-consolemessage",
+  "permalink": "/docs/api/class-consolemessage",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "ChromiumCoverage",
+    "permalink": "/docs/api/class-chromiumcoverage"
+  },
+  "next": {
+    "title": "Dialog",
+    "permalink": "/docs/api/class-dialog"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "docker/README",
+  "id": "version-1.7.0/docker/README",
+  "isDocsHomePage": false,
+  "title": "Running Playwright in Docker",
+  "description": "Dockerfile.bionic and Dockerfile.focal can be used to run Playwright scripts in Docker environments. These images includes all the dependencies needed to run browsers in a Docker container, including browsers.",
+  "source": "@site/versioned_docs/version-1.7.0/docker/README.mdx",
+  "slug": "/docker/README",
+  "permalink": "/docs/docker/README",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/docs",
+  "previous": {
+    "title": "Test Runners",
+    "permalink": "/docs/test-runners"
+  },
+  "next": {
+    "title": "Continuous Integration",
+    "permalink": "/docs/ci"
+  }
+}

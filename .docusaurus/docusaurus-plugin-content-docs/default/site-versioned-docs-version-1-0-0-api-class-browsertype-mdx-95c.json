@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browsertype",
+  "id": "version-1.0.0/api/class-browsertype",
+  "isDocsHomePage": false,
+  "title": "BrowserType",
+  "description": "BrowserType provides methods to launch a specific browser instance or connect to an existing one.",
+  "source": "@site/versioned_docs/version-1.0.0/api/class-browsertype.mdx",
+  "slug": "/api/class-browsertype",
+  "permalink": "/docs/1.0.0/api/class-browsertype",
+  "version": "1.0.0",
+  "sidebar": "version-1.0.0/api",
+  "previous": {
+    "title": "BrowserServer",
+    "permalink": "/docs/1.0.0/api/class-browserserver"
+  },
+  "next": {
+    "title": "Logger",
+    "permalink": "/docs/1.0.0/api/class-logger"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/evaluationargument",
+  "id": "version-1.7.0/api/evaluationargument",
+  "isDocsHomePage": false,
+  "title": "EvaluationArgument",
+  "description": "Playwright evaluation methods like page.evaluate(pageFunction[, arg]) take a single optional argument. This argument can be a mix of [Serializable] values and [JSHandle] or [ElementHandle] instances. Handles are automatically converted to the value they represent.",
+  "source": "@site/versioned_docs/version-1.7.0/api/evaluationargument.mdx",
+  "slug": "/api/evaluationargument",
+  "permalink": "/docs/api/evaluationargument",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "Environment Variables",
+    "permalink": "/docs/api/environment-variables"
+  },
+  "next": {
+    "title": "Working with Chrome Extensions",
+    "permalink": "/docs/api/working-with-chrome-extensions"
+  }
+}

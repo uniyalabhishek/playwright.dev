@@ -1,0 +1,11 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "- Installation",
+  "source": "@site/docs/intro.mdx",
+  "slug": "/intro",
+  "permalink": "/python/docs/intro",
+  "version": "current"
+}

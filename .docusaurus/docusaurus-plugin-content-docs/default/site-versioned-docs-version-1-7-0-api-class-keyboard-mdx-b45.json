@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-keyboard",
+  "id": "version-1.7.0/api/class-keyboard",
+  "isDocsHomePage": false,
+  "title": "Keyboard",
+  "description": "Keyboard provides an api for managing a virtual keyboard. The high level api is keyboard.type(text[, options]), which takes raw",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-keyboard.mdx",
+  "slug": "/api/class-keyboard",
+  "permalink": "/docs/api/class-keyboard",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "JSHandle",
+    "permalink": "/docs/api/class-jshandle"
+  },
+  "next": {
+    "title": "Logger",
+    "permalink": "/docs/api/class-logger"
+  }
+}

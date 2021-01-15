@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-video",
+  "id": "api/class-video",
+  "isDocsHomePage": false,
+  "title": "Video",
+  "description": "When browser context is created with the videosPath option, each page has a video object associated with it.",
+  "source": "@site/docs/api/class-video.mdx",
+  "slug": "/api/class-video",
+  "permalink": "/python/docs/api/class-video",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Touchscreen",
+    "permalink": "/python/docs/api/class-touchscreen"
+  },
+  "next": {
+    "title": "WebSocket",
+    "permalink": "/python/docs/api/class-websocket"
+  }
+}

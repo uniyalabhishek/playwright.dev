@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/environment-variables",
+  "id": "version-1.0.0/api/environment-variables",
+  "isDocsHomePage": false,
+  "title": "Environment Variables",
+  "description": "NOTE playwright-core does not respect environment variables.",
+  "source": "@site/versioned_docs/version-1.0.0/api/environment-variables.mdx",
+  "slug": "/api/environment-variables",
+  "permalink": "/docs/1.0.0/api/environment-variables",
+  "version": "1.0.0",
+  "sidebar": "version-1.0.0/api",
+  "previous": {
+    "title": "WebKitBrowser",
+    "permalink": "/docs/1.0.0/api/class-webkitbrowser"
+  },
+  "next": {
+    "title": "Working with selectors",
+    "permalink": "/docs/1.0.0/api/working-with-selectors"
+  }
+}

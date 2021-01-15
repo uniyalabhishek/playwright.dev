@@ -1,0 +1,11 @@
+{
+  "unversionedId": "mobile",
+  "id": "version-1.7.0/mobile",
+  "isDocsHomePage": false,
+  "title": "Experimental support for Chrome for Android",
+  "description": "You can try Playwright against Chrome for Android today. This support is experimental. Support for devices is tracked in the issue #1122.",
+  "source": "@site/versioned_docs/version-1.7.0/mobile.mdx",
+  "slug": "/mobile",
+  "permalink": "/docs/mobile",
+  "version": "1.7.0"
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browser",
+  "id": "api/class-browser",
+  "isDocsHomePage": false,
+  "title": "Browser",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/docs/api/class-browser.mdx",
+  "slug": "/api/class-browser",
+  "permalink": "/python/docs/api/class-browser",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/python/docs/api/class-accessibility"
+  },
+  "next": {
+    "title": "BrowserContext",
+    "permalink": "/python/docs/api/class-browsercontext"
+  }
+}

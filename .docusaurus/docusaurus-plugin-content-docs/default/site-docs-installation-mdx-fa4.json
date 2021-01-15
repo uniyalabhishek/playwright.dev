@@ -1,0 +1,20 @@
+{
+  "unversionedId": "installation",
+  "id": "installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "- Managing browser binaries",
+  "source": "@site/docs/installation.mdx",
+  "slug": "/installation",
+  "permalink": "/python/docs/installation",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Input",
+    "permalink": "/python/docs/input"
+  },
+  "next": {
+    "title": "Multi-page scenarios",
+    "permalink": "/python/docs/multi-pages"
+  }
+}

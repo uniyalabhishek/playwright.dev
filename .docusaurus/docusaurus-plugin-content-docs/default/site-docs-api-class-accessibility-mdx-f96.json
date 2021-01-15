@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-accessibility",
+  "id": "api/class-accessibility",
+  "isDocsHomePage": false,
+  "title": "Accessibility",
+  "description": "The Accessibility class provides methods for inspecting Chromium's accessibility tree. The accessibility tree is used by assistive technology such as screen readers or switches.",
+  "source": "@site/docs/api/class-accessibility.mdx",
+  "slug": "/api/class-accessibility",
+  "permalink": "/python/docs/api/class-accessibility",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/python/docs/api/class-playwright"
+  },
+  "next": {
+    "title": "Browser",
+    "permalink": "/python/docs/api/class-browser"
+  }
+}

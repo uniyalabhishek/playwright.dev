@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-request",
+  "id": "version-1.4.0/api/class-request",
+  "isDocsHomePage": false,
+  "title": "Request",
+  "description": "Whenever the page sends a request for a network resource the following sequence of events are emitted by [Page]:",
+  "source": "@site/versioned_docs/version-1.4.0/api/class-request.mdx",
+  "slug": "/api/class-request",
+  "permalink": "/docs/1.4.0/api/class-request",
+  "version": "1.4.0",
+  "sidebar": "version-1.4.0/api",
+  "previous": {
+    "title": "Mouse",
+    "permalink": "/docs/1.4.0/api/class-mouse"
+  },
+  "next": {
+    "title": "Response",
+    "permalink": "/docs/1.4.0/api/class-response"
+  }
+}

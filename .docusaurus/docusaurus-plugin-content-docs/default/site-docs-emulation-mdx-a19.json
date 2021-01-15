@@ -1,0 +1,20 @@
+{
+  "unversionedId": "emulation",
+  "id": "emulation",
+  "isDocsHomePage": false,
+  "title": "Device and environment emulation",
+  "description": "Playwright allows overriding various parameters of the device where the browser is running:",
+  "source": "@site/docs/emulation.mdx",
+  "slug": "/emulation",
+  "permalink": "/python/docs/emulation",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Element selectors",
+    "permalink": "/python/docs/selectors"
+  },
+  "next": {
+    "title": "Extensibility",
+    "permalink": "/python/docs/extensibility"
+  }
+}

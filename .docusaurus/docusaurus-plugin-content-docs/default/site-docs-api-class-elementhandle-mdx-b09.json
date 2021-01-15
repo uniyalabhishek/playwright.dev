@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-elementhandle",
+  "id": "api/class-elementhandle",
+  "isDocsHomePage": false,
+  "title": "ElementHandle",
+  "description": "* extends: [JSHandle]",
+  "source": "@site/docs/api/class-elementhandle.mdx",
+  "slug": "/api/class-elementhandle",
+  "permalink": "/python/docs/api/class-elementhandle",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Download",
+    "permalink": "/python/docs/api/class-download"
+  },
+  "next": {
+    "title": "FileChooser",
+    "permalink": "/python/docs/api/class-filechooser"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "navigations",
+  "id": "navigations",
+  "isDocsHomePage": false,
+  "title": "Navigations",
+  "description": "Playwright can navigate to URLs and handle navigations caused by page interactions. This guide covers common scenarios to wait for page navigations and loading to complete.",
+  "source": "@site/docs/navigations.mdx",
+  "slug": "/navigations",
+  "permalink": "/python/docs/navigations",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Multi-page scenarios",
+    "permalink": "/python/docs/multi-pages"
+  },
+  "next": {
+    "title": "Network",
+    "permalink": "/python/docs/network"
+  }
+}

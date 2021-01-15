@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-touchscreen",
+  "id": "api/class-touchscreen",
+  "isDocsHomePage": false,
+  "title": "Touchscreen",
+  "description": "The Touchscreen class operates in main-frame CSS pixels relative to the top-left corner of the viewport. Methods on the touchscreen can only be used in browser contexts that have been intialized with hasTouch set to true.",
+  "source": "@site/docs/api/class-touchscreen.mdx",
+  "slug": "/api/class-touchscreen",
+  "permalink": "/python/docs/api/class-touchscreen",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "TimeoutError",
+    "permalink": "/python/docs/api/class-timeouterror"
+  },
+  "next": {
+    "title": "Video",
+    "permalink": "/python/docs/api/class-video"
+  }
+}

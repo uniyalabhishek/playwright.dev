@@ -1,0 +1,11 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "- Browser dependencies",
+  "source": "@site/docs/troubleshooting.mdx",
+  "slug": "/troubleshooting",
+  "permalink": "/python/docs/troubleshooting",
+  "version": "current"
+}

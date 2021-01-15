@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-consolemessage",
+  "id": "api/class-consolemessage",
+  "isDocsHomePage": false,
+  "title": "ConsoleMessage",
+  "description": "ConsoleMessage] objects are dispatched by page via the [page.on(\"console\") event.",
+  "source": "@site/docs/api/class-consolemessage.mdx",
+  "slug": "/api/class-consolemessage",
+  "permalink": "/python/docs/api/class-consolemessage",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "ChromiumBrowserContext",
+    "permalink": "/python/docs/api/class-chromiumbrowsercontext"
+  },
+  "next": {
+    "title": "Dialog",
+    "permalink": "/python/docs/api/class-dialog"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-timeouterror",
+  "id": "version-1.4.0/api/class-timeouterror",
+  "isDocsHomePage": false,
+  "title": "TimeoutError",
+  "description": "* extends: [Error]",
+  "source": "@site/versioned_docs/version-1.4.0/api/class-timeouterror.mdx",
+  "slug": "/api/class-timeouterror",
+  "permalink": "/docs/1.4.0/api/class-timeouterror",
+  "version": "1.4.0",
+  "sidebar": "version-1.4.0/api",
+  "previous": {
+    "title": "Route",
+    "permalink": "/docs/1.4.0/api/class-route"
+  },
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/docs/1.4.0/api/class-accessibility"
+  }
+}

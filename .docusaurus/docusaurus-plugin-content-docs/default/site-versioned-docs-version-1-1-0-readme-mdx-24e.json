@@ -1,0 +1,11 @@
+{
+  "unversionedId": "README",
+  "id": "version-1.1.0/README",
+  "isDocsHomePage": false,
+  "title": "Documentation",
+  "description": "Table of contents",
+  "source": "@site/versioned_docs/version-1.1.0/README.mdx",
+  "slug": "/README",
+  "permalink": "/docs/1.1.0/README",
+  "version": "1.1.0"
+}

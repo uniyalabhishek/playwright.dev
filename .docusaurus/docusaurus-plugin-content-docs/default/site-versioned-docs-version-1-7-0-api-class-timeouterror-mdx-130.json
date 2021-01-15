@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-timeouterror",
+  "id": "version-1.7.0/api/class-timeouterror",
+  "isDocsHomePage": false,
+  "title": "TimeoutError",
+  "description": "* extends: [Error]",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-timeouterror.mdx",
+  "slug": "/api/class-timeouterror",
+  "permalink": "/docs/api/class-timeouterror",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "Selectors",
+    "permalink": "/docs/api/class-selectors"
+  },
+  "next": {
+    "title": "Touchscreen",
+    "permalink": "/docs/api/class-touchscreen"
+  }
+}

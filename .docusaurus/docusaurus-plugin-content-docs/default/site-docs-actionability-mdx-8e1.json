@@ -1,0 +1,20 @@
+{
+  "unversionedId": "actionability",
+  "id": "actionability",
+  "isDocsHomePage": false,
+  "title": "Actionability",
+  "description": "Playwright does a range of actionability checks on the elements before performing certain actions. These checks ensure that action behaves as expected, for example Playwright does not click on a disabled button.",
+  "source": "@site/docs/actionability.mdx",
+  "slug": "/actionability",
+  "permalink": "/python/docs/actionability",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Supported languages",
+    "permalink": "/python/docs/languages"
+  },
+  "next": {
+    "title": "Assertions",
+    "permalink": "/python/docs/assertions"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-frame",
+  "id": "version-1.7.0/api/class-frame",
+  "isDocsHomePage": false,
+  "title": "Frame",
+  "description": "At every point of time, page exposes its current frame tree via the page.mainFrame() and frame.childFrames()",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-frame.mdx",
+  "slug": "/api/class-frame",
+  "permalink": "/docs/api/class-frame",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "FirefoxBrowser",
+    "permalink": "/docs/api/class-firefoxbrowser"
+  },
+  "next": {
+    "title": "JSHandle",
+    "permalink": "/docs/api/class-jshandle"
+  }
+}

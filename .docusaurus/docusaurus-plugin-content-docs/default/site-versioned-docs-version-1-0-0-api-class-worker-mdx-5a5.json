@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-worker",
+  "id": "version-1.0.0/api/class-worker",
+  "isDocsHomePage": false,
+  "title": "Worker",
+  "description": "The Worker class represents a WebWorker.",
+  "source": "@site/versioned_docs/version-1.0.0/api/class-worker.mdx",
+  "slug": "/api/class-worker",
+  "permalink": "/docs/1.0.0/api/class-worker",
+  "version": "1.0.0",
+  "sidebar": "version-1.0.0/api",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/docs/1.0.0/api/class-accessibility"
+  },
+  "next": {
+    "title": "BrowserServer",
+    "permalink": "/docs/1.0.0/api/class-browserserver"
+  }
+}

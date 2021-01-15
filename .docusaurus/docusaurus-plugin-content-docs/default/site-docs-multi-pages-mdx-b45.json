@@ -1,0 +1,20 @@
+{
+  "unversionedId": "multi-pages",
+  "id": "multi-pages",
+  "isDocsHomePage": false,
+  "title": "Multi-page scenarios",
+  "description": "Playwright can automate scenarios that span multiple browser contexts or multiple tabs in a browser window.",
+  "source": "@site/docs/multi-pages.mdx",
+  "slug": "/multi-pages",
+  "permalink": "/python/docs/multi-pages",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/python/docs/installation"
+  },
+  "next": {
+    "title": "Navigations",
+    "permalink": "/python/docs/navigations"
+  }
+}

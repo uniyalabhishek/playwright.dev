@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-firefoxbrowser",
+  "id": "version-1.7.0/api/class-firefoxbrowser",
+  "isDocsHomePage": false,
+  "title": "FirefoxBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/versioned_docs/version-1.7.0/api/class-firefoxbrowser.mdx",
+  "slug": "/api/class-firefoxbrowser",
+  "permalink": "/docs/api/class-firefoxbrowser",
+  "version": "1.7.0",
+  "sidebar": "version-1.7.0/api",
+  "previous": {
+    "title": "FileChooser",
+    "permalink": "/docs/api/class-filechooser"
+  },
+  "next": {
+    "title": "Frame",
+    "permalink": "/docs/api/class-frame"
+  }
+}

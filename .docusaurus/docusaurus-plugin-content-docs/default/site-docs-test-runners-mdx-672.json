@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-runners",
+  "id": "test-runners",
+  "isDocsHomePage": false,
+  "title": "Test Runners",
+  "description": "With a few lines of code, you can hook up Playwright to your favorite JavaScript test runner.",
+  "source": "@site/docs/test-runners.mdx",
+  "slug": "/test-runners",
+  "permalink": "/python/docs/test-runners",
+  "version": "current"
+}

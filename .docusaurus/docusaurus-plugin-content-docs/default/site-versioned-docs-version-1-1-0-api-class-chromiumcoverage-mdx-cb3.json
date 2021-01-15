@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-chromiumcoverage",
+  "id": "version-1.1.0/api/class-chromiumcoverage",
+  "isDocsHomePage": false,
+  "title": "ChromiumCoverage",
+  "description": "Coverage gathers information about parts of JavaScript and CSS that were used by the page.",
+  "source": "@site/versioned_docs/version-1.1.0/api/class-chromiumcoverage.mdx",
+  "slug": "/api/class-chromiumcoverage",
+  "permalink": "/docs/1.1.0/api/class-chromiumcoverage",
+  "version": "1.1.0",
+  "sidebar": "version-1.1.0/api",
+  "previous": {
+    "title": "ChromiumBrowserContext",
+    "permalink": "/docs/1.1.0/api/class-chromiumbrowsercontext"
+  },
+  "next": {
+    "title": "CDPSession",
+    "permalink": "/docs/1.1.0/api/class-cdpsession"
+  }
+}
