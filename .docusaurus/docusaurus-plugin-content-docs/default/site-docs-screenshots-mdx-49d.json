@@ -1,0 +1,11 @@
+{
+  "unversionedId": "screenshots",
+  "id": "screenshots",
+  "isDocsHomePage": false,
+  "title": "Screenshots",
+  "description": "- Screenshots",
+  "source": "@site/docs/screenshots.mdx",
+  "slug": "/screenshots",
+  "permalink": "/python/docs/screenshots",
+  "version": "current"
+}
