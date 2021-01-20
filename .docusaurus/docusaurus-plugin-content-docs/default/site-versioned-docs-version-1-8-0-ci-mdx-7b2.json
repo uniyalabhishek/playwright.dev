@@ -1,0 +1,20 @@
+{
+  "unversionedId": "ci",
+  "id": "version-1.8.0/ci",
+  "isDocsHomePage": false,
+  "title": "Continuous Integration",
+  "description": "Playwright tests can be executed in CI environments. We have created sample configurations for common CI providers.",
+  "source": "@site/versioned_docs/version-1.8.0/ci.mdx",
+  "slug": "/ci",
+  "permalink": "/python/docs/ci",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/docs",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/python/docs/docker"
+  },
+  "next": {
+    "title": "Command Line Interface",
+    "permalink": "/python/docs/cli"
+  }
+}

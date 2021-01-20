@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browsercontext",
+  "id": "version-1.8.0/api/class-browsercontext",
+  "isDocsHomePage": false,
+  "title": "BrowserContext",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/versioned_docs/version-1.8.0/api/class-browsercontext.mdx",
+  "slug": "/api/class-browsercontext",
+  "permalink": "/python/docs/api/class-browsercontext",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/api",
+  "previous": {
+    "title": "Browser",
+    "permalink": "/python/docs/api/class-browser"
+  },
+  "next": {
+    "title": "BrowserType",
+    "permalink": "/python/docs/api/class-browsertype"
+  }
+}

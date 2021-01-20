@@ -1,0 +1,20 @@
+{
+  "unversionedId": "extensibility",
+  "id": "version-1.8.0/extensibility",
+  "isDocsHomePage": false,
+  "title": "Extensibility",
+  "description": "- Custom selector engines",
+  "source": "@site/versioned_docs/version-1.8.0/extensibility.mdx",
+  "slug": "/extensibility",
+  "permalink": "/python/docs/extensibility",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/docs",
+  "previous": {
+    "title": "Emulation",
+    "permalink": "/python/docs/emulation"
+  },
+  "next": {
+    "title": "Input",
+    "permalink": "/python/docs/input"
+  }
+}

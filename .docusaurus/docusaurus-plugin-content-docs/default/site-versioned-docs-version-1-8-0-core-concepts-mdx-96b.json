@@ -1,0 +1,20 @@
+{
+  "unversionedId": "core-concepts",
+  "id": "version-1.8.0/core-concepts",
+  "isDocsHomePage": false,
+  "title": "Core concepts",
+  "description": "Playwright provides a set of APIs to automate Chromium, Firefox and WebKit browsers. By using the Playwright API, you can write JavaScript code to create new browser pages, navigate to URLs and then interact with elements on a page.",
+  "source": "@site/versioned_docs/version-1.8.0/core-concepts.mdx",
+  "slug": "/core-concepts",
+  "permalink": "/python/docs/core-concepts",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/python/docs/intro"
+  },
+  "next": {
+    "title": "Debugging tools",
+    "permalink": "/python/docs/debug"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "installation",
+  "id": "version-1.8.0/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "- Managing browser binaries",
+  "source": "@site/versioned_docs/version-1.8.0/installation.mdx",
+  "slug": "/installation",
+  "permalink": "/python/docs/installation",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/docs",
+  "previous": {
+    "title": "Input",
+    "permalink": "/python/docs/input"
+  },
+  "next": {
+    "title": "Multi-page scenarios",
+    "permalink": "/python/docs/multi-pages"
+  }
+}

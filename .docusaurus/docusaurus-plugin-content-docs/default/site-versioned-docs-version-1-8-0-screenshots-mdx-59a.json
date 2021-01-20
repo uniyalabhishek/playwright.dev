@@ -1,0 +1,11 @@
+{
+  "unversionedId": "screenshots",
+  "id": "version-1.8.0/screenshots",
+  "isDocsHomePage": false,
+  "title": "Screenshots",
+  "description": "Here is a quick way to capture a screenshot and save it into a file:",
+  "source": "@site/versioned_docs/version-1.8.0/screenshots.mdx",
+  "slug": "/screenshots",
+  "permalink": "/python/docs/screenshots",
+  "version": "1.8.0"
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "intro",
+  "id": "version-1.8.0/intro",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "- Installation",
+  "source": "@site/versioned_docs/version-1.8.0/intro.mdx",
+  "slug": "/intro",
+  "permalink": "/python/docs/intro",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/docs",
+  "previous": {
+    "title": "Why Playwright?",
+    "permalink": "/python/docs/why-playwright"
+  },
+  "next": {
+    "title": "Core concepts",
+    "permalink": "/python/docs/core-concepts"
+  }
+}

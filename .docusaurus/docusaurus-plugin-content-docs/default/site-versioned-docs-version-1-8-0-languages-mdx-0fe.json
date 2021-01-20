@@ -1,0 +1,20 @@
+{
+  "unversionedId": "languages",
+  "id": "version-1.8.0/languages",
+  "isDocsHomePage": false,
+  "title": "Supported languages",
+  "description": "The Playwright API is available in multiple languages.",
+  "source": "@site/versioned_docs/version-1.8.0/languages.mdx",
+  "slug": "/languages",
+  "permalink": "/python/docs/languages",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/docs",
+  "previous": {
+    "title": "Debugging tools",
+    "permalink": "/python/docs/debug"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/python/docs/actionability"
+  }
+}

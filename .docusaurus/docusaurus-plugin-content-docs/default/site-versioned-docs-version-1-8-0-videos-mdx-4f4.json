@@ -1,0 +1,11 @@
+{
+  "unversionedId": "videos",
+  "id": "version-1.8.0/videos",
+  "isDocsHomePage": false,
+  "title": "Videos",
+  "description": "Playwright can record videos for all pages in a browser context. Videos are saved upon context closure, so make sure to await browsercontext.close().",
+  "source": "@site/versioned_docs/version-1.8.0/videos.mdx",
+  "slug": "/videos",
+  "permalink": "/python/docs/videos",
+  "version": "1.8.0"
+}

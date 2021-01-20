@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-mouse",
+  "id": "version-1.8.0/api/class-mouse",
+  "isDocsHomePage": false,
+  "title": "Mouse",
+  "description": "The Mouse class operates in main-frame CSS pixels relative to the top-left corner of the viewport.",
+  "source": "@site/versioned_docs/version-1.8.0/api/class-mouse.mdx",
+  "slug": "/api/class-mouse",
+  "permalink": "/python/docs/api/class-mouse",
+  "version": "1.8.0",
+  "sidebar": "version-1.8.0/api",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/python/docs/api/class-keyboard"
+  },
+  "next": {
+    "title": "Page",
+    "permalink": "/python/docs/api/class-page"
+  }
+}
