@@ -1,0 +1,11 @@
+{
+  "unversionedId": "api/class-android",
+  "id": "api/class-android",
+  "isDocsHomePage": false,
+  "title": "Android",
+  "description": "Playwright has experimental support for Android automation. You can access android namespace via:",
+  "source": "@site/docs/api/class-android.mdx",
+  "slug": "/api/class-android",
+  "permalink": "/docs/next/api/class-android",
+  "version": "current"
+}

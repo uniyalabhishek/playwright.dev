@@ -1,0 +1,11 @@
+{
+  "unversionedId": "api/class-androidwebview",
+  "id": "api/class-androidwebview",
+  "isDocsHomePage": false,
+  "title": "AndroidWebView",
+  "description": "AndroidWebView] represents a WebView open on the [AndroidDevice]. WebView is usually obtained using [androidDevice.webView(selector[, options]).",
+  "source": "@site/docs/api/class-androidwebview.mdx",
+  "slug": "/api/class-androidwebview",
+  "permalink": "/docs/next/api/class-androidwebview",
+  "version": "current"
+}

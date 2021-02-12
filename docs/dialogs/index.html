@@ -7,23 +7,23 @@
 <link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Playwright Blog RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Playwright Blog Atom Feed">
 <script src="js/redirection.js"></script><title data-react-helmet="true">Dialogs | Playwright</title><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_version" content="1.8.0"><meta data-react-helmet="true" name="docusaurus_tag" content="docs-default-1.8.0"><meta data-react-helmet="true" property="og:title" content="Dialogs | Playwright"><meta data-react-helmet="true" name="description" content="Playwright can interact with the web page dialogs such as alert, confirm, prompt as well as beforeunload confirmation."><meta data-react-helmet="true" property="og:description" content="Playwright can interact with the web page dialogs such as alert, confirm, prompt as well as beforeunload confirmation."><meta data-react-helmet="true" property="og:url" content="https://playwright.dev/docs/dialogs"><link data-react-helmet="true" rel="shortcut icon" href="/img/playwright-logo.svg"><link data-react-helmet="true" rel="canonical" href="https://playwright.dev/docs/dialogs"><link rel="stylesheet" href="/styles.da88aef1.css">
-<link rel="preload" href="/styles.1d5280ce.js" as="script">
-<link rel="preload" href="/runtime~main.1589289d.js" as="script">
-<link rel="preload" href="/main.5d23c300.js" as="script">
-<link rel="preload" href="/1.83ac4fef.js" as="script">
-<link rel="preload" href="/2.9b6d4f8f.js" as="script">
-<link rel="preload" href="/01a85c17.30b67d0b.js" as="script">
-<link rel="preload" href="/1a4e3797.a297f180.js" as="script">
-<link rel="preload" href="/1be78505.63c9f1d8.js" as="script">
-<link rel="preload" href="/1df93b7f.d500635c.js" as="script">
-<link rel="preload" href="/6875c492.ac70cc33.js" as="script">
-<link rel="preload" href="/a6aa9e1f.82971be7.js" as="script">
-<link rel="preload" href="/ccc49370.ffb71cec.js" as="script">
-<link rel="preload" href="/fa17a3e5.20941435.js" as="script">
-<link rel="preload" href="/597.1f73efd4.js" as="script">
+<link rel="preload" href="/styles.b9933f0f.js" as="script">
+<link rel="preload" href="/runtime~main.09ec3e67.js" as="script">
+<link rel="preload" href="/main.8a9ee55d.js" as="script">
+<link rel="preload" href="/1.e6f279b0.js" as="script">
+<link rel="preload" href="/2.7627857d.js" as="script">
+<link rel="preload" href="/01a85c17.24faf452.js" as="script">
+<link rel="preload" href="/1a4e3797.d0f73c2b.js" as="script">
+<link rel="preload" href="/1be78505.77c22951.js" as="script">
+<link rel="preload" href="/1df93b7f.0032ff63.js" as="script">
+<link rel="preload" href="/6875c492.f7126630.js" as="script">
+<link rel="preload" href="/a6aa9e1f.8bf787ec.js" as="script">
+<link rel="preload" href="/ccc49370.96b053e7.js" as="script">
+<link rel="preload" href="/fa17a3e5.c0efad91.js" as="script">
+<link rel="preload" href="/603.18acce84.js" as="script">
 <link rel="preload" href="/15f73fc1.9e29a303.js" as="script">
-<link rel="preload" href="/17896441.61aa59f1.js" as="script">
-<link rel="preload" href="/cc6768bf.d12c0037.js" as="script">
+<link rel="preload" href="/17896441.af25d887.js" as="script">
+<link rel="preload" href="/cc6768bf.d13d9fd6.js" as="script">
 </head>
 <body>
 <script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"dark")}()</script><div id="__docusaurus">
@@ -32,22 +32,22 @@ WRONG!
 :::</p><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-js codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token keyword" style="font-style:italic">await</span><span class="token plain"> page</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">click</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token string" style="color:rgb(195, 232, 141)">&#x27;button&#x27;</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span><span class="token plain"> </span><span class="token comment" style="color:rgb(105, 112, 152);font-style:italic">// Will hang here</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">page</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">on</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token string" style="color:rgb(195, 232, 141)">&#x27;dialog&#x27;</span><span class="token punctuation" style="color:rgb(199, 146, 234)">,</span><span class="token plain"> </span><span class="token parameter">dialog</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(137, 221, 255)">=&gt;</span><span class="token plain"> dialog</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">accept</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div><p>:::warn
 WRONG!
 :::</p><h3><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_prK2" id="api-reference"></a>API reference<a class="hash-link" href="#api-reference" title="Direct link to heading">#</a></h3><ul><li>[<code>Dialog</code>]</li><li><a href="/docs/api/class-dialog#dialogacceptprompttext">dialog.accept([promptText])</a></li><li><a href="/docs/api/class-dialog#dialogdismiss">dialog.dismiss()</a></li></ul><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_prK2" id="beforeunload-dialog"></a>beforeunload dialog<a class="hash-link" href="#beforeunload-dialog" title="Direct link to heading">#</a></h2><p>When <a href="/docs/api/class-page#pagecloseoptions">page.close([options])</a> is invoked with the truthy <code>runBeforeUnload</code> value, it page runs its unload handlers. This is the only case when <a href="/docs/api/class-page#pagecloseoptions">page.close([options])</a> does not wait for the page to actually close, because it might be that the page stays open in the end of the operation.</p><p>You can register a dialog handler to handle the beforeunload dialog yourself:</p><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-js codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain">page</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">on</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token string" style="color:rgb(195, 232, 141)">&#x27;dialog&#x27;</span><span class="token punctuation" style="color:rgb(199, 146, 234)">,</span><span class="token plain"> </span><span class="token keyword" style="font-style:italic">async</span><span class="token plain"> </span><span class="token parameter">dialog</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(137, 221, 255)">=&gt;</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(199, 146, 234)">{</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">  </span><span class="token function" style="color:rgb(130, 170, 255)">assert</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token plain">dialog</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">type</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token plain"> </span><span class="token operator" style="color:rgb(137, 221, 255)">===</span><span class="token plain"> </span><span class="token string" style="color:rgb(195, 232, 141)">&#x27;beforeunload&#x27;</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">  </span><span class="token keyword" style="font-style:italic">await</span><span class="token plain"> dialog</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">dismiss</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"></span><span class="token punctuation" style="color:rgb(199, 146, 234)">}</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span><span class="token plain"></span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"></span><span class="token keyword" style="font-style:italic">await</span><span class="token plain"> page</span><span class="token punctuation" style="color:rgb(199, 146, 234)">.</span><span class="token method function property-access" style="color:rgb(130, 170, 255)">close</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">{</span><span class="token plain">runBeforeUnload</span><span class="token punctuation" style="color:rgb(199, 146, 234)">:</span><span class="token plain"> </span><span class="token boolean" style="color:rgb(255, 88, 116)">true</span><span class="token punctuation" style="color:rgb(199, 146, 234)">}</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">;</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div></div></article><div class="margin-vert--lg"><nav class="pagination-nav" aria-label="Blog list page navigation"><div class="pagination-nav__item"><a class="pagination-nav__link" href="/docs/auth"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">« Authentication</div></a></div><div class="pagination-nav__item pagination-nav__item--next"><a class="pagination-nav__link" href="/docs/downloads"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Downloads »</div></a></div></nav></div></div></div><div class="col col--3"><div class="tableOfContents_2xL- thin-scrollbar"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#alert-confirm-prompt-dialogs" class="table-of-contents__link">alert(), confirm(), prompt() dialogs</a><ul><li><a href="#api-reference" class="table-of-contents__link">API reference</a></li></ul></li><li><a href="#beforeunload-dialog" class="table-of-contents__link">beforeunload dialog</a></li></ul></div></div></div></div></main></div></div><footer class="footer footer--dark"><div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">Docs</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/docs/intro">Getting started</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/api/class-playwright">API reference</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">Community</h4><ul class="footer__items"><li class="footer__item"><a href="https://stackoverflow.com/questions/tagged/playwright" target="_blank" rel="noopener noreferrer" class="footer__link-item">Stack Overflow</a></li><li class="footer__item"><a href="https://aka.ms/playwright-slack" target="_blank" rel="noopener noreferrer" class="footer__link-item">Slack</a></li><li class="footer__item"><a href="https://twitter.com/playwrightweb" target="_blank" rel="noopener noreferrer" class="footer__link-item">Twitter</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">More</h4><ul class="footer__items"><li class="footer__item"><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2021 Microsoft</div></div></div></footer></div>
-<script src="/styles.1d5280ce.js"></script>
-<script src="/runtime~main.1589289d.js"></script>
-<script src="/main.5d23c300.js"></script>
-<script src="/1.83ac4fef.js"></script>
-<script src="/2.9b6d4f8f.js"></script>
-<script src="/01a85c17.30b67d0b.js"></script>
-<script src="/1a4e3797.a297f180.js"></script>
-<script src="/1be78505.63c9f1d8.js"></script>
-<script src="/1df93b7f.d500635c.js"></script>
-<script src="/6875c492.ac70cc33.js"></script>
-<script src="/a6aa9e1f.82971be7.js"></script>
-<script src="/ccc49370.ffb71cec.js"></script>
-<script src="/fa17a3e5.20941435.js"></script>
-<script src="/597.1f73efd4.js"></script>
+<script src="/styles.b9933f0f.js"></script>
+<script src="/runtime~main.09ec3e67.js"></script>
+<script src="/main.8a9ee55d.js"></script>
+<script src="/1.e6f279b0.js"></script>
+<script src="/2.7627857d.js"></script>
+<script src="/01a85c17.24faf452.js"></script>
+<script src="/1a4e3797.d0f73c2b.js"></script>
+<script src="/1be78505.77c22951.js"></script>
+<script src="/1df93b7f.0032ff63.js"></script>
+<script src="/6875c492.f7126630.js"></script>
+<script src="/a6aa9e1f.8bf787ec.js"></script>
+<script src="/ccc49370.96b053e7.js"></script>
+<script src="/fa17a3e5.c0efad91.js"></script>
+<script src="/603.18acce84.js"></script>
 <script src="/15f73fc1.9e29a303.js"></script>
-<script src="/17896441.61aa59f1.js"></script>
-<script src="/cc6768bf.d12c0037.js"></script>
+<script src="/17896441.af25d887.js"></script>
+<script src="/cc6768bf.d13d9fd6.js"></script>
 </body>
 </html>

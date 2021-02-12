@@ -1,0 +1,11 @@
+{
+  "unversionedId": "release-notes",
+  "id": "release-notes",
+  "isDocsHomePage": false,
+  "title": "Release notes",
+  "description": "- Version 1.8",
+  "source": "@site/docs/release-notes.mdx",
+  "slug": "/release-notes",
+  "permalink": "/python/docs/next/release-notes",
+  "version": "current"
+}

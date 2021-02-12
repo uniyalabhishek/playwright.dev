@@ -1,0 +1,11 @@
+{
+  "unversionedId": "api/class-androidinput",
+  "id": "api/class-androidinput",
+  "isDocsHomePage": false,
+  "title": "AndroidInput",
+  "description": "- androidInput.drag(from, to, steps)",
+  "source": "@site/docs/api/class-androidinput.mdx",
+  "slug": "/api/class-androidinput",
+  "permalink": "/docs/next/api/class-androidinput",
+  "version": "current"
+}
