@@ -8,22 +8,22 @@
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Playwright Blog Atom Feed">
 <script src="js/redirection.js"></script><title data-react-helmet="true">Debugging tools | Playwright</title><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_version" content="1.5.0"><meta data-react-helmet="true" name="docusaurus_tag" content="docs-default-1.5.0"><meta data-react-helmet="true" property="og:title" content="Debugging tools | Playwright"><meta data-react-helmet="true" name="description" content="Playwright scripts work with existing debugging tools, like Node.js debuggers"><meta data-react-helmet="true" property="og:description" content="Playwright scripts work with existing debugging tools, like Node.js debuggers"><meta data-react-helmet="true" property="og:url" content="https://playwright.dev/docs/1.5.0/debug"><link data-react-helmet="true" rel="shortcut icon" href="/img/playwright-logo.svg"><link data-react-helmet="true" rel="canonical" href="https://playwright.dev/docs/1.5.0/debug"><link rel="stylesheet" href="/styles.da88aef1.css">
 <link rel="preload" href="/styles.b9933f0f.js" as="script">
-<link rel="preload" href="/runtime~main.d5bae652.js" as="script">
-<link rel="preload" href="/main.8a9ee55d.js" as="script">
-<link rel="preload" href="/1.e6f279b0.js" as="script">
-<link rel="preload" href="/2.7627857d.js" as="script">
-<link rel="preload" href="/01a85c17.24faf452.js" as="script">
-<link rel="preload" href="/1a4e3797.d0f73c2b.js" as="script">
-<link rel="preload" href="/1be78505.77c22951.js" as="script">
-<link rel="preload" href="/1df93b7f.0032ff63.js" as="script">
-<link rel="preload" href="/6875c492.f7126630.js" as="script">
-<link rel="preload" href="/a6aa9e1f.8bf787ec.js" as="script">
-<link rel="preload" href="/ccc49370.96b053e7.js" as="script">
-<link rel="preload" href="/fa17a3e5.c0efad91.js" as="script">
-<link rel="preload" href="/603.18acce84.js" as="script">
-<link rel="preload" href="/93e59a16.a4778bd8.js" as="script">
-<link rel="preload" href="/17896441.af25d887.js" as="script">
-<link rel="preload" href="/caa4e78f.1684e277.js" as="script">
+<link rel="preload" href="/runtime~main.3880f361.js" as="script">
+<link rel="preload" href="/main.494e484d.js" as="script">
+<link rel="preload" href="/1.735efdb8.js" as="script">
+<link rel="preload" href="/2.13ca540e.js" as="script">
+<link rel="preload" href="/01a85c17.893db873.js" as="script">
+<link rel="preload" href="/1a4e3797.ad7c043c.js" as="script">
+<link rel="preload" href="/1be78505.477fc935.js" as="script">
+<link rel="preload" href="/1df93b7f.41f190e9.js" as="script">
+<link rel="preload" href="/6875c492.9e3234cc.js" as="script">
+<link rel="preload" href="/a6aa9e1f.11284264.js" as="script">
+<link rel="preload" href="/ccc49370.e84ea17a.js" as="script">
+<link rel="preload" href="/fa17a3e5.2870594f.js" as="script">
+<link rel="preload" href="/604.26bc4f47.js" as="script">
+<link rel="preload" href="/93e59a16.ed518ce8.js" as="script">
+<link rel="preload" href="/17896441.71780093.js" as="script">
+<link rel="preload" href="/caa4e78f.539924bd.js" as="script">
 </head>
 <body>
 <script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"dark")}()</script><div id="__docusaurus">
@@ -48,21 +48,21 @@ how <code>page.$$</code> would see the page.</li><li><code>playwright.inspect(se
 This improves the debugging experience for JavaScript executions in the page context.</p><a href="https://user-images.githubusercontent.com/284612/86857568-a6c63100-c073-11ea-82a4-bfd531a4ec87.png" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/284612/86857568-a6c63100-c073-11ea-82a4-bfd531a4ec87.png" width="500" alt="Highlight selectors"></a><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_prK2" id="verbose-api-logs"></a>Verbose API logs<a class="hash-link" href="#verbose-api-logs" title="Direct link to heading">#</a></h2><p>Playwright supports verbose logging with the <code>DEBUG</code> environment variable.</p><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-sh codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain"># Linux/macOS</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">$ DEBUG=pw:api npm run test</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain"># Windows</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">$ set DEBUG=pw:api</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">$ npm run test</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div></div></article><div class="margin-vert--lg"><nav class="pagination-nav" aria-label="Blog list page navigation"><div class="pagination-nav__item"><a class="pagination-nav__link" href="/docs/1.5.0/core-concepts"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">« Core concepts</div></a></div><div class="pagination-nav__item pagination-nav__item--next"><a class="pagination-nav__link" href="/docs/1.5.0/languages"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Supported languages »</div></a></div></nav></div></div></div><div class="col col--3"><div class="tableOfContents_2xL- thin-scrollbar"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#run-in-headful-mode" class="table-of-contents__link">Run in headful mode</a></li><li><a href="#visual-studio-code-debugger" class="table-of-contents__link">Visual Studio Code debugger</a><ul><li><a href="#use-launch-config" class="table-of-contents__link">Use launch config</a></li><li><a href="#use-the-new-javascript-debugger" class="table-of-contents__link">Use the new JavaScript debugger</a></li></ul></li><li><a href="#browser-developer-tools" class="table-of-contents__link">Browser Developer Tools</a><ul><li><a href="#api-for-chromium" class="table-of-contents__link">API for Chromium</a></li></ul></li><li><a href="#run-in-debug-mode" class="table-of-contents__link">Run in Debug Mode</a><ul><li><a href="#defaults" class="table-of-contents__link">Defaults</a></li><li><a href="#debugging-selectors" class="table-of-contents__link">Debugging Selectors</a></li><li><a href="#evaluate-source-maps" class="table-of-contents__link">Evaluate Source Maps</a></li></ul></li><li><a href="#verbose-api-logs" class="table-of-contents__link">Verbose API logs</a></li></ul></div></div></div></div></main></div></div><footer class="footer footer--dark"><div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">Docs</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/docs/intro">Getting started</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/api/class-playwright">API reference</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">Community</h4><ul class="footer__items"><li class="footer__item"><a href="https://stackoverflow.com/questions/tagged/playwright" target="_blank" rel="noopener noreferrer" class="footer__link-item">Stack Overflow</a></li><li class="footer__item"><a href="https://aka.ms/playwright-slack" target="_blank" rel="noopener noreferrer" class="footer__link-item">Slack</a></li><li class="footer__item"><a href="https://twitter.com/playwrightweb" target="_blank" rel="noopener noreferrer" class="footer__link-item">Twitter</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">More</h4><ul class="footer__items"><li class="footer__item"><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2021 Microsoft</div></div></div></footer></div>
 <script src="/styles.b9933f0f.js"></script>
-<script src="/runtime~main.d5bae652.js"></script>
-<script src="/main.8a9ee55d.js"></script>
-<script src="/1.e6f279b0.js"></script>
-<script src="/2.7627857d.js"></script>
-<script src="/01a85c17.24faf452.js"></script>
-<script src="/1a4e3797.d0f73c2b.js"></script>
-<script src="/1be78505.77c22951.js"></script>
-<script src="/1df93b7f.0032ff63.js"></script>
-<script src="/6875c492.f7126630.js"></script>
-<script src="/a6aa9e1f.8bf787ec.js"></script>
-<script src="/ccc49370.96b053e7.js"></script>
-<script src="/fa17a3e5.c0efad91.js"></script>
-<script src="/603.18acce84.js"></script>
-<script src="/93e59a16.a4778bd8.js"></script>
-<script src="/17896441.af25d887.js"></script>
-<script src="/caa4e78f.1684e277.js"></script>
+<script src="/runtime~main.3880f361.js"></script>
+<script src="/main.494e484d.js"></script>
+<script src="/1.735efdb8.js"></script>
+<script src="/2.13ca540e.js"></script>
+<script src="/01a85c17.893db873.js"></script>
+<script src="/1a4e3797.ad7c043c.js"></script>
+<script src="/1be78505.477fc935.js"></script>
+<script src="/1df93b7f.41f190e9.js"></script>
+<script src="/6875c492.9e3234cc.js"></script>
+<script src="/a6aa9e1f.11284264.js"></script>
+<script src="/ccc49370.e84ea17a.js"></script>
+<script src="/fa17a3e5.2870594f.js"></script>
+<script src="/604.26bc4f47.js"></script>
+<script src="/93e59a16.ed518ce8.js"></script>
+<script src="/17896441.71780093.js"></script>
+<script src="/caa4e78f.539924bd.js"></script>
 </body>
 </html>

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "inspector",
+  "id": "inspector",
+  "isDocsHomePage": false,
+  "title": "Inspector",
+  "description": "Playwright Inspector is a GUI tool that helps authoring and debugging Playwright scripts.",
+  "source": "@site/docs/inspector.mdx",
+  "slug": "/inspector",
+  "permalink": "/python/docs/next/inspector",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Input",
+    "permalink": "/python/docs/next/input"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/python/docs/next/installation"
+  }
+}
