@@ -1,0 +1,20 @@
+{
+  "unversionedId": "downloads",
+  "id": "version-1.9.0/downloads",
+  "isDocsHomePage": false,
+  "title": "Downloads",
+  "description": "For uploading files, see the uploading files section.",
+  "source": "@site/versioned_docs/version-1.9.0/downloads.mdx",
+  "slug": "/downloads",
+  "permalink": "/python/docs/downloads",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/docs",
+  "previous": {
+    "title": "Dialogs",
+    "permalink": "/python/docs/dialogs"
+  },
+  "next": {
+    "title": "Element selectors",
+    "permalink": "/python/docs/selectors"
+  }
+}

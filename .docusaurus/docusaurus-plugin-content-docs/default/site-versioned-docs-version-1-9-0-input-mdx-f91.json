@@ -1,0 +1,20 @@
+{
+  "unversionedId": "input",
+  "id": "version-1.9.0/input",
+  "isDocsHomePage": false,
+  "title": "Input",
+  "description": "- Text input",
+  "source": "@site/versioned_docs/version-1.9.0/input.mdx",
+  "slug": "/input",
+  "permalink": "/python/docs/input",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/docs",
+  "previous": {
+    "title": "Extensibility",
+    "permalink": "/python/docs/extensibility"
+  },
+  "next": {
+    "title": "Inspector",
+    "permalink": "/python/docs/inspector"
+  }
+}

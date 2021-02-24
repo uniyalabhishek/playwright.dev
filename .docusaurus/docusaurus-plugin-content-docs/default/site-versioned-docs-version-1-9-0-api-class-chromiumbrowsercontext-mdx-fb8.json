@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-chromiumbrowsercontext",
+  "id": "version-1.9.0/api/class-chromiumbrowsercontext",
+  "isDocsHomePage": false,
+  "title": "ChromiumBrowserContext",
+  "description": "* extends: [BrowserContext]",
+  "source": "@site/versioned_docs/version-1.9.0/api/class-chromiumbrowsercontext.mdx",
+  "slug": "/api/class-chromiumbrowsercontext",
+  "permalink": "/python/docs/api/class-chromiumbrowsercontext",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/api",
+  "previous": {
+    "title": "CDPSession",
+    "permalink": "/python/docs/api/class-cdpsession"
+  },
+  "next": {
+    "title": "ConsoleMessage",
+    "permalink": "/python/docs/api/class-consolemessage"
+  }
+}

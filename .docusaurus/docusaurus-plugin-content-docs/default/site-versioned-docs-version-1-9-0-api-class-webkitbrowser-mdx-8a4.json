@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-webkitbrowser",
+  "id": "version-1.9.0/api/class-webkitbrowser",
+  "isDocsHomePage": false,
+  "title": "WebKitBrowser",
+  "description": "* extends: [Browser]",
+  "source": "@site/versioned_docs/version-1.9.0/api/class-webkitbrowser.mdx",
+  "slug": "/api/class-webkitbrowser",
+  "permalink": "/docs/api/class-webkitbrowser",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/api",
+  "previous": {
+    "title": "Video",
+    "permalink": "/docs/api/class-video"
+  },
+  "next": {
+    "title": "WebSocket",
+    "permalink": "/docs/api/class-websocket"
+  }
+}

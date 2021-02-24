@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-androidsocket",
+  "id": "version-1.9.0/api/class-androidsocket",
+  "isDocsHomePage": false,
+  "title": "AndroidSocket",
+  "description": "AndroidSocket] is a way to communicate with a process launched on the [AndroidDevice]. Use [androidDevice.open(command) to open a socket.",
+  "source": "@site/versioned_docs/version-1.9.0/api/class-androidsocket.mdx",
+  "slug": "/api/class-androidsocket",
+  "permalink": "/docs/api/class-androidsocket",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/api",
+  "previous": {
+    "title": "AndroidInput",
+    "permalink": "/docs/api/class-androidinput"
+  },
+  "next": {
+    "title": "AndroidWebView",
+    "permalink": "/docs/api/class-androidwebview"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "auth",
+  "id": "version-1.9.0/auth",
+  "isDocsHomePage": false,
+  "title": "Authentication",
+  "description": "Playwright can be used to automate scenarios that require authentication.",
+  "source": "@site/versioned_docs/version-1.9.0/auth.mdx",
+  "slug": "/auth",
+  "permalink": "/python/docs/auth",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/python/docs/assertions"
+  },
+  "next": {
+    "title": "Dialogs",
+    "permalink": "/python/docs/dialogs"
+  }
+}

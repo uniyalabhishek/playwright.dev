@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-download",
+  "id": "version-1.9.0/api/class-download",
+  "isDocsHomePage": false,
+  "title": "Download",
+  "description": "Download] objects are dispatched by page via the [page.on(\"download\") event.",
+  "source": "@site/versioned_docs/version-1.9.0/api/class-download.mdx",
+  "slug": "/api/class-download",
+  "permalink": "/python/docs/api/class-download",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/api",
+  "previous": {
+    "title": "Dialog",
+    "permalink": "/python/docs/api/class-dialog"
+  },
+  "next": {
+    "title": "ElementHandle",
+    "permalink": "/python/docs/api/class-elementhandle"
+  }
+}

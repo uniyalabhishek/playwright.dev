@@ -1,0 +1,20 @@
+{
+  "unversionedId": "verification",
+  "id": "version-1.9.0/verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Console logs",
+  "source": "@site/versioned_docs/version-1.9.0/verification.mdx",
+  "slug": "/verification",
+  "permalink": "/python/docs/verification",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/docs",
+  "previous": {
+    "title": "Page Object Models",
+    "permalink": "/python/docs/pom"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/python/docs/test-runners"
+  }
+}

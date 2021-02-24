@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-frame",
+  "id": "version-1.9.0/api/class-frame",
+  "isDocsHomePage": false,
+  "title": "Frame",
+  "description": "At every point of time, page exposes its current frame tree via the page.mainframe and frame.childframes methods.",
+  "source": "@site/versioned_docs/version-1.9.0/api/class-frame.mdx",
+  "slug": "/api/class-frame",
+  "permalink": "/python/docs/api/class-frame",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/api",
+  "previous": {
+    "title": "FileChooser",
+    "permalink": "/python/docs/api/class-filechooser"
+  },
+  "next": {
+    "title": "JSHandle",
+    "permalink": "/python/docs/api/class-jshandle"
+  }
+}

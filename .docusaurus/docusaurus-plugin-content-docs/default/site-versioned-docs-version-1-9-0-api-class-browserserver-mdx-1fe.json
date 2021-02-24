@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browserserver",
+  "id": "version-1.9.0/api/class-browserserver",
+  "isDocsHomePage": false,
+  "title": "BrowserServer",
+  "description": "- browserServer.on('close')",
+  "source": "@site/versioned_docs/version-1.9.0/api/class-browserserver.mdx",
+  "slug": "/api/class-browserserver",
+  "permalink": "/docs/api/class-browserserver",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/api",
+  "previous": {
+    "title": "BrowserContext",
+    "permalink": "/docs/api/class-browsercontext"
+  },
+  "next": {
+    "title": "BrowserType",
+    "permalink": "/docs/api/class-browsertype"
+  }
+}

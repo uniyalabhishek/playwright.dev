@@ -1,0 +1,20 @@
+{
+  "unversionedId": "inspector",
+  "id": "version-1.9.0/inspector",
+  "isDocsHomePage": false,
+  "title": "Inspector",
+  "description": "Playwright Inspector is a GUI tool that helps authoring and debugging Playwright scripts.",
+  "source": "@site/versioned_docs/version-1.9.0/inspector.mdx",
+  "slug": "/inspector",
+  "permalink": "/python/docs/inspector",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/docs",
+  "previous": {
+    "title": "Input",
+    "permalink": "/python/docs/input"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/python/docs/installation"
+  }
+}

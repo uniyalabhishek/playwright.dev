@@ -1,0 +1,20 @@
+{
+  "unversionedId": "assertions",
+  "id": "version-1.9.0/assertions",
+  "isDocsHomePage": false,
+  "title": "Assertions",
+  "description": "Playwright provides convenience APIs for common tasks, like reading the text content of an element. These APIs can be used in your test assertions.",
+  "source": "@site/versioned_docs/version-1.9.0/assertions.mdx",
+  "slug": "/assertions",
+  "permalink": "/python/docs/assertions",
+  "version": "1.9.0",
+  "sidebar": "version-1.9.0/docs",
+  "previous": {
+    "title": "Auto-waiting",
+    "permalink": "/python/docs/actionability"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/python/docs/auth"
+  }
+}
