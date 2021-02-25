@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://playwright.dev/blog</id>
+    <title>Playwright Blog</title>
+    <updated>2019-05-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://playwright.dev/blog"/>
+    <subtitle>Playwright Blog</subtitle>
+    <icon>https://playwright.dev/img/playwright-logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Playwright 1.6]]></title>
+        <id>hello-world</id>
+        <link href="https://playwright.dev/java/blog/hello-world"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Playwright 1.6 is available today, with improvements to network capabilities: inspect WebSocket connections, export network activity as HAR and access resource timing for network responses. This release also adds a new API for touchscreen taps. Like other input methods, touchscreen taps auto-wait for the underlying element to be ready, to improve the reliability of automation.]]></summary>
+    </entry>
+</feed>
