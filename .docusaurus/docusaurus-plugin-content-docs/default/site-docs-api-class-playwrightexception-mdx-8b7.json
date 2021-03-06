@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-playwrightexception",
+  "id": "api/class-playwrightexception",
+  "isDocsHomePage": false,
+  "title": "PlaywrightException",
+  "description": "* extends: [RuntimeException]",
+  "source": "@site/docs/api/class-playwrightexception.mdx",
+  "slug": "/api/class-playwrightexception",
+  "permalink": "/java/docs/api/class-playwrightexception",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Page",
+    "permalink": "/java/docs/api/class-page"
+  },
+  "next": {
+    "title": "Request",
+    "permalink": "/java/docs/api/class-request"
+  }
+}
