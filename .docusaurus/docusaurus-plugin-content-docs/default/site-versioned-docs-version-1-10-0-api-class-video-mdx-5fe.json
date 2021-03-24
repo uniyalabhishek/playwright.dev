@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-video",
+  "id": "version-1.10.0/api/class-video",
+  "isDocsHomePage": false,
+  "title": "Video",
+  "description": "When browser context is created with the videosPath option, each page has a video object associated with it.",
+  "source": "@site/versioned_docs/version-1.10.0/api/class-video.mdx",
+  "slug": "/api/class-video",
+  "permalink": "/java/docs/api/class-video",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/api",
+  "previous": {
+    "title": "Touchscreen",
+    "permalink": "/java/docs/api/class-touchscreen"
+  },
+  "next": {
+    "title": "WebSocket",
+    "permalink": "/java/docs/api/class-websocket"
+  }
+}

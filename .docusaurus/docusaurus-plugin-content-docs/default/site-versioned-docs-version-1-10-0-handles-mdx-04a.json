@@ -1,0 +1,11 @@
+{
+  "unversionedId": "handles",
+  "id": "version-1.10.0/handles",
+  "isDocsHomePage": false,
+  "title": "Handles",
+  "description": "Playwright can create handles to the page DOM elements or any other objects inside the page. These handles live in the Playwright process, whereas the actual objects live in the browser. There are two types of handles:",
+  "source": "@site/versioned_docs/version-1.10.0/handles.mdx",
+  "slug": "/handles",
+  "permalink": "/java/docs/handles",
+  "version": "1.10.0"
+}

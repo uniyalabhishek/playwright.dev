@@ -1,0 +1,20 @@
+{
+  "unversionedId": "docker",
+  "id": "version-1.10.0/docker",
+  "isDocsHomePage": false,
+  "title": "Docker",
+  "description": "Dockerfile.bionic and Dockerfile.focal can be used to run Playwright scripts in Docker environments. These images includes all the dependencies needed to run browsers in a Docker container, and also include the browsers themselves.",
+  "source": "@site/versioned_docs/version-1.10.0/docker.mdx",
+  "slug": "/docker",
+  "permalink": "/java/docs/docker",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/docs",
+  "previous": {
+    "title": "Verification",
+    "permalink": "/java/docs/verification"
+  },
+  "next": {
+    "title": "Continuous Integration",
+    "permalink": "/java/docs/ci"
+  }
+}

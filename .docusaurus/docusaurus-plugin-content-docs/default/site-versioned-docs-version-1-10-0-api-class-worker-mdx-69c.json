@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-worker",
+  "id": "version-1.10.0/api/class-worker",
+  "isDocsHomePage": false,
+  "title": "Worker",
+  "description": "The Worker class represents a WebWorker. worker event is emitted on the page object to signal a worker creation. close event is emitted on the worker object when the worker is gone.",
+  "source": "@site/versioned_docs/version-1.10.0/api/class-worker.mdx",
+  "slug": "/api/class-worker",
+  "permalink": "/java/docs/api/class-worker",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/api",
+  "previous": {
+    "title": "WebSocketFrame",
+    "permalink": "/java/docs/api/class-websocketframe"
+  }
+}

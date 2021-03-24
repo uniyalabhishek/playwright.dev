@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-electronapplication",
+  "id": "version-1.10.0/api/class-electronapplication",
+  "isDocsHomePage": false,
+  "title": "ElectronApplication",
+  "description": "Electron application representation. You can use electron.launch([options]) to obtain the application instance. This instance you can control main electron process as well as work with Electron windows:",
+  "source": "@site/versioned_docs/version-1.10.0/api/class-electronapplication.mdx",
+  "slug": "/api/class-electronapplication",
+  "permalink": "/docs/api/class-electronapplication",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/api",
+  "previous": {
+    "title": "Electron",
+    "permalink": "/docs/api/class-electron"
+  }
+}

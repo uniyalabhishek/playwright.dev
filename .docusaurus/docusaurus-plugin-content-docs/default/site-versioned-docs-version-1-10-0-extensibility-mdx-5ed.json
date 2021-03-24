@@ -1,0 +1,20 @@
+{
+  "unversionedId": "extensibility",
+  "id": "version-1.10.0/extensibility",
+  "isDocsHomePage": false,
+  "title": "Extensibility",
+  "description": "- Custom selector engines",
+  "source": "@site/versioned_docs/version-1.10.0/extensibility.mdx",
+  "slug": "/extensibility",
+  "permalink": "/java/docs/extensibility",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/docs",
+  "previous": {
+    "title": "Events",
+    "permalink": "/java/docs/events"
+  },
+  "next": {
+    "title": "Input",
+    "permalink": "/java/docs/input"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-androiddevice",
+  "id": "version-1.10.0/api/class-androiddevice",
+  "isDocsHomePage": false,
+  "title": "AndroidDevice",
+  "description": "AndroidDevice] represents a connected device, either real hardware or emulated. Devices can be obtained using [android.devices().",
+  "source": "@site/versioned_docs/version-1.10.0/api/class-androiddevice.mdx",
+  "slug": "/api/class-androiddevice",
+  "permalink": "/docs/api/class-androiddevice",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/api",
+  "previous": {
+    "title": "Android",
+    "permalink": "/docs/api/class-android"
+  },
+  "next": {
+    "title": "AndroidInput",
+    "permalink": "/docs/api/class-androidinput"
+  }
+}

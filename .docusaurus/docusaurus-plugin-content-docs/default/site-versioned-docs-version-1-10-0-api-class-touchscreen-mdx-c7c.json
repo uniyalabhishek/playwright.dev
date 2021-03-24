@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-touchscreen",
+  "id": "version-1.10.0/api/class-touchscreen",
+  "isDocsHomePage": false,
+  "title": "Touchscreen",
+  "description": "The Touchscreen class operates in main-frame CSS pixels relative to the top-left corner of the viewport. Methods on the touchscreen can only be used in browser contexts that have been intialized with hasTouch set to true.",
+  "source": "@site/versioned_docs/version-1.10.0/api/class-touchscreen.mdx",
+  "slug": "/api/class-touchscreen",
+  "permalink": "/java/docs/api/class-touchscreen",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/api",
+  "previous": {
+    "title": "TimeoutError",
+    "permalink": "/java/docs/api/class-timeouterror"
+  },
+  "next": {
+    "title": "Video",
+    "permalink": "/java/docs/api/class-video"
+  }
+}

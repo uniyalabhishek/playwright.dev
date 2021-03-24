@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-page",
+  "id": "version-1.10.0/api/class-page",
+  "isDocsHomePage": false,
+  "title": "Page",
+  "description": "Page provides methods to interact with a single tab in a Browser], or an [extension background page in Chromium. One [Browser] instance might have multiple [Page] instances.",
+  "source": "@site/versioned_docs/version-1.10.0/api/class-page.mdx",
+  "slug": "/api/class-page",
+  "permalink": "/java/docs/api/class-page",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/api",
+  "previous": {
+    "title": "Mouse",
+    "permalink": "/java/docs/api/class-mouse"
+  },
+  "next": {
+    "title": "PlaywrightException",
+    "permalink": "/java/docs/api/class-playwrightexception"
+  }
+}

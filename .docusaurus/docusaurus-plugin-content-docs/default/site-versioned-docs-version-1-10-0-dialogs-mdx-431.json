@@ -1,0 +1,20 @@
+{
+  "unversionedId": "dialogs",
+  "id": "version-1.10.0/dialogs",
+  "isDocsHomePage": false,
+  "title": "Dialogs",
+  "description": "Playwright can interact with the web page dialogs such as alert, confirm, prompt as well as beforeunload confirmation.",
+  "source": "@site/versioned_docs/version-1.10.0/dialogs.mdx",
+  "slug": "/dialogs",
+  "permalink": "/java/docs/dialogs",
+  "version": "1.10.0",
+  "sidebar": "version-1.10.0/docs",
+  "previous": {
+    "title": "Browsers",
+    "permalink": "/java/docs/browsers"
+  },
+  "next": {
+    "title": "Downloads",
+    "permalink": "/java/docs/downloads"
+  }
+}
