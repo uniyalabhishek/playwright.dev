@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-error",
+  "id": "api/class-error",
+  "isDocsHomePage": false,
+  "title": "Error",
+  "description": "* extends: [Exception]",
+  "source": "@site/docs/api/class-error.mdx",
+  "slug": "/api/class-error",
+  "permalink": "/python/docs/next/api/class-error",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "ElementHandle",
+    "permalink": "/python/docs/next/api/class-elementhandle"
+  },
+  "next": {
+    "title": "FileChooser",
+    "permalink": "/python/docs/next/api/class-filechooser"
+  }
+}
