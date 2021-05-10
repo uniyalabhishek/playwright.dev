@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-selectors",
+  "id": "version-1.11.0/api/class-selectors",
+  "isDocsHomePage": false,
+  "title": "Selectors",
+  "description": "Selectors can be used to install custom selector engines. See Working with selectors for more information.",
+  "source": "@site/versioned_docs/version-1.11.0/api/class-selectors.mdx",
+  "slug": "/api/class-selectors",
+  "permalink": "/java/docs/api/class-selectors",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/api",
+  "previous": {
+    "title": "Route",
+    "permalink": "/java/docs/api/class-route"
+  },
+  "next": {
+    "title": "TimeoutError",
+    "permalink": "/java/docs/api/class-timeouterror"
+  }
+}

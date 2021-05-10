@@ -1,0 +1,11 @@
+{
+  "unversionedId": "mobile",
+  "id": "version-1.11.0/mobile",
+  "isDocsHomePage": false,
+  "title": "Mobile (experimental)",
+  "description": "- Requirements",
+  "source": "@site/versioned_docs/version-1.11.0/mobile.mdx",
+  "slug": "/mobile",
+  "permalink": "/java/docs/mobile",
+  "version": "1.11.0"
+}

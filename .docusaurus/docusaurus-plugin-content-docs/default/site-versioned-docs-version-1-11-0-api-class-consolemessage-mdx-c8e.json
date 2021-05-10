@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-consolemessage",
+  "id": "version-1.11.0/api/class-consolemessage",
+  "isDocsHomePage": false,
+  "title": "ConsoleMessage",
+  "description": "ConsoleMessage] objects are dispatched by page via the [Page.onConsoleMessage(handler) event.",
+  "source": "@site/versioned_docs/version-1.11.0/api/class-consolemessage.mdx",
+  "slug": "/api/class-consolemessage",
+  "permalink": "/java/docs/api/class-consolemessage",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/api",
+  "previous": {
+    "title": "BrowserType",
+    "permalink": "/java/docs/api/class-browsertype"
+  },
+  "next": {
+    "title": "Dialog",
+    "permalink": "/java/docs/api/class-dialog"
+  }
+}

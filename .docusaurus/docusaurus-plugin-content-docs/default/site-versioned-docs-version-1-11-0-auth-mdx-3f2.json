@@ -1,0 +1,20 @@
+{
+  "unversionedId": "auth",
+  "id": "version-1.11.0/auth",
+  "isDocsHomePage": false,
+  "title": "Authentication",
+  "description": "Playwright can be used to automate scenarios that require authentication.",
+  "source": "@site/versioned_docs/version-1.11.0/auth.mdx",
+  "slug": "/auth",
+  "permalink": "/java/docs/auth",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/java/docs/assertions"
+  },
+  "next": {
+    "title": "Browsers",
+    "permalink": "/java/docs/browsers"
+  }
+}

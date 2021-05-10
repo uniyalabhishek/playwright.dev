@@ -1,0 +1,20 @@
+{
+  "unversionedId": "release-notes",
+  "id": "version-1.11.0/release-notes",
+  "isDocsHomePage": false,
+  "title": "Release notes",
+  "description": "- Version 1.11",
+  "source": "@site/versioned_docs/version-1.11.0/release-notes.mdx",
+  "slug": "/release-notes",
+  "permalink": "/java/docs/release-notes",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/docs",
+  "previous": {
+    "title": "Supported languages",
+    "permalink": "/java/docs/languages"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/java/docs/actionability"
+  }
+}

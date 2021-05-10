@@ -1,0 +1,11 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "version-1.11.0/troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "- Browser dependencies",
+  "source": "@site/versioned_docs/version-1.11.0/troubleshooting.mdx",
+  "slug": "/troubleshooting",
+  "permalink": "/java/docs/troubleshooting",
+  "version": "1.11.0"
+}

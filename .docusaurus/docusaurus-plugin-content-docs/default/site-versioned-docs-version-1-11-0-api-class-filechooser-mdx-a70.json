@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-filechooser",
+  "id": "version-1.11.0/api/class-filechooser",
+  "isDocsHomePage": false,
+  "title": "FileChooser",
+  "description": "FileChooser] objects are dispatched by the page in the [Page.onFileChooser(handler) event.",
+  "source": "@site/versioned_docs/version-1.11.0/api/class-filechooser.mdx",
+  "slug": "/api/class-filechooser",
+  "permalink": "/java/docs/api/class-filechooser",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/api",
+  "previous": {
+    "title": "ElementHandle",
+    "permalink": "/java/docs/api/class-elementhandle"
+  },
+  "next": {
+    "title": "Frame",
+    "permalink": "/java/docs/api/class-frame"
+  }
+}

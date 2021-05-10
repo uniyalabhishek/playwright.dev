@@ -1,0 +1,20 @@
+{
+  "unversionedId": "installation",
+  "id": "version-1.11.0/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "- Managing browser binaries",
+  "source": "@site/versioned_docs/version-1.11.0/installation.mdx",
+  "slug": "/installation",
+  "permalink": "/java/docs/installation",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/docs",
+  "previous": {
+    "title": "Inspector",
+    "permalink": "/java/docs/inspector"
+  },
+  "next": {
+    "title": "Multi-page scenarios",
+    "permalink": "/java/docs/multi-pages"
+  }
+}

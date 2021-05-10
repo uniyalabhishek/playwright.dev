@@ -1,0 +1,20 @@
+{
+  "unversionedId": "browsers",
+  "id": "version-1.11.0/browsers",
+  "isDocsHomePage": false,
+  "title": "Browsers",
+  "description": "Each version of Playwright needs specific versions of browser binaries to operate. By default Playwright downloads Chromium, WebKit and Firefox browser versions that it supports. With every release, Playwright updates the versions of the browsers it supports, so that the latest Playwright would support the latest browsers at any moment.",
+  "source": "@site/versioned_docs/version-1.11.0/browsers.mdx",
+  "slug": "/browsers",
+  "permalink": "/java/docs/browsers",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/docs",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/java/docs/auth"
+  },
+  "next": {
+    "title": "Dialogs",
+    "permalink": "/java/docs/dialogs"
+  }
+}

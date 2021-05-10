@@ -1,0 +1,20 @@
+{
+  "unversionedId": "downloads",
+  "id": "version-1.11.0/downloads",
+  "isDocsHomePage": false,
+  "title": "Downloads",
+  "description": "For uploading files, see the uploading files section.",
+  "source": "@site/versioned_docs/version-1.11.0/downloads.mdx",
+  "slug": "/downloads",
+  "permalink": "/java/docs/downloads",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/docs",
+  "previous": {
+    "title": "Dialogs",
+    "permalink": "/java/docs/dialogs"
+  },
+  "next": {
+    "title": "Element selectors",
+    "permalink": "/java/docs/selectors"
+  }
+}

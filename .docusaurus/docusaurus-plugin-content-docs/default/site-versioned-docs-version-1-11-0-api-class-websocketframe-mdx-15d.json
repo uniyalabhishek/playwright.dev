@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-websocketframe",
+  "id": "version-1.11.0/api/class-websocketframe",
+  "isDocsHomePage": false,
+  "title": "WebSocketFrame",
+  "description": "The WebSocketFrame] class represents frames sent over [WebSocket] connections in the page. Frame payload is returned by either [WebSocketFrame.text() or WebSocketFrame.binary() method depending on the its type.",
+  "source": "@site/versioned_docs/version-1.11.0/api/class-websocketframe.mdx",
+  "slug": "/api/class-websocketframe",
+  "permalink": "/java/docs/api/class-websocketframe",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/api",
+  "previous": {
+    "title": "WebSocket",
+    "permalink": "/java/docs/api/class-websocket"
+  },
+  "next": {
+    "title": "Worker",
+    "permalink": "/java/docs/api/class-worker"
+  }
+}

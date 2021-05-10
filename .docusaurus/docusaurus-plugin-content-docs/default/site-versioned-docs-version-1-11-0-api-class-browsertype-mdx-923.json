@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browsertype",
+  "id": "version-1.11.0/api/class-browsertype",
+  "isDocsHomePage": false,
+  "title": "BrowserType",
+  "description": "BrowserType provides methods to launch a specific browser instance or connect to an existing one. The following is a typical example of using Playwright to drive automation:",
+  "source": "@site/versioned_docs/version-1.11.0/api/class-browsertype.mdx",
+  "slug": "/api/class-browsertype",
+  "permalink": "/java/docs/api/class-browsertype",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/api",
+  "previous": {
+    "title": "BrowserContext",
+    "permalink": "/java/docs/api/class-browsercontext"
+  },
+  "next": {
+    "title": "ConsoleMessage",
+    "permalink": "/java/docs/api/class-consolemessage"
+  }
+}

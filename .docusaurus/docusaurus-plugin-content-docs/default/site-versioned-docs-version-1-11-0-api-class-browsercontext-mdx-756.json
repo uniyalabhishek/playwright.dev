@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-browsercontext",
+  "id": "version-1.11.0/api/class-browsercontext",
+  "isDocsHomePage": false,
+  "title": "BrowserContext",
+  "description": "BrowserContexts provide a way to operate multiple independent browser sessions.",
+  "source": "@site/versioned_docs/version-1.11.0/api/class-browsercontext.mdx",
+  "slug": "/api/class-browsercontext",
+  "permalink": "/java/docs/api/class-browsercontext",
+  "version": "1.11.0",
+  "sidebar": "version-1.11.0/api",
+  "previous": {
+    "title": "Browser",
+    "permalink": "/java/docs/api/class-browser"
+  },
+  "next": {
+    "title": "BrowserType",
+    "permalink": "/java/docs/api/class-browsertype"
+  }
+}
