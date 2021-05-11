@@ -1,0 +1,20 @@
+{
+  "unversionedId": "threading",
+  "id": "threading",
+  "isDocsHomePage": false,
+  "title": "Multithreading",
+  "description": "Multithreading in Playwright Java",
+  "source": "@site/docs/threading.mdx",
+  "slug": "/threading",
+  "permalink": "/java/docs/next/threading",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Page Object Models",
+    "permalink": "/java/docs/next/pom"
+  },
+  "next": {
+    "title": "Verification",
+    "permalink": "/java/docs/next/verification"
+  }
+}
