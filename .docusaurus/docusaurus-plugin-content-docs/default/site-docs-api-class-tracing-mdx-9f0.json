@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/class-tracing",
+  "id": "api/class-tracing",
+  "isDocsHomePage": false,
+  "title": "Tracing",
+  "description": "API for collecting and saving Playwright traces. Playwright traces can be opened using the Playwright CLI after Playwright script runs.",
+  "source": "@site/docs/api/class-tracing.mdx",
+  "slug": "/api/class-tracing",
+  "permalink": "/dotnet/docs/api/class-tracing",
+  "version": "current",
+  "sidebar": "api",
+  "previous": {
+    "title": "Touchscreen",
+    "permalink": "/dotnet/docs/api/class-touchscreen"
+  },
+  "next": {
+    "title": "Video",
+    "permalink": "/dotnet/docs/api/class-video"
+  }
+}
