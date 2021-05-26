@@ -1,1 +1,0 @@
-(self.webpackChunkplaywright_dev=self.webpackChunkplaywright_dev||[]).push([[56411],{66353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Playwright 1.6","permalink":"/blog/hello-world"}]}')}}]);
