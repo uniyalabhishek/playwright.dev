@@ -1,0 +1,20 @@
+{
+  "unversionedId": "test-runner-configuration",
+  "id": "test-runner-configuration",
+  "isDocsHomePage": false,
+  "title": "Configuration",
+  "description": "- Modify options",
+  "source": "@site/docs/test-runner-configuration.mdx",
+  "slug": "/test-runner-configuration",
+  "permalink": "/docs/next/test-runner-configuration",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Playwright Tests",
+    "permalink": "/docs/next/test-runner-intro"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/docs/next/test-runner-examples"
+  }
+}

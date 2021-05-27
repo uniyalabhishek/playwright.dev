@@ -1,0 +1,20 @@
+{
+  "unversionedId": "test-runner-examples",
+  "id": "test-runner-examples",
+  "isDocsHomePage": false,
+  "title": "Examples",
+  "description": "- Multiple pages",
+  "source": "@site/docs/test-runner-examples.mdx",
+  "slug": "/test-runner-examples",
+  "permalink": "/docs/next/test-runner-examples",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/next/test-runner-configuration"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/next/docker"
+  }
+}
