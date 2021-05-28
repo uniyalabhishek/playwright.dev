@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-cli",
+  "id": "test-cli",
+  "isDocsHomePage": false,
+  "title": "Command Line",
+  "description": "`sh",
+  "source": "@site/docs/test-cli.mdx",
+  "slug": "/test-cli",
+  "permalink": "/dotnet/docs/test-cli",
+  "version": "current"
+}

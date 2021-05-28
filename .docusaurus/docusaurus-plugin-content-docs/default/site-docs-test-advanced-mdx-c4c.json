@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-advanced",
+  "id": "test-advanced",
+  "isDocsHomePage": false,
+  "title": "Advanced Configuration",
+  "description": "- Projects",
+  "source": "@site/docs/test-advanced.mdx",
+  "slug": "/test-advanced",
+  "permalink": "/dotnet/docs/test-advanced",
+  "version": "current"
+}

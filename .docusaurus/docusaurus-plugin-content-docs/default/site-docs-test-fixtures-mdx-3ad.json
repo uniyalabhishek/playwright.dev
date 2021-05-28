@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-fixtures",
+  "id": "test-fixtures",
+  "isDocsHomePage": false,
+  "title": "Fixtures",
+  "description": "- Introduction to fixtures",
+  "source": "@site/docs/test-fixtures.mdx",
+  "slug": "/test-fixtures",
+  "permalink": "/dotnet/docs/test-fixtures",
+  "version": "current"
+}

@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-examples",
+  "id": "test-examples",
+  "isDocsHomePage": false,
+  "title": "Examples",
+  "description": "- Multiple pages",
+  "source": "@site/docs/test-examples.mdx",
+  "slug": "/test-examples",
+  "permalink": "/dotnet/docs/test-examples",
+  "version": "current"
+}

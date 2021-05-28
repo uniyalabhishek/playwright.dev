@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-configuration",
+  "id": "test-configuration",
+  "isDocsHomePage": false,
+  "title": "Configuration",
+  "description": "- Configuration object",
+  "source": "@site/docs/test-configuration.mdx",
+  "slug": "/test-configuration",
+  "permalink": "/dotnet/docs/test-configuration",
+  "version": "current"
+}

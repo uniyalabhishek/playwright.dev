@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-annotations",
+  "id": "test-annotations",
+  "isDocsHomePage": false,
+  "title": "Annotations",
+  "description": "Sadly, tests do not always pass. Playwright Test supports test annotations to deal with failures, flakiness and tests that are not yet ready.",
+  "source": "@site/docs/test-annotations.mdx",
+  "slug": "/test-annotations",
+  "permalink": "/dotnet/docs/test-annotations",
+  "version": "current"
+}

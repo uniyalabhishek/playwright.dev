@@ -1,0 +1,11 @@
+{
+  "unversionedId": "test-reporters",
+  "id": "test-reporters",
+  "isDocsHomePage": false,
+  "title": "Reporters",
+  "description": "- Using reporters",
+  "source": "@site/docs/test-reporters.mdx",
+  "slug": "/test-reporters",
+  "permalink": "/dotnet/docs/test-reporters",
+  "version": "current"
+}
