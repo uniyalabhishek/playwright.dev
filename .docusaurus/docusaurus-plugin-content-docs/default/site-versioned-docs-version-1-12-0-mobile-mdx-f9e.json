@@ -1,0 +1,16 @@
+{
+  "unversionedId": "mobile",
+  "id": "version-1.12.0/mobile",
+  "isDocsHomePage": false,
+  "title": "Mobile (experimental)",
+  "description": "- Requirements",
+  "source": "@site/versioned_docs/version-1.12.0/mobile.mdx",
+  "sourceDirName": ".",
+  "slug": "/mobile",
+  "permalink": "/dotnet/docs/mobile",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "mobile",
+    "title": "Mobile (experimental)"
+  }
+}

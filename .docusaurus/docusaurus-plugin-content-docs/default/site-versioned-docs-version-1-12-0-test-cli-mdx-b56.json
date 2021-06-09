@@ -1,0 +1,16 @@
+{
+  "unversionedId": "test-cli",
+  "id": "version-1.12.0/test-cli",
+  "isDocsHomePage": false,
+  "title": "Advanced: command line",
+  "description": "`bash",
+  "source": "@site/versioned_docs/version-1.12.0/test-cli.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-cli",
+  "permalink": "/dotnet/docs/test-cli",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "test-cli",
+    "title": "Advanced: command line"
+  }
+}

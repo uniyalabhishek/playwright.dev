@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-timeouterror",
+  "id": "version-1.12.0/api/class-timeouterror",
+  "isDocsHomePage": false,
+  "title": "TimeoutError",
+  "description": "* extends: [Error]",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-timeouterror.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-timeouterror",
+  "permalink": "/dotnet/docs/api/class-timeouterror",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-timeouterror",
+    "title": "TimeoutError"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Selectors",
+    "permalink": "/dotnet/docs/api/class-selectors"
+  },
+  "next": {
+    "title": "Touchscreen",
+    "permalink": "/dotnet/docs/api/class-touchscreen"
+  }
+}

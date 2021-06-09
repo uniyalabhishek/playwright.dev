@@ -1,0 +1,25 @@
+{
+  "unversionedId": "trace-viewer",
+  "id": "version-1.12.0/trace-viewer",
+  "isDocsHomePage": false,
+  "title": "Trace Viewer",
+  "description": "Playwright Trace Viewer is a GUI tool that helps exploring recorded Playwright traces after the script ran.",
+  "source": "@site/versioned_docs/version-1.12.0/trace-viewer.mdx",
+  "sourceDirName": ".",
+  "slug": "/trace-viewer",
+  "permalink": "/dotnet/docs/trace-viewer",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "trace-viewer",
+    "title": "Trace Viewer"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Screenshots",
+    "permalink": "/dotnet/docs/screenshots"
+  },
+  "next": {
+    "title": "Verification",
+    "permalink": "/dotnet/docs/verification"
+  }
+}

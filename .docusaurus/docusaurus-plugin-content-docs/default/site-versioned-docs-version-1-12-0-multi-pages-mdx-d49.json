@@ -1,0 +1,25 @@
+{
+  "unversionedId": "multi-pages",
+  "id": "version-1.12.0/multi-pages",
+  "isDocsHomePage": false,
+  "title": "Multi-page scenarios",
+  "description": "Playwright can automate scenarios that span multiple browser contexts or multiple tabs in a browser window.",
+  "source": "@site/versioned_docs/version-1.12.0/multi-pages.mdx",
+  "sourceDirName": ".",
+  "slug": "/multi-pages",
+  "permalink": "/dotnet/docs/multi-pages",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "multi-pages",
+    "title": "Multi-page scenarios"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/dotnet/docs/installation"
+  },
+  "next": {
+    "title": "Navigations",
+    "permalink": "/dotnet/docs/navigations"
+  }
+}

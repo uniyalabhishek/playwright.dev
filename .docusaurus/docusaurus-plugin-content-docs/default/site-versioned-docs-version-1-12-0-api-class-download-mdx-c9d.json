@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-download",
+  "id": "version-1.12.0/api/class-download",
+  "isDocsHomePage": false,
+  "title": "Download",
+  "description": "Download] objects are dispatched by page via the [event Page.Download event.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-download.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-download",
+  "permalink": "/dotnet/docs/api/class-download",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-download",
+    "title": "Download"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Dialog",
+    "permalink": "/dotnet/docs/api/class-dialog"
+  },
+  "next": {
+    "title": "ElementHandle",
+    "permalink": "/dotnet/docs/api/class-elementhandle"
+  }
+}

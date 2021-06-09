@@ -1,0 +1,25 @@
+{
+  "unversionedId": "release-notes",
+  "id": "version-1.12.0/release-notes",
+  "isDocsHomePage": false,
+  "title": "Release notes",
+  "description": "- Version 1.12",
+  "source": "@site/versioned_docs/version-1.12.0/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/dotnet/docs/release-notes",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "release-notes",
+    "title": "Release notes"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Supported languages",
+    "permalink": "/dotnet/docs/languages"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/dotnet/docs/test-runners"
+  }
+}

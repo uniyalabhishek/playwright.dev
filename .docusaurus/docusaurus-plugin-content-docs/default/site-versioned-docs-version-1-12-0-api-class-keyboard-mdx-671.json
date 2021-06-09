@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-keyboard",
+  "id": "version-1.12.0/api/class-keyboard",
+  "isDocsHomePage": false,
+  "title": "Keyboard",
+  "description": "Keyboard provides an api for managing a virtual keyboard. The high level api is Keyboard.TypeAsync(text, options), which takes raw characters and generates proper keydown, keypress/input, and keyup events on your page.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-keyboard.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-keyboard",
+  "permalink": "/dotnet/docs/api/class-keyboard",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-keyboard",
+    "title": "Keyboard"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "JSHandle",
+    "permalink": "/dotnet/docs/api/class-jshandle"
+  },
+  "next": {
+    "title": "Mouse",
+    "permalink": "/dotnet/docs/api/class-mouse"
+  }
+}

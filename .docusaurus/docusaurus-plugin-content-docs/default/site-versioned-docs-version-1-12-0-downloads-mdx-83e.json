@@ -1,0 +1,25 @@
+{
+  "unversionedId": "downloads",
+  "id": "version-1.12.0/downloads",
+  "isDocsHomePage": false,
+  "title": "Downloads",
+  "description": "For uploading files, see the uploading files section.",
+  "source": "@site/versioned_docs/version-1.12.0/downloads.mdx",
+  "sourceDirName": ".",
+  "slug": "/downloads",
+  "permalink": "/dotnet/docs/downloads",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "downloads",
+    "title": "Downloads"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Dialogs",
+    "permalink": "/dotnet/docs/dialogs"
+  },
+  "next": {
+    "title": "Element selectors",
+    "permalink": "/dotnet/docs/selectors"
+  }
+}

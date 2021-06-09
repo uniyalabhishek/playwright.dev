@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-coverage",
+  "id": "version-1.12.0/api/class-coverage",
+  "isDocsHomePage": false,
+  "title": "Coverage",
+  "description": "Coverage gathers information about parts of JavaScript and CSS that were used by the page.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-coverage.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-coverage",
+  "permalink": "/docs/api/class-coverage",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-coverage",
+    "title": "Coverage"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "ConsoleMessage",
+    "permalink": "/docs/api/class-consolemessage"
+  },
+  "next": {
+    "title": "Dialog",
+    "permalink": "/docs/api/class-dialog"
+  }
+}

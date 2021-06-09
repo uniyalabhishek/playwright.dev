@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-filechooser",
+  "id": "version-1.12.0/api/class-filechooser",
+  "isDocsHomePage": false,
+  "title": "FileChooser",
+  "description": "FileChooser] objects are dispatched by the page in the [event Page.FileChooser event.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-filechooser.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-filechooser",
+  "permalink": "/dotnet/docs/api/class-filechooser",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-filechooser",
+    "title": "FileChooser"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "ElementHandle",
+    "permalink": "/dotnet/docs/api/class-elementhandle"
+  },
+  "next": {
+    "title": "Frame",
+    "permalink": "/dotnet/docs/api/class-frame"
+  }
+}

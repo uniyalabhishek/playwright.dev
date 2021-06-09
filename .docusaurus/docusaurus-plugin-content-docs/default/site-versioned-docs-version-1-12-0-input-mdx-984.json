@@ -1,0 +1,25 @@
+{
+  "unversionedId": "input",
+  "id": "version-1.12.0/input",
+  "isDocsHomePage": false,
+  "title": "Input",
+  "description": "- Text input",
+  "source": "@site/versioned_docs/version-1.12.0/input.mdx",
+  "sourceDirName": ".",
+  "slug": "/input",
+  "permalink": "/dotnet/docs/input",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "input",
+    "title": "Input"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Extensibility",
+    "permalink": "/dotnet/docs/extensibility"
+  },
+  "next": {
+    "title": "Inspector",
+    "permalink": "/dotnet/docs/inspector"
+  }
+}

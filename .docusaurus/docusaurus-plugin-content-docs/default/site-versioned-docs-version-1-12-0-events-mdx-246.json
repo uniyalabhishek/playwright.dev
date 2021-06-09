@@ -1,0 +1,25 @@
+{
+  "unversionedId": "events",
+  "id": "version-1.12.0/events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "Playwright allows listening to various types of events happening in the web page, such as network requests, creation of child pages, dedicated workers etc. There are several ways to subscribe to such events:",
+  "source": "@site/versioned_docs/version-1.12.0/events.mdx",
+  "sourceDirName": ".",
+  "slug": "/events",
+  "permalink": "/dotnet/docs/events",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "events",
+    "title": "Events"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Emulation",
+    "permalink": "/dotnet/docs/emulation"
+  },
+  "next": {
+    "title": "Extensibility",
+    "permalink": "/dotnet/docs/extensibility"
+  }
+}

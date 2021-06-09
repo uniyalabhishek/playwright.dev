@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dialogs",
+  "id": "version-1.12.0/dialogs",
+  "isDocsHomePage": false,
+  "title": "Dialogs",
+  "description": "Playwright can interact with the web page dialogs such as alert, confirm, prompt as well as beforeunload confirmation.",
+  "source": "@site/versioned_docs/version-1.12.0/dialogs.mdx",
+  "sourceDirName": ".",
+  "slug": "/dialogs",
+  "permalink": "/dotnet/docs/dialogs",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "dialogs",
+    "title": "Dialogs"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Browsers",
+    "permalink": "/dotnet/docs/browsers"
+  },
+  "next": {
+    "title": "Downloads",
+    "permalink": "/dotnet/docs/downloads"
+  }
+}

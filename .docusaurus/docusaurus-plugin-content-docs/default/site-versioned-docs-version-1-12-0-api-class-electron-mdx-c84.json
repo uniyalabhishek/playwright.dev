@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-electron",
+  "id": "version-1.12.0/api/class-electron",
+  "isDocsHomePage": false,
+  "title": "Electron",
+  "description": "Playwright has experimental support for Electron automation. You can access electron namespace via:",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-electron.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-electron",
+  "permalink": "/docs/api/class-electron",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-electron",
+    "title": "Electron"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "AndroidWebView",
+    "permalink": "/docs/api/class-androidwebview"
+  },
+  "next": {
+    "title": "ElectronApplication",
+    "permalink": "/docs/api/class-electronapplication"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-jshandle",
+  "id": "version-1.12.0/api/class-jshandle",
+  "isDocsHomePage": false,
+  "title": "JSHandle",
+  "description": "JSHandle represents an in-page JavaScript object. JSHandles can be created with the Page.EvaluateHandleAsync(expression, arg) method.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-jshandle.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-jshandle",
+  "permalink": "/dotnet/docs/api/class-jshandle",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-jshandle",
+    "title": "JSHandle"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Frame",
+    "permalink": "/dotnet/docs/api/class-frame"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/dotnet/docs/api/class-keyboard"
+  }
+}

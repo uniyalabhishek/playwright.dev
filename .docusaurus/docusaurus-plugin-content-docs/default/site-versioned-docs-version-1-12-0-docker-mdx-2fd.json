@@ -1,0 +1,25 @@
+{
+  "unversionedId": "docker",
+  "id": "version-1.12.0/docker",
+  "isDocsHomePage": false,
+  "title": "Docker",
+  "description": "[Dockerfile.focal] can be used to run Playwright scripts in Docker environment. These image includes all the dependencies needed to run browsers in a Docker container, and also include the browsers themselves.",
+  "source": "@site/versioned_docs/version-1.12.0/docker.mdx",
+  "sourceDirName": ".",
+  "slug": "/docker",
+  "permalink": "/dotnet/docs/docker",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "docker",
+    "title": "Docker"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Videos",
+    "permalink": "/dotnet/docs/videos"
+  },
+  "next": {
+    "title": "Continuous Integration",
+    "permalink": "/dotnet/docs/ci"
+  }
+}

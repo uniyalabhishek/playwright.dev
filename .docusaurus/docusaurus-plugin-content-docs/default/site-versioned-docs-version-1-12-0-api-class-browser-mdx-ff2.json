@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-browser",
+  "id": "version-1.12.0/api/class-browser",
+  "isDocsHomePage": false,
+  "title": "Browser",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-browser.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-browser",
+  "permalink": "/dotnet/docs/api/class-browser",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-browser",
+    "title": "Browser"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/dotnet/docs/api/class-playwright"
+  },
+  "next": {
+    "title": "BrowserContext",
+    "permalink": "/dotnet/docs/api/class-browsercontext"
+  }
+}

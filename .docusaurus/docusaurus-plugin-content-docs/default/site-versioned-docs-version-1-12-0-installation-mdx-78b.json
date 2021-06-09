@@ -1,0 +1,25 @@
+{
+  "unversionedId": "installation",
+  "id": "version-1.12.0/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "- Managing browser binaries",
+  "source": "@site/versioned_docs/version-1.12.0/installation.mdx",
+  "sourceDirName": ".",
+  "slug": "/installation",
+  "permalink": "/dotnet/docs/installation",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "installation",
+    "title": "Installation"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Inspector",
+    "permalink": "/dotnet/docs/inspector"
+  },
+  "next": {
+    "title": "Multi-page scenarios",
+    "permalink": "/dotnet/docs/multi-pages"
+  }
+}

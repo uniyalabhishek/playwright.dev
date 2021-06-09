@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-cdpsession",
+  "id": "version-1.12.0/api/class-cdpsession",
+  "isDocsHomePage": false,
+  "title": "CDPSession",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-cdpsession.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-cdpsession",
+  "permalink": "/python/docs/api/class-cdpsession",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-cdpsession",
+    "title": "CDPSession"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "BrowserType",
+    "permalink": "/python/docs/api/class-browsertype"
+  },
+  "next": {
+    "title": "ConsoleMessage",
+    "permalink": "/python/docs/api/class-consolemessage"
+  }
+}

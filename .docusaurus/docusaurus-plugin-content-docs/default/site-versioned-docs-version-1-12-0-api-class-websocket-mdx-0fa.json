@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-websocket",
+  "id": "version-1.12.0/api/class-websocket",
+  "isDocsHomePage": false,
+  "title": "WebSocket",
+  "description": "The [WebSocket] class represents websocket connections in the page.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-websocket.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-websocket",
+  "permalink": "/dotnet/docs/api/class-websocket",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-websocket",
+    "title": "WebSocket"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Video",
+    "permalink": "/dotnet/docs/api/class-video"
+  },
+  "next": {
+    "title": "WebSocketFrame",
+    "permalink": "/dotnet/docs/api/class-websocketframe"
+  }
+}

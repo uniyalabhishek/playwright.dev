@@ -1,0 +1,16 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "version-1.12.0/troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "- Browser dependencies",
+  "source": "@site/versioned_docs/version-1.12.0/troubleshooting.mdx",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting",
+  "permalink": "/dotnet/docs/troubleshooting",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "troubleshooting",
+    "title": "Troubleshooting"
+  }
+}

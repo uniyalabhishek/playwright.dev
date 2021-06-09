@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-accessibility",
+  "id": "version-1.12.0/api/class-accessibility",
+  "isDocsHomePage": false,
+  "title": "Accessibility",
+  "description": "The Accessibility class provides methods for inspecting Chromium's accessibility tree. The accessibility tree is used by assistive technology such as screen readers or switches.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-accessibility.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-accessibility",
+  "permalink": "/dotnet/docs/api/class-accessibility",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-accessibility",
+    "title": "Accessibility"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-browsercontext",
+  "id": "version-1.12.0/api/class-browsercontext",
+  "isDocsHomePage": false,
+  "title": "BrowserContext",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-browsercontext.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-browsercontext",
+  "permalink": "/dotnet/docs/api/class-browsercontext",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-browsercontext",
+    "title": "BrowserContext"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Browser",
+    "permalink": "/dotnet/docs/api/class-browser"
+  },
+  "next": {
+    "title": "BrowserType",
+    "permalink": "/dotnet/docs/api/class-browsertype"
+  }
+}

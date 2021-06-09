@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-runners",
+  "id": "version-1.12.0/test-runners",
+  "isDocsHomePage": false,
+  "title": "Test Runners",
+  "description": "With a few lines of code, you can hook up Playwright to your favorite .NET test runner.",
+  "source": "@site/versioned_docs/version-1.12.0/test-runners.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-runners",
+  "permalink": "/dotnet/docs/test-runners",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "test-runners",
+    "title": "Test Runners"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Release notes",
+    "permalink": "/dotnet/docs/release-notes"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/dotnet/docs/actionability"
+  }
+}

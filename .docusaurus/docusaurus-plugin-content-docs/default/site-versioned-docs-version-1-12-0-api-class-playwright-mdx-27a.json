@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-playwright",
+  "id": "version-1.12.0/api/class-playwright",
+  "isDocsHomePage": false,
+  "title": "Playwright",
+  "description": "Playwright module provides a method to launch a browser instance. The following is a typical example of using Playwright to drive automation:",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-playwright.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-playwright",
+  "permalink": "/dotnet/docs/api/class-playwright",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-playwright",
+    "title": "Playwright"
+  },
+  "sidebar": "version-1.12.0/api",
+  "next": {
+    "title": "Browser",
+    "permalink": "/dotnet/docs/api/class-browser"
+  }
+}

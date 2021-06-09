@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-page",
+  "id": "version-1.12.0/api/class-page",
+  "isDocsHomePage": false,
+  "title": "Page",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-page.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-page",
+  "permalink": "/dotnet/docs/api/class-page",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-page",
+    "title": "Page"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "Mouse",
+    "permalink": "/dotnet/docs/api/class-mouse"
+  },
+  "next": {
+    "title": "Request",
+    "permalink": "/dotnet/docs/api/class-request"
+  }
+}

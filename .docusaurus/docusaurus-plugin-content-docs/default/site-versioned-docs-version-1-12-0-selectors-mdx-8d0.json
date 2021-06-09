@@ -1,0 +1,25 @@
+{
+  "unversionedId": "selectors",
+  "id": "version-1.12.0/selectors",
+  "isDocsHomePage": false,
+  "title": "Element selectors",
+  "description": "Selectors are strings that point to the elements in the page. They are used to perform actions on those elements by means of methods such as Page.ClickAsync(selector, options), Page.FillAsync(selector, value, options) and alike. All those methods accept selector as their first argument.",
+  "source": "@site/versioned_docs/version-1.12.0/selectors.mdx",
+  "sourceDirName": ".",
+  "slug": "/selectors",
+  "permalink": "/dotnet/docs/selectors",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "selectors",
+    "title": "Element selectors"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Downloads",
+    "permalink": "/dotnet/docs/downloads"
+  },
+  "next": {
+    "title": "Emulation",
+    "permalink": "/dotnet/docs/emulation"
+  }
+}

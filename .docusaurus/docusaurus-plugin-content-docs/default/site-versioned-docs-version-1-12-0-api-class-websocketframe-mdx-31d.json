@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-websocketframe",
+  "id": "version-1.12.0/api/class-websocketframe",
+  "isDocsHomePage": false,
+  "title": "WebSocketFrame",
+  "description": "The WebSocketFrame] class represents frames sent over [WebSocket] connections in the page. Frame payload is returned by either [WebSocketFrame.Text or WebSocketFrame.Binary method depending on the its type.",
+  "source": "@site/versioned_docs/version-1.12.0/api/class-websocketframe.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-websocketframe",
+  "permalink": "/dotnet/docs/api/class-websocketframe",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "class-websocketframe",
+    "title": "WebSocketFrame"
+  },
+  "sidebar": "version-1.12.0/api",
+  "previous": {
+    "title": "WebSocket",
+    "permalink": "/dotnet/docs/api/class-websocket"
+  },
+  "next": {
+    "title": "Worker",
+    "permalink": "/dotnet/docs/api/class-worker"
+  }
+}

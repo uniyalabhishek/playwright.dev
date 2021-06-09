@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ci",
+  "id": "version-1.12.0/ci",
+  "isDocsHomePage": false,
+  "title": "Continuous Integration",
+  "description": "Playwright tests can be executed in CI environments. We have created sample configurations for common CI providers.",
+  "source": "@site/versioned_docs/version-1.12.0/ci.mdx",
+  "sourceDirName": ".",
+  "slug": "/ci",
+  "permalink": "/dotnet/docs/ci",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "ci",
+    "title": "Continuous Integration"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/dotnet/docs/docker"
+  }
+}

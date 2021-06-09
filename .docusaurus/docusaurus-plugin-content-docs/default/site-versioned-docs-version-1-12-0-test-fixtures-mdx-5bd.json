@@ -1,0 +1,16 @@
+{
+  "unversionedId": "test-fixtures",
+  "id": "version-1.12.0/test-fixtures",
+  "isDocsHomePage": false,
+  "title": "Advanced: fixtures",
+  "description": "- Introduction to fixtures",
+  "source": "@site/versioned_docs/version-1.12.0/test-fixtures.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-fixtures",
+  "permalink": "/dotnet/docs/test-fixtures",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "test-fixtures",
+    "title": "Advanced: fixtures"
+  }
+}

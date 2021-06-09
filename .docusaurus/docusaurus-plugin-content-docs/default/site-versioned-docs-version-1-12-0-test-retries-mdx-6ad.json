@@ -1,0 +1,16 @@
+{
+  "unversionedId": "test-retries",
+  "id": "version-1.12.0/test-retries",
+  "isDocsHomePage": false,
+  "title": "Test retry",
+  "description": "Playwright Test will retry tests if they failed. Pass the maximum number of retries when running the tests, or set them in the configuration file.",
+  "source": "@site/versioned_docs/version-1.12.0/test-retries.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-retries",
+  "permalink": "/dotnet/docs/test-retries",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "test-retries",
+    "title": "Test retry"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "network",
+  "id": "version-1.12.0/network",
+  "isDocsHomePage": false,
+  "title": "Network",
+  "description": "Playwright provides APIs to monitor and modify network traffic, both HTTP and HTTPS. Any requests that page does, including XHRs and fetch requests, can be tracked, modified and handled.",
+  "source": "@site/versioned_docs/version-1.12.0/network.mdx",
+  "sourceDirName": ".",
+  "slug": "/network",
+  "permalink": "/dotnet/docs/network",
+  "version": "1.12.0",
+  "frontMatter": {
+    "id": "network",
+    "title": "Network"
+  },
+  "sidebar": "version-1.12.0/docs",
+  "previous": {
+    "title": "Navigations",
+    "permalink": "/dotnet/docs/navigations"
+  },
+  "next": {
+    "title": "Page Object Models",
+    "permalink": "/dotnet/docs/pom"
+  }
+}
