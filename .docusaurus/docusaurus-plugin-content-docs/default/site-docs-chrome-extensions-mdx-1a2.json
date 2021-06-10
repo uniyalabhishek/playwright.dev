@@ -1,0 +1,16 @@
+{
+  "unversionedId": "chrome-extensions",
+  "id": "chrome-extensions",
+  "isDocsHomePage": false,
+  "title": "Chrome Extensions",
+  "description": "Extensions only work in Chrome / Chromium in non-headless mode.",
+  "source": "@site/docs/chrome-extensions.mdx",
+  "sourceDirName": ".",
+  "slug": "/chrome-extensions",
+  "permalink": "/dotnet/docs/next/chrome-extensions",
+  "version": "current",
+  "frontMatter": {
+    "id": "chrome-extensions",
+    "title": "Chrome Extensions"
+  }
+}

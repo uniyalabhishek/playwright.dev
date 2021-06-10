@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cheat-sheet",
+  "id": "cheat-sheet",
+  "isDocsHomePage": false,
+  "title": "Cheat Sheet",
+  "description": "- Download & Upload",
+  "source": "@site/docs/cheat-sheet.mdx",
+  "sourceDirName": ".",
+  "slug": "/cheat-sheet",
+  "permalink": "/dotnet/docs/next/cheat-sheet",
+  "version": "current",
+  "frontMatter": {
+    "id": "cheat-sheet",
+    "title": "Cheat Sheet"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Test Runners",
+    "permalink": "/dotnet/docs/next/test-runners"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/dotnet/docs/next/actionability"
+  }
+}
